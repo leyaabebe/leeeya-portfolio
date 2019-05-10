@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="191px" height="517px" viewBox="0 0 191 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cr-ut-steps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.3134 0.709 188.3294 0.709 188.3294 72 0.3134 72"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cr-ut-steps" transform="translate(1.000000, 1.000000)">
+            <g id="Group-5">
+                <path d="M8.4758,0.8843 C8.4758,0.8843 -0.0002,0.8843 -0.0002,9.3603 L-0.0002,67.0863 C-0.0002,67.0863 -0.0002,75.5623 8.4758,75.5623 L180.1678,75.5623 C180.1678,75.5623 188.6438,75.5623 188.6438,67.0863 L188.6438,9.3603 C188.6438,9.3603 188.6438,0.8843 180.1678,0.8843 L8.4758,0.8843 Z" id="Fill-1" fill="#FEFEFE"></path>
+                <path d="M8.4758,0.8843 C8.4758,0.8843 -0.0002,0.8843 -0.0002,9.3603 L-0.0002,67.0863 C-0.0002,67.0863 -0.0002,75.5623 8.4758,75.5623 L180.1678,75.5623 C180.1678,75.5623 188.6438,75.5623 188.6438,67.0863 L188.6438,9.3603 C188.6438,9.3603 188.6438,0.8843 180.1678,0.8843 L8.4758,0.8843 Z" id="Stroke-3" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text id="Add-all-new-simulcasts" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="17.9" font-weight="bold" fill="#000000">
+                <tspan x="19" y="43">Add all new simulcasts</tspan>
+            </text>
+            <g id="Group-10" transform="translate(0.000000, 150.000000)">
+                <path d="M8.4758,0.2539 C8.4758,0.2539 -0.0002,0.2539 -0.0002,8.7299 L-0.0002,63.6959 C-0.0002,63.6959 -0.0002,72.1719 8.4758,72.1719 L180.1678,72.1719 C180.1678,72.1719 188.6438,72.1719 188.6438,63.6959 L188.6438,8.7299 C188.6438,8.7299 188.6438,0.2539 180.1678,0.2539 L8.4758,0.2539 Z" id="Fill-6" fill="#FEFEFE"></path>
+                <path d="M8.4758,0.2539 C8.4758,0.2539 -0.0002,0.2539 -0.0002,8.7299 L-0.0002,63.6959 C-0.0002,63.6959 -0.0002,72.1719 8.4758,72.1719 L180.1678,72.1719 C180.1678,72.1719 188.6438,72.1719 188.6438,63.6959 L188.6438,8.7299 C188.6438,8.7299 188.6438,0.2539 180.1678,0.2539 L8.4758,0.2539 Z" id="Stroke-8" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text id="Go-to-queue" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="17.9" font-weight="bold" fill="#000000">
+                <tspan x="54" y="192">Go to queue</tspan>
+            </text>
+            <g id="Group-13" transform="translate(0.000000, 444.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-12"></g>
+                <path d="M8.7894,0.709 C8.7894,0.709 0.3134,0.709 0.3134,9.185 L0.3134,63.524 C0.3134,63.524 0.3134,72.001 8.7894,72.001 L179.8544,72.001 C179.8544,72.001 188.3294,72.001 188.3294,63.524 L188.3294,9.185 C188.3294,9.185 188.3294,0.709 179.8544,0.709 L8.7894,0.709 Z" id="Fill-11" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+            <text id="Save-list" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="17.9" font-weight="bold" fill="#FEFEFE">
+                <tspan x="67" y="485">Save list</tspan>
+            </text>
+            <g id="Group-18" transform="translate(0.000000, 297.000000)">
+                <path d="M8.4758,-0.0005 C8.4758,-0.0005 -0.0002,-0.0005 -0.0002,8.4755 L-0.0002,63.4415 C-0.0002,63.4415 -0.0002,71.9175 8.4758,71.9175 L180.1678,71.9175 C180.1678,71.9175 188.6438,71.9175 188.6438,63.4415 L188.6438,8.4755 C188.6438,8.4755 188.6438,-0.0005 180.1678,-0.0005 L8.4758,-0.0005 Z" id="Fill-14" fill="#FEFEFE"></path>
+                <path d="M8.4758,-0.0005 C8.4758,-0.0005 -0.0002,-0.0005 -0.0002,8.4755 L-0.0002,63.4415 C-0.0002,63.4415 -0.0002,71.9175 8.4758,71.9175 L180.1678,71.9175 C180.1678,71.9175 188.6438,71.9175 188.6438,63.4415 L188.6438,8.4755 C188.6438,8.4755 188.6438,-0.0005 180.1678,-0.0005 L8.4758,-0.0005 Z" id="Stroke-16" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <text id="Adjust-order-by-genr" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="17.9" font-weight="bold" fill="#000000">
+                <tspan x="23" y="338">Adjust order by genre</tspan>
+            </text>
+            <g id="Group-70" transform="translate(89.000000, 84.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M4.7234,-3.41060513e-13 L4.7234,57.336" id="Stroke-19"></path>
+                <polyline id="Stroke-20" points="9.447 52.2553 4.723 57.3363 -1.70530257e-13 52.2553"></polyline>
+            </g>
+            <g id="Group-72" transform="translate(89.000000, 231.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M4.7234,-1.27897692e-13 L4.7234,57.472" id="Stroke-21"></path>
+                <polyline id="Stroke-22" points="9.447 52.3915 4.723 57.4725 5.68434189e-14 52.3915"></polyline>
+            </g>
+            <g id="Group-73" transform="translate(89.000000, 378.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M4.7233,-1.27897692e-13 L4.7233,57.472" id="Stroke-23"></path>
+                <polyline id="Stroke-24" points="9.447 52.3915 4.723 57.4725 5.68434189e-14 52.3915"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

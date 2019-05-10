@@ -1,0 +1,573 @@
+/* TYPOGRAPHY */
+
+:root {
+	--main-blue:rgb(8,137,228);
+	/*--main-blue:rgb(8,137,228);*/
+	/*--main-blue:#0889E4;*/
+	--main-light-blue:rgb(193,225,248);
+	/*--main-light-blue:#C1E1F8;*/
+	--main-off-white:rgb(250,250,250);
+	/*--main-off-white:#FAFAFA;*/
+	--main-off-black:rgb(51,51,51);
+	/*--main-off-black:#333333;*/
+	--main-white:rgb(255,255,255);
+	/*--main-white:#FFFFFF;*/
+	--main-black:rgb(0,0,0);
+	/*--main-black:#000000;*/
+}
+
+.bg-blue {
+	background-color:var(--main-blue);
+}
+.bg-light-blue {
+	background-color:var(--main-light-blue);
+}
+.bg-off-white {
+	background-color:var(--main-off-white);
+}
+.bg-off-black {
+	background-color:var(--main-off-black);
+}
+.bg-white {
+	background-color:var(--main-white);
+}
+.bg-black {
+	background-color:var(--main-black);
+}
+.txt-blue {
+	color:var(--main-blue);
+}
+.txt-light-blue {
+	color:var(--main-light-blue);
+} 
+.txt-off-white {
+	color:var(--main-off-white);
+}
+.txt-off-black {
+	color:var(--main-off-black);
+}
+.txt-white {
+	color:var(--main-white);
+}
+.txt-black {
+	color:var(--main-black);
+}
+
+@import url("https://use.typekit.net/gvy4ews.css");
+
+/*Mr Eaves Mod OT Book*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Book Italic*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Reg*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Bold Italic*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Light*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Light Italic*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Bold*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Mr Eaves Mod OT Reg Italic*/
+
+@font-face {
+	font-family: 'mr-eaves-modern', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+
+
+/*Museo-sans 300*/
+
+@font-face {
+	font-family: 'museo-sans', serif;
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Museo-sans 500*/
+
+@font-face {
+	font-family: 'museo-sans', serif;
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+/*Museo-sans 700*/
+
+@font-face {
+	font-family: 'museo-sans', serif;
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+/*Museo-sans 900*/
+
+@font-face {
+	font-family:'museo-sans',serif;
+	font-weight:800;
+	font-style:normal;
+	font-display:swap;
+}
+
+/*Museo Sans Display Light*/
+
+@font-face {
+	font-family: museo-sans-display, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+/*Museo Sans Display Black*/
+
+@font-face{
+	font-family: museo-sans-display, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+
+h1,
+h2 {
+	font-family:'museo-sans',serif;
+	padding:0;
+	margin:0;
+}
+
+h3, 
+h4,
+h5,
+h6 {
+	padding:0;
+	margin:0;
+}
+
+h1 {
+	/*font-weight:700;*/
+	font-size:40px;
+	letter-spacing:auto;
+}
+
+p {
+	font-family:'mr-eaves-modern', sans-serif;
+	/*font-weight:400;*/
+	display:inline-block;
+}
+
+.fw-100 { font-weight:100; }
+.fw-300 { font-weight:300; }
+.fw-500 { font-weight:500; }
+.fw-700 { font-weight:700; }
+.fw-900 { font-weight:900; }
+
+
+/* STRUCTURE */
+
+
+* {
+	box-sizing:border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin:0;
+	padding:0;
+	font-family:'mr-eaves-modern',sans-serif;
+	background-color:var(--main-white);
+	cursor:default;
+}
+
+nav {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:92px;
+	background-color:var(--main-blue);
+	color:var(--main-white);
+	display:inline-block;
+	text-align:right;
+	z-index:1000;
+}
+
+#LOGO {
+	display:inline-block;
+	position:fixed;
+	top:30px;
+	left:5%;
+	height:32px;
+}
+
+nav ul {
+	display:inline-block;
+	position:relative;
+	top:24px;
+	right:5%;
+}
+
+nav ul li {
+	display:inline-block;
+	margin-right:16px;
+}
+
+nav ul li:last-child {
+	margin-right:0;
+}
+
+nav ul li a {
+	text-decoration:none;
+	color:var(--main-white);
+	font-family:'museo-sans',serif;
+	font-weight:300;
+	font-size:18px;
+}
+
+nav ul li a.active {
+	font-weight:700;
+}
+
+
+header {
+	width:100%;
+	height:400px;
+	background-color:var(--main-blue);
+	/*background-image: linear-gradient(to bottom, rgba(8,155,228,1), rgba(8,155,228,0));*/
+	color:var(--main-white);
+	text-align:left;
+	padding-top:128px;
+	padding-left:16%;
+	padding-right:16%;
+}
+
+
+header h2 {
+	font-family:'mr-eaves-modern', sans-serif;
+	font-weight:400;
+	font-size:2em;
+}
+
+
+header ul {
+	list-style-type:none;
+	display:inline-block;
+	padding:0;
+	margin-top:32px;
+}
+
+header ul li {
+	display:inline-block;
+	margin-right:32px;
+	font-size:18px;
+}
+
+header ul li a {
+	color:var(--main-white);
+	font-family:'mr-eaves-modern', sans-serif;
+	font-size:16px;
+	font-weight:300;
+	text-decoration:none;
+}
+
+header ul li.active {
+	font-family:'museo-sans',serif;
+	font-weight:700;
+}
+
+section.projects {
+	width:100%;
+	padding-left:4%;
+	padding-right:4%;
+	padding-top:112px;
+}
+
+/* INDIVIDUAL PROJECTS */
+
+article {
+	min-width:300px;
+	min-height:250px;
+	margin-bottom:48px;
+}
+
+article:last-child {
+	margin-bottom:248px;
+}
+
+.img {
+	width:100%;
+	min-height:300px;
+	background-color:#fafafa;
+}
+
+article img {
+	width:80%;
+	margin-left: 8%;
+	margin-top: 6%;
+}
+
+.¢hange {
+	width:35%;
+	margin-left: 30%;
+}
+
+section.projects article a div h2,
+section.projects article a div h3 {
+	display:inline;
+}
+
+section.projects article a div h2 {
+	/*font-size:30px;*/
+	font-family:'museo-sans-display';
+	letter-spacing:1.33px;
+	font-weight:900;
+}
+
+article h3,
+section.filter h4 {
+	font-size:16px;
+	letter-spacing:1.33px;
+	font-weight:400;
+	font-variant:small-caps;
+	margin-top:24px;
+}
+
+article a,
+article a:visited,
+article a:link {
+	text-decoration:none;
+	color:var(--main-off-black);
+}
+
+section.projects article a div h3 {
+	margin:0;
+}
+
+section.projects article a div:nth-child(2) {
+	margin-top:2em;
+}
+/* BUTTONS */
+
+button {
+	height:24px;
+	border:solid 2px var(--main-off-black);
+	border-radius:11px;
+	background-color:transparent;
+	text-align:center;
+	margin-top:24px;
+}
+
+.btn-sm {
+	width:48px;
+}
+
+.btn-lg {
+	width:88px;
+}
+
+button:focus {
+	outline:none;
+}
+
+section.filter {
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	height:112px;
+	background-color:rgba(255,255,255,.8);
+	color:#000000;
+	text-align:center;
+	z-index:1000;
+}
+
+section.filter h4 {
+	margin-top:32px;
+}
+
+section.filter ul {
+	list-style-type:none;
+	font-family:'museo-sans',serif;
+	padding:0;
+	margin:0;
+}
+
+section.filter ul li {
+	display:inline-block;
+	font-size:24px;
+	font-weight:300;
+	margin-left:32px;
+}
+
+section.filter ul li:first-child {
+	margin-left:0;
+}
+
+section.filter ul li.active {
+	font-variant:small-caps;
+	font-weight:700;
+	font-size:32px;
+}
+
+section.about {
+	margin-top:4vh;
+	margin-bottom:4vh;
+}
+
+footer {
+	width:100%;
+	height:88px;
+	background-color:var(--main-black);
+	color:var(--main-white);
+	text-align:center;
+}
+
+footer ul {
+	list-style-type:none;
+	margin-top:32px;
+	padding:0;
+}
+
+footer ul li {
+	display:inline-block;
+	margin-left:32px;
+}
+
+footer ul li:first-child {
+	margin-left:0;
+}
+
+footer ul li.active {
+	font-family:'museo-sans', serif;
+	font-size:18px;
+	font-weight:700;
+}
+
+footer ul li a {
+	color:var(--main-white);
+	font-size:18px;
+	text-decoration:none;
+	font-weight:300;
+}
+
+footer.home {
+	position:fixed;
+	bottom:0;
+	left:0;	
+	opacity:0;
+}
+
+/* using CSS Grid */
+
+.grid {
+	display:grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-column-gap:20px;
+}
+
+/* column widths */
+
+.col {
+	grid-column: span 1;
+}
+
+.col-2 {
+	grid-column: span 2;
+}
+
+.col-3 {
+	grid-column: span 3;
+}
+
+.col-4 {
+	grid-column: span 4;
+}
+
+.col-5 {
+	grid-column: span 5;
+}
+
+.col-6 {
+	grid-column: span 6;
+}
+
+.col-7 {
+	grid-column: span 7;
+}
+
+.col-8 {
+	grid-column: span 8;
+}
+
+.col-9 {
+	grid-column: span 9;
+}
+
+.col-10 {
+	grid-column: span 10;
+}
+
+.col-11 {
+	grid-column: span 11;
+}
+
+.col-12 {
+	grid-column: span 12;
+}

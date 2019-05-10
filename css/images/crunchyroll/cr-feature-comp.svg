@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="624px" viewBox="0 0 491 624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cr-feature-comp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cr-feature-comp" transform="translate(1.000000, 1.000000)">
+            <polygon id="Fill-1" fill="#231F20" points="0.717 52.075 489.349 52.075 489.349 0.717 0.717 0.717"></polygon>
+            <path d="M0.717,87.616 L93.724,87.616 L93.724,52.075 L0.717,52.075 L0.717,87.616 Z M93.724,87.616 L192.63,87.616 L192.63,52.075 L93.724,52.075 L93.724,87.616 Z M192.63,87.616 L291.536,87.616 L291.536,52.075 L192.63,52.075 L192.63,87.616 Z M291.536,87.616 L390.442,87.616 L390.442,52.075 L291.536,52.075 L291.536,87.616 Z M390.443,87.616 L489.349,87.616 L489.349,52.075 L390.443,52.075 L390.443,87.616 Z M0.717,125.181 L93.724,125.181 L93.724,87.617 L0.717,87.617 L0.717,125.181 Z M0.717,162.745 L93.724,162.745 L93.724,125.181 L0.717,125.181 L0.717,162.745 Z M0.717,200.859 L93.724,200.859 L93.724,162.745 L0.717,162.745 L0.717,200.859 Z M0.717,238.422 L93.724,238.422 L93.724,200.858 L0.717,200.858 L0.717,238.422 Z M0.717,275.986 L93.724,275.986 L93.724,238.422 L0.717,238.422 L0.717,275.986 Z M0.717,313.55 L93.724,313.55 L93.724,275.986 L0.717,275.986 L0.717,313.55 Z M0.717,354.761 L93.724,354.761 L93.724,313.55 L0.717,313.55 L0.717,354.761 Z M0.717,392.325 L93.724,392.325 L93.724,354.761 L0.717,354.761 L0.717,392.325 Z M0.717,429.889 L93.724,429.889 L93.724,392.325 L0.717,392.325 L0.717,429.889 Z M0.717,467.453 L93.724,467.453 L93.724,429.889 L0.717,429.889 L0.717,467.453 Z M0.717,505.017 L93.724,505.017 L93.724,467.453 L0.717,467.453 L0.717,505.017 Z M0.717,542.581 L93.724,542.581 L93.724,505.017 L0.717,505.017 L0.717,542.581 Z M0.717,580.145 L93.724,580.145 L93.724,542.581 L0.717,542.581 L0.717,580.145 Z M0.717,621.356 L93.724,621.356 L93.724,580.145 L0.717,580.145 L0.717,621.356 Z" id="Fill-2" fill="#626366"></path>
+            <path d="M93.724,125.181 L192.63,125.181 L192.63,87.617 L93.724,87.617 L93.724,125.181 Z M192.63,125.181 L291.536,125.181 L291.536,87.617 L192.63,87.617 L192.63,125.181 Z M291.536,125.181 L390.442,125.181 L390.442,87.617 L291.536,87.617 L291.536,125.181 Z M390.443,125.181 L489.349,125.181 L489.349,87.617 L390.443,87.617 L390.443,125.181 Z M93.724,200.859 L192.63,200.859 L192.63,162.745 L93.724,162.745 L93.724,200.859 Z M192.63,200.859 L291.536,200.859 L291.536,162.745 L192.63,162.745 L192.63,200.859 Z M291.536,200.859 L390.442,200.859 L390.442,162.745 L291.536,162.745 L291.536,200.859 Z M390.443,200.859 L489.349,200.859 L489.349,162.745 L390.443,162.745 L390.443,200.859 Z M93.724,275.986 L192.63,275.986 L192.63,238.422 L93.724,238.422 L93.724,275.986 Z M192.63,275.986 L291.536,275.986 L291.536,238.422 L192.63,238.422 L192.63,275.986 Z M291.536,275.986 L390.442,275.986 L390.442,238.422 L291.536,238.422 L291.536,275.986 Z M390.443,275.986 L489.349,275.986 L489.349,238.422 L390.443,238.422 L390.443,275.986 Z M93.724,354.761 L192.63,354.761 L192.63,313.55 L93.724,313.55 L93.724,354.761 Z M192.63,354.761 L291.536,354.761 L291.536,313.55 L192.63,313.55 L192.63,354.761 Z M291.536,354.761 L390.442,354.761 L390.442,313.55 L291.536,313.55 L291.536,354.761 Z M390.443,354.761 L489.349,354.761 L489.349,313.55 L390.443,313.55 L390.443,354.761 Z M93.724,429.889 L192.63,429.889 L192.63,392.325 L93.724,392.325 L93.724,429.889 Z M192.63,429.889 L291.536,429.889 L291.536,392.325 L192.63,392.325 L192.63,429.889 Z M291.536,429.889 L390.442,429.889 L390.442,392.325 L291.536,392.325 L291.536,429.889 Z M390.443,429.889 L489.349,429.889 L489.349,392.325 L390.443,392.325 L390.443,429.889 Z M93.724,505.017 L192.63,505.017 L192.63,467.453 L93.724,467.453 L93.724,505.017 Z M192.63,505.017 L291.536,505.017 L291.536,467.453 L192.63,467.453 L192.63,505.017 Z M291.536,505.017 L390.442,505.017 L390.442,467.453 L291.536,467.453 L291.536,505.017 Z M390.443,505.017 L489.349,505.017 L489.349,467.453 L390.443,467.453 L390.443,505.017 Z M93.724,580.145 L192.63,580.145 L192.63,542.581 L93.724,542.581 L93.724,580.145 Z M192.63,580.145 L291.536,580.145 L291.536,542.581 L192.63,542.581 L192.63,580.145 Z M291.536,580.145 L390.442,580.145 L390.442,542.581 L291.536,542.581 L291.536,580.145 Z M390.443,580.145 L489.349,580.145 L489.349,542.581 L390.443,542.581 L390.443,580.145 Z" id="Fill-3" fill="#FEFEFE"></path>
+            <path d="M93.724,162.745 L192.63,162.745 L192.63,125.181 L93.724,125.181 L93.724,162.745 Z M192.63,162.745 L291.536,162.745 L291.536,125.181 L192.63,125.181 L192.63,162.745 Z M291.536,162.745 L390.442,162.745 L390.442,125.181 L291.536,125.181 L291.536,162.745 Z M390.443,162.745 L489.349,162.745 L489.349,125.181 L390.443,125.181 L390.443,162.745 Z M93.724,238.422 L192.63,238.422 L192.63,200.858 L93.724,200.858 L93.724,238.422 Z M192.63,238.422 L291.536,238.422 L291.536,200.858 L192.63,200.858 L192.63,238.422 Z M291.536,238.422 L390.442,238.422 L390.442,200.858 L291.536,200.858 L291.536,238.422 Z M390.443,238.422 L489.349,238.422 L489.349,200.858 L390.443,200.858 L390.443,238.422 Z M93.724,313.55 L192.63,313.55 L192.63,275.986 L93.724,275.986 L93.724,313.55 Z M192.63,313.55 L291.536,313.55 L291.536,275.986 L192.63,275.986 L192.63,313.55 Z M291.536,313.55 L390.442,313.55 L390.442,275.986 L291.536,275.986 L291.536,313.55 Z M390.443,313.55 L489.349,313.55 L489.349,275.986 L390.443,275.986 L390.443,313.55 Z M93.724,392.325 L192.63,392.325 L192.63,354.761 L93.724,354.761 L93.724,392.325 Z M192.63,392.325 L291.536,392.325 L291.536,354.761 L192.63,354.761 L192.63,392.325 Z M291.536,392.325 L390.442,392.325 L390.442,354.761 L291.536,354.761 L291.536,392.325 Z M390.443,392.325 L489.349,392.325 L489.349,354.761 L390.443,354.761 L390.443,392.325 Z M93.724,467.453 L192.63,467.453 L192.63,429.889 L93.724,429.889 L93.724,467.453 Z M192.63,467.453 L291.536,467.453 L291.536,429.889 L192.63,429.889 L192.63,467.453 Z M291.536,467.453 L390.442,467.453 L390.442,429.889 L291.536,429.889 L291.536,467.453 Z M390.443,467.453 L489.349,467.453 L489.349,429.889 L390.443,429.889 L390.443,467.453 Z M93.724,542.581 L192.63,542.581 L192.63,505.017 L93.724,505.017 L93.724,542.581 Z M192.63,542.581 L291.536,542.581 L291.536,505.017 L192.63,505.017 L192.63,542.581 Z M291.536,542.581 L390.442,542.581 L390.442,505.017 L291.536,505.017 L291.536,542.581 Z M390.443,542.581 L489.349,542.581 L489.349,505.017 L390.443,505.017 L390.443,542.581 Z M93.724,621.356 L192.63,621.356 L192.63,580.145 L93.724,580.145 L93.724,621.356 Z M192.63,621.356 L291.536,621.356 L291.536,580.145 L192.63,580.145 L192.63,621.356 Z M291.536,621.356 L390.442,621.356 L390.442,580.145 L291.536,580.145 L291.536,621.356 Z M390.443,621.356 L489.349,621.356 L489.349,580.145 L390.443,580.145 L390.443,621.356 Z" id="Fill-4" fill="#F0F0F1"></path>
+            <text id="feature-analysis-between-crunchyroll-and-competitors" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="20.2268" font-weight="bold" letter-spacing="-0.04040824" fill="#FEFEFE">
+                <tspan x="45.3482" y="25.2587065">f</tspan>
+                <tspan x="51.153337" y="25.2587065" letter-spacing="-0.004">e</tspan>
+                <tspan x="59.745727" y="25.2587065" letter-spacing="-0.08086184">a</tspan>
+                <tspan x="69.5759971" y="25.2587065" letter-spacing="-0.1658144">t</tspan>
+                <tspan x="75.5186763" y="25.2587065" letter-spacing="-0.004">u</tspan>
+                <tspan x="85.2842207" y="25.2587065" letter-spacing="0.04049896">r</tspan>
+                <tspan x="91.5545741" y="25.2587065" letter-spacing="0.0769072">e</tspan>
+                <tspan x="100.227871" y="25.2587065" letter-spacing="-0.004"> an</tspan>
+                <tspan x="123.395784" y="25.2587065" letter-spacing="-0.01613608">a</tspan>
+                <tspan x="133.29078" y="25.2587065" letter-spacing="0.04049896">l</tspan>
+                <tspan x="137.983443" y="25.2587065" letter-spacing="-0.03029484">y</tspan>
+                <tspan x="146.225909" y="25.2587065" letter-spacing="0.03240824">s</tspan>
+                <tspan x="153.418605" y="25.2587065" letter-spacing="0.06274844">i</tspan>
+                <tspan x="158.133517" y="25.2587065" letter-spacing="0.0769072">s</tspan>
+                <tspan x="165.370712" y="25.2587065" letter-spacing="-0.004"> </tspan>
+                <tspan x="168.865948" y="25.2587065" letter-spacing="0.03240824">b</tspan>
+                <tspan x="178.809488" y="25.2587065" letter-spacing="-0.1354742">e</tspan>
+                <tspan x="187.270404" y="25.2587065" letter-spacing="0.31760612">t</tspan>
+                <tspan x="193.696504" y="25.2587065" letter-spacing="-0.2264948">w</tspan>
+                <tspan x="205.949945" y="25.2587065" letter-spacing="-0.0343402">e</tspan>
+                <tspan x="214.511994" y="25.2587065" letter-spacing="-0.004">e</tspan>
+                <tspan x="223.104384" y="25.2587065" letter-spacing="0.0769072">n</tspan>
+                <tspan x="232.950836" y="25.2587065" letter-spacing="-0.004"> </tspan>
+                <tspan x="236.446072" y="25.2587065" letter-spacing="0.13556492">c</tspan>
+                <tspan x="244.449862" y="25.2587065" letter-spacing="-0.07277112">r</tspan>
+                <tspan x="250.70808" y="25.2587065" letter-spacing="-0.004">u</tspan>
+                <tspan x="260.473624" y="25.2587065" letter-spacing="-0.03636288">n</tspan>
+                <tspan x="270.206806" y="25.2587065" letter-spacing="0.13556492">c</tspan>
+                <tspan x="278.210596" y="25.2587065" letter-spacing="-0.22447212">h</tspan>
+                <tspan x="287.452266" y="25.2587065" letter-spacing="0.05061236">y</tspan>
+                <tspan x="295.77564" y="25.2587065" letter-spacing="0.07083916">r</tspan>
+                <tspan x="302.076333" y="25.2587065" letter-spacing="0.02431752">o</tspan>
+                <tspan x="311.6477" y="25.2587065" letter-spacing="-0.0444536">l</tspan>
+                <tspan x="316.255411" y="25.2587065" letter-spacing="0.0769072">l</tspan>
+                <tspan x="320.984482" y="25.2587065" letter-spacing="-0.004"> an</tspan>
+                <tspan x="344.152395" y="25.2587065" letter-spacing="0.0769072">d</tspan>
+                <tspan x="354.140434" y="25.2587065" letter-spacing="-0.004"> </tspan>
+                <tspan x="357.63567" y="25.2587065" letter-spacing="0.06274844">c</tspan>
+                <tspan x="365.566644" y="25.2587065" letter-spacing="-0.004">om</tspan>
+                <tspan x="389.466722" y="25.2587065" letter-spacing="0.03240824">p</tspan>
+                <tspan x="399.410262" y="25.2587065" letter-spacing="-0.13345152">e</tspan>
+                <tspan x="407.8732" y="25.2587065" letter-spacing="-0.10108864">t</tspan>
+                <tspan x="413.880605" y="25.2587065" letter-spacing="-0.0747938">i</tspan>
+                <tspan x="418.457975" y="25.2587065" letter-spacing="-0.155701">t</tspan>
+                <tspan x="424.410768" y="25.2587065" letter-spacing="-0.004">o</tspan>
+                <tspan x="433.953818" y="25.2587065" letter-spacing="0.06881648">r</tspan>
+                <tspan x="440.353623" y="25.2587065" letter-spacing="-0.004">s</tspan>
+            </text>
+            <text id="crunchyroll" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" letter-spacing="-0.006" fill="#FEFEFE">
+                <tspan x="109.1262" y="71.062758">c</tspan>
+                <tspan x="115.777723" y="71.062758" letter-spacing="-0.03373968">r</tspan>
+                <tspan x="120.789138" y="71.062758" letter-spacing="0.02694087">u</tspan>
+                <tspan x="128.825911" y="71.062758">nc</tspan>
+                <tspan x="143.481267" y="71.062758" letter-spacing="-0.15683451">h</tspan>
+                <tspan x="151.074206" y="71.062758" letter-spacing="0.09629007">y</tspan>
+                <tspan x="157.810682" y="71.062758" letter-spacing="-0.07708293">r</tspan>
+                <tspan x="162.60538" y="71.062758" letter-spacing="0.06681666">o</tspan>
+                <tspan x="170.855402" y="71.062758">ll</tspan>
+            </text>
+            <text id="funimation" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="207.7581" y="71.062758">funimation</tspan>
+            </text>
+            <text id="kissanime" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="310.533614" y="71.062758">kissanime</tspan>
+            </text>
+            <text id="netlix" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="420.660144" y="71.062758">netlix</tspan>
+            </text>
+            <text id="anime" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="46.191801" y="106.604223">anime</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="109.729971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="109.729971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="339.283008" y="109.729971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="438.191963" y="109.729971">•</tspan>
+            </text>
+            <text id="manga" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="40.3952" y="144.168158">manga</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="147.293971">•</tspan>
+            </text>
+            <text id="random" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" letter-spacing="-0.173373" fill="#FEFEFE">
+                <tspan x="35.5585" y="181.732058">r</tspan>
+                <tspan x="40.2569083" y="181.732058">andom</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="184.857871">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="339.283008" y="184.857871">•</tspan>
+            </text>
+            <text id="blog" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="56.9869" y="219.845958">blog</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="222.971771">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="222.971771">•</tspan>
+            </text>
+            <text id="guides" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="44.1575" y="257.409858">guides</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.3713" y="260.535671">•</tspan>
+            </text>
+            <text id="trending" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="32.2297" y="294.973858">t</tspan>
+                <tspan x="37.084144" y="294.973858" letter-spacing="-0.173373">r</tspan>
+                <tspan x="41.7825523" y="294.973858">ending</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.3713" y="298.099571">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="339.280254" y="298.099571">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="438.189208" y="298.099571">•</tspan>
+            </text>
+            <text id="schedule" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="30.5136" y="332.537758">schedule</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="335.663571">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="335.663571">•</tspan>
+            </text>
+            <text id="moods" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="42.6668" y="373.748658">moods</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.3713" y="376.874471">•</tspan>
+            </text>
+            <text id="games" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="43.62" y="411.312558">games</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.3713" y="414.438371">•</tspan>
+            </text>
+            <text id="news" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="53.6409" y="448.876458">n</tspan>
+                <tspan x="61.6507326" y="448.876458" letter-spacing="-0.173373">e</tspan>
+                <tspan x="68.4989661" y="448.876458">ws</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="452.002271">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="339.283008" y="452.002271">•</tspan>
+            </text>
+            <text id="forum" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="47.348" y="486.440358">forum</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="489.566171">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="489.566171">•</tspan>
+            </text>
+            <text id="event" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" letter-spacing="-0.01" fill="#FEFEFE">
+                <tspan x="51.5082" y="524.004358">ev</tspan>
+                <tspan x="64.9766194" y="524.004358" letter-spacing="0.163373">en</tspan>
+                <tspan x="80.5081775" y="524.004358">t</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.3713" y="527.130171">•</tspan>
+            </text>
+            <text id="store" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="54.1439" y="561.568258">sto</tspan>
+                <tspan x="72.9895451" y="561.568258" letter-spacing="-0.173373">r</tspan>
+                <tspan x="77.6879534" y="561.568258">e</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="564.694071">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="564.694071">•</tspan>
+            </text>
+            <text id="queue" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="17.3373" font-weight="normal" fill="#FEFEFE">
+                <tspan x="46.4286" y="599.132158">queue</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="141.4651" y="602.257971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="240.374054" y="602.257971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="339.283008" y="602.257971">•</tspan>
+            </text>
+            <text id="•" font-family="HWTArtz, HWT Artz" font-size="14.4477" font-style="condensed" font-weight="bold" fill="#133339">
+                <tspan x="438.191963" y="602.257971">•</tspan>
+            </text>
+            <polygon id="Stroke-5" stroke="#231F20" stroke-width="0.717" points="0.358 622.222 489.341 622.222 489.341 0.358 0.358 0.358"></polygon>
+        </g>
+    </g>
+</svg>

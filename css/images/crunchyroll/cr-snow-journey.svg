@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="920px" height="465px" viewBox="0 0 920 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>cr-snow-journey</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cr-snow-journey">
+            <path d="M0.5,48.21 L120.593,48.21 L120.593,0.755 L0.5,0.755 L0.5,48.21 Z M0.5,96.697 L120.593,96.697 L120.593,48.209 L0.5,48.209 L0.5,96.697 Z M0.5,240.965 L120.593,240.965 L120.593,96.697 L0.5,96.697 L0.5,240.965 Z M0.5,464.065 L120.593,464.065 L120.593,240.965 L0.5,240.965 L0.5,464.065 Z" id="Fill-1" fill="#231F20"></path>
+            <path d="M120.593,48.21 L363.286,48.21 L363.286,0.755 L120.593,0.755 L120.593,48.21 Z M363.285,48.21 L565.438,48.21 L565.438,0.755 L363.285,0.755 L363.285,48.21 Z M565.438,48.21 L735.932,48.21 L735.932,0.755 L565.438,0.755 L565.438,48.21 Z M735.932,48.21 L919.097,48.21 L919.097,0.755 L735.932,0.755 L735.932,48.21 Z" id="Fill-2" fill="#F7F7F7"></path>
+            <path d="M120.593,96.697 L363.286,96.697 L363.286,48.209 L120.593,48.209 L120.593,96.697 Z M363.285,96.697 L565.438,96.697 L565.438,48.209 L363.285,48.209 L363.285,96.697 Z M565.438,96.697 L735.932,96.697 L735.932,48.209 L565.438,48.209 L565.438,96.697 Z M735.932,96.697 L919.097,96.697 L919.097,48.209 L735.932,48.209 L735.932,96.697 Z M120.593,240.965 L363.286,240.965 L363.286,96.697 L120.593,96.697 L120.593,240.965 Z M363.285,240.965 L565.438,240.965 L565.438,96.697 L363.285,96.697 L363.285,240.965 Z M565.438,240.965 L735.932,240.965 L735.932,96.697 L565.438,96.697 L565.438,240.965 Z M735.932,240.965 L919.097,240.965 L919.097,96.697 L735.932,96.697 L735.932,240.965 Z M120.593,464.065 L363.286,464.065 L363.286,240.965 L120.593,240.965 L120.593,464.065 Z M363.285,464.065 L565.438,464.065 L565.438,240.965 L363.285,240.965 L363.285,464.065 Z M565.438,464.065 L735.932,464.065 L735.932,240.965 L565.438,240.965 L565.438,464.065 Z M735.932,464.065 L919.097,464.065 L919.097,240.965 L735.932,240.965 L735.932,464.065 Z" id="Fill-3" fill="#FEFEFE"></path>
+            <path d="M0.5,96.6969 L119.912,96.6969" id="Stroke-4" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M0.5,240.9649 L119.912,240.9649" id="Stroke-5" stroke="#231F20" stroke-width="0.377"></path>
+            <path d="M735.9324,0.7547 L919.8514,0.7547" id="Stroke-6" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M919.0975,47.455 L919.0975,1.509" id="Stroke-7" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M735.9324,48.2092 L919.8514,48.2092" id="Stroke-8" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M121.0925,0.7547 L363.9655,0.7547" id="Stroke-9" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M121.0925,48.2092 L363.9655,48.2092" id="Stroke-10" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.9654,0.7547 L565.4384,0.7547" id="Stroke-11" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M363.9654,48.2092 L565.4384,48.2092" id="Stroke-12" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M363.2854,47.5292 L363.2854,1.4352" id="Stroke-13" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,0.7547 L735.9323,0.7547" id="Stroke-14" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M565.4383,47.455 L565.4383,1.509" id="Stroke-15" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M735.9324,47.455 L735.9324,1.509" id="Stroke-16" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M565.4383,48.2092 L735.9323,48.2092" id="Stroke-17" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M919.0975,463.311 L919.0975,241.645" id="Stroke-18" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M736.6124,464.0652 L919.8514,464.0652" id="Stroke-19" stroke="#231F20" stroke-width="1.508"></path>
+            <path d="M919.0975,240.2848 L919.0975,97.3768" id="Stroke-20" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M119.9125,240.9649 L363.2855,240.9649" id="Stroke-21" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,240.9649 L565.4384,240.9649" id="Stroke-22" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,240.9649 L735.9323,240.9649" id="Stroke-23" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M735.9324,240.9649 L919.7774,240.9649" id="Stroke-24" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M919.0975,96.0168 L919.0975,48.9638" id="Stroke-25" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M119.9125,96.6969 L363.2855,96.6969" id="Stroke-26" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,96.6969 L565.4384,96.6969" id="Stroke-27" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,96.6969 L735.9323,96.6969" id="Stroke-28" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M735.9324,96.6969 L919.7774,96.6969" id="Stroke-29" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M120.5925,96.0168 L120.5925,48.7088" id="Stroke-30" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M120.5925,240.2848 L120.5925,97.3768" id="Stroke-31" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M120.5925,463.3852 L120.5925,241.6452" id="Stroke-32" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M119.9125,464.0652 L363.2855,464.0652" id="Stroke-33" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,96.0168 L363.2854,48.8888" id="Stroke-34" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,240.2848 L363.2854,97.3768" id="Stroke-35" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,463.3852 L363.2854,241.6452" id="Stroke-36" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M363.2854,464.0652 L565.4384,464.0652" id="Stroke-37" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,96.0168 L565.4383,48.9638" id="Stroke-38" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M735.9324,96.0168 L735.9324,48.9638" id="Stroke-39" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,240.2848 L565.4383,97.3768" id="Stroke-40" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M735.9324,240.2848 L735.9324,97.3768" id="Stroke-41" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,463.3852 L565.4383,241.6452" id="Stroke-42" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M735.9324,463.3852 L735.9324,241.6452" id="Stroke-43" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M565.4383,464.0652 L736.6123,464.0652" id="Stroke-44" stroke="#231F20" stroke-width="1.36"></path>
+            <path d="M0,0.7547 L121.093,0.7547" id="Stroke-45" stroke="#231F20"></path>
+            <path d="M0.5,47.7092 L0.5,1.2542" id="Stroke-46" stroke="#231F20"></path>
+            <path d="M120.5925,47.7092 L120.5925,1.2542" id="Stroke-47" stroke="#231F20"></path>
+            <path d="M0,48.2092 L121.093,48.2092" id="Stroke-48" stroke="#231F20"></path>
+            <text id="steps" font-family="MuseoSans-700, Museo Sans" font-size="16.321" font-weight="500" letter-spacing="-0.005" fill="#FEFEFE">
+                <tspan x="40.8471" y="26.4003603">s</tspan>
+                <tspan x="48.219192" y="26.4003603" letter-spacing="-0.2694002">t</tspan>
+                <tspan x="54.1028088" y="26.4003603" letter-spacing="0.0651803">e</tspan>
+                <tspan x="63.2098231" y="26.4003603" letter-spacing="-0.0131605">p</tspan>
+                <tspan x="73.1687936" y="26.4003603">s</tspan>
+            </text>
+            <text id="Add-new-season-anime-to-queue" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="18.1016" font-weight="bold" letter-spacing="-0.02572192" fill="#231F20">
+                <tspan x="131.1518" y="24.7289833">A</tspan>
+                <tspan x="142.385273" y="24.7289833" letter-spacing="0.02858288">d</tspan>
+                <tspan x="151.28364" y="24.7289833" letter-spacing="0.0684064">d</tspan>
+                <tspan x="160.221831" y="24.7289833" letter-spacing="-0.004"> </tspan>
+                <tspan x="163.349407" y="24.7289833" letter-spacing="-0.01486096">n</tspan>
+                <tspan x="172.077619" y="24.7289833" letter-spacing="-0.17415504">e</tspan>
+                <tspan x="179.415628" y="24.7289833" letter-spacing="0.0684064">w</tspan>
+                <tspan x="190.833738" y="24.7289833" letter-spacing="-0.004"> </tspan>
+                <tspan x="193.961315" y="24.7289833" letter-spacing="-0.01848128">s</tspan>
+                <tspan x="200.3508" y="24.7289833" letter-spacing="0.01048128">e</tspan>
+                <tspan x="208.054461" y="24.7289833" letter-spacing="0.09193848">a</tspan>
+                <tspan x="217.016183" y="24.7289833" letter-spacing="-0.004">s</tspan>
+                <tspan x="223.42015" y="24.7289833" letter-spacing="0.01229144">o</tspan>
+                <tspan x="231.976396" y="24.7289833" letter-spacing="0.0684064">n</tspan>
+                <tspan x="240.787876" y="24.7289833" letter-spacing="-0.004"> an</tspan>
+                <tspan x="261.520309" y="24.7289833" letter-spacing="-0.0221016">i</tspan>
+                <tspan x="265.661576" y="24.7289833" letter-spacing="-0.004">m</tspan>
+                <tspan x="278.509712" y="24.7289833" letter-spacing="0.0684064">e</tspan>
+                <tspan x="286.271298" y="24.7289833" letter-spacing="-0.004"> </tspan>
+                <tspan x="289.398875" y="24.7289833" letter-spacing="-0.12890104">t</tspan>
+                <tspan x="294.736657" y="24.7289833" letter-spacing="0.0684064">o</tspan>
+                <tspan x="303.349019" y="24.7289833" letter-spacing="-0.004"> q</tspan>
+                <tspan x="315.342379" y="24.7289833" letter-spacing="0.02858288">u</tspan>
+                <tspan x="324.114035" y="24.7289833" letter-spacing="-0.0311524">e</tspan>
+                <tspan x="331.776063" y="24.7289833" letter-spacing="0.02677272">u</tspan>
+                <tspan x="340.545908" y="24.7289833" letter-spacing="-0.004">e</tspan>
+            </text>
+            <text id="Organize-queue" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="18.1016" font-weight="bold" letter-spacing="0.11728072" fill="#231F20">
+                <tspan x="373.839951" y="24.7289833">O</tspan>
+                <tspan x="387.098994" y="24.7289833" letter-spacing="0.05573528">r</tspan>
+                <tspan x="392.730022" y="24.7289833" letter-spacing="0.01953208">g</tspan>
+                <tspan x="401.637439" y="24.7289833" letter-spacing="-0.004">an</tspan>
+                <tspan x="419.242296" y="24.7289833" letter-spacing="-0.02572192">i</tspan>
+                <tspan x="423.379942" y="24.7289833" letter-spacing="-0.17415504">z</tspan>
+                <tspan x="429.903379" y="24.7289833" letter-spacing="0.0684064">e</tspan>
+                <tspan x="437.664966" y="24.7289833" letter-spacing="-0.004"> q</tspan>
+                <tspan x="449.658326" y="24.7289833" letter-spacing="0.02858288">u</tspan>
+                <tspan x="458.429982" y="24.7289833" letter-spacing="-0.0311524">e</tspan>
+                <tspan x="466.09201" y="24.7289833" letter-spacing="0.02677272">u</tspan>
+                <tspan x="474.861855" y="24.7289833" letter-spacing="-0.004">e</tspan>
+            </text>
+            <text id="Organize-using-ilter" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="18.1016" font-weight="bold" letter-spacing="0.11728072" fill="#231F20">
+                <tspan x="575.99862" y="24.7289833">O</tspan>
+                <tspan x="589.257662" y="24.7289833" letter-spacing="0.05573528">r</tspan>
+                <tspan x="594.88869" y="24.7289833" letter-spacing="0.01953208">g</tspan>
+                <tspan x="603.796108" y="24.7289833" letter-spacing="-0.004">an</tspan>
+                <tspan x="621.400965" y="24.7289833" letter-spacing="-0.02572192">i</tspan>
+                <tspan x="625.538611" y="24.7289833" letter-spacing="-0.17415504">z</tspan>
+                <tspan x="632.062048" y="24.7289833" letter-spacing="0.0684064">e</tspan>
+                <tspan x="639.823634" y="24.7289833" letter-spacing="-0.004"> </tspan>
+                <tspan x="642.951211" y="24.7289833" letter-spacing="0.09193848">u</tspan>
+                <tspan x="651.786222" y="24.7289833" letter-spacing="0.03763368">s</tspan>
+                <tspan x="658.231822" y="24.7289833" letter-spacing="-0.0221016">i</tspan>
+                <tspan x="662.373089" y="24.7289833" letter-spacing="0.01229144">n</tspan>
+                <tspan x="671.128453" y="24.7289833" letter-spacing="0.0684064">g</tspan>
+                <tspan x="680.084745" y="24.7289833" letter-spacing="-0.004"> </tspan>
+                <tspan x="683.212322" y="24.7289833" letter-spacing="0.0141016">i</tspan>
+                <tspan x="687.389792" y="24.7289833" letter-spacing="-0.0583048">l</tspan>
+                <tspan x="691.494855" y="24.7289833" letter-spacing="-0.13795184">t</tspan>
+                <tspan x="696.823586" y="24.7289833" letter-spacing="-0.004">er</tspan>
+            </text>
+            <text id="s" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="18.1016" font-weight="bold" fill="#FEFEFE">
+                <tspan x="714.548266" y="24.7289833">s</tspan>
+            </text>
+            <text id="Organize-using-lists" font-family="MrEavesModOT-Bold, Mr Eaves Mod OT" font-size="18.1016" font-weight="bold" letter-spacing="0.13438232" fill="#231F20">
+                <tspan x="746.49759" y="24.7289833">O</tspan>
+                <tspan x="759.773734" y="24.7289833" letter-spacing="0.07283688">r</tspan>
+                <tspan x="765.421864" y="24.7289833" letter-spacing="0.03663368">g</tspan>
+                <tspan x="774.346383" y="24.7289833" letter-spacing="0.01853208">a</tspan>
+                <tspan x="783.234699" y="24.7289833" letter-spacing="0.01491176">n</tspan>
+                <tspan x="791.992684" y="24.7289833" letter-spacing="-0.005">i</tspan>
+                <tspan x="796.151052" y="24.7289833" letter-spacing="-0.15705344">z</tspan>
+                <tspan x="802.69159" y="24.7289833" letter-spacing="0.085508">e</tspan>
+                <tspan x="810.470278" y="24.7289833" letter-spacing="-0.005"> </tspan>
+                <tspan x="813.596855" y="24.7289833" letter-spacing="0.10722992">u</tspan>
+                <tspan x="822.447158" y="24.7289833" letter-spacing="0.05473528">s</tspan>
+                <tspan x="828.90986" y="24.7289833" letter-spacing="-0.005">i</tspan>
+                <tspan x="833.068228" y="24.7289833" letter-spacing="0.0312032">n</tspan>
+                <tspan x="841.842504" y="24.7289833" letter-spacing="0.085508">g</tspan>
+                <tspan x="850.815897" y="24.7289833" letter-spacing="-0.005"> l</tspan>
+                <tspan x="858.100842" y="24.7289833" letter-spacing="0.08188768">i</tspan>
+                <tspan x="862.346098" y="24.7289833" letter-spacing="-0.05749464">s</tspan>
+                <tspan x="868.69657" y="24.7289833" letter-spacing="-0.005">ts</tspan>
+            </text>
+            <text id="action" font-family="MuseoSans-700, Museo Sans" font-size="16.321" font-weight="500" letter-spacing="-0.002" fill="#FEFEFE">
+                <tspan x="36.5757" y="71.0083603">ac</tspan>
+                <tspan x="54.182059" y="71.0083603" letter-spacing="-0.148889">t</tspan>
+                <tspan x="60.186187" y="71.0083603" letter-spacing="-0.0493309">i</tspan>
+                <tspan x="64.4945631" y="71.0083603" letter-spacing="-0.0248494">o</tspan>
+                <tspan x="74.6703387" y="71.0083603">n</tspan>
+            </text>
+            <text id="select-season-simulcast-anime" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.05211999" fill="#231F20">
+                <tspan x="131.1518" y="75.0408217">s</tspan>
+                <tspan x="136.658369" y="75.0408217" letter-spacing="-0.004">e</tspan>
+                <tspan x="143.540505" y="75.0408217" letter-spacing="0.03084551">l</tspan>
+                <tspan x="146.873377" y="75.0408217" letter-spacing="-0.07535033">e</tspan>
+                <tspan x="153.684164" y="75.0408217" letter-spacing="0.08062481">c</tspan>
+                <tspan x="160.136539" y="75.0408217" letter-spacing="0.0623724">t</tspan>
+                <tspan x="164.844979" y="75.0408217" letter-spacing="-0.004"> </tspan>
+                <tspan x="167.711586" y="75.0408217">s</tspan>
+                <tspan x="173.218154" y="75.0408217" letter-spacing="-0.04382344">e</tspan>
+                <tspan x="180.060467" y="75.0408217" letter-spacing="0.00927448">a</tspan>
+                <tspan x="187.934871" y="75.0408217" letter-spacing="-0.03386758">s</tspan>
+                <tspan x="193.459692" y="75.0408217" letter-spacing="0.02088965">o</tspan>
+                <tspan x="201.312525" y="75.0408217" letter-spacing="0.0623724">n</tspan>
+                <tspan x="209.040909" y="75.0408217" letter-spacing="-0.004"> s</tspan>
+                <tspan x="217.462204" y="75.0408217" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="220.741979" y="75.0408217" letter-spacing="-0.0371862">m</tspan>
+                <tspan x="232.187218" y="75.0408217" letter-spacing="-0.004">ul</tspan>
+                <tspan x="243.147257" y="75.0408217" letter-spacing="-0.08364688">c</tspan>
+                <tspan x="249.43536" y="75.0408217" letter-spacing="0.00927448">a</tspan>
+                <tspan x="257.309764" y="75.0408217" letter-spacing="-0.07700964">s</tspan>
+                <tspan x="262.791443" y="75.0408217" letter-spacing="0.06071309">t</tspan>
+                <tspan x="267.498224" y="75.0408217" letter-spacing="-0.004"> a</tspan>
+                <tspan x="278.22596" y="75.0408217" letter-spacing="-0.01229655">n</tspan>
+                <tspan x="285.879675" y="75.0408217" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="289.15945" y="75.0408217" letter-spacing="0.02752689">m</tspan>
+                <tspan x="300.669402" y="75.0408217" letter-spacing="-0.004">e</tspan>
+            </text>
+            <text id="go-to-queue-and-adjust-order" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.002" fill="#231F20">
+                <tspan x="373.842481" y="75.0408217">g</tspan>
+                <tspan x="381.70561" y="75.0408217" letter-spacing="0.0311862">o</tspan>
+                <tspan x="389.568739" y="75.0408217"> </tspan>
+                <tspan x="392.437346" y="75.0408217" letter-spacing="-0.27412684">t</tspan>
+                <tspan x="396.809287" y="75.0408217" letter-spacing="0.0311862">o</tspan>
+                <tspan x="404.672416" y="75.0408217"> </tspan>
+                <tspan x="407.541023" y="75.0408217" letter-spacing="-0.04514206">q</tspan>
+                <tspan x="415.36101" y="75.0408217">u</tspan>
+                <tspan x="423.025022" y="75.0408217" letter-spacing="-0.09658067">e</tspan>
+                <tspan x="429.814578" y="75.0408217">u</tspan>
+                <tspan x="437.47859" y="75.0408217" letter-spacing="0.0311862">e</tspan>
+                <tspan x="444.395913" y="75.0408217"> </tspan>
+                <tspan x="447.264519" y="75.0408217" letter-spacing="-0.03186758">a</tspan>
+                <tspan x="455.097781" y="75.0408217" letter-spacing="-0.03684551">n</tspan>
+                <tspan x="462.726948" y="75.0408217" letter-spacing="0.0311862">d</tspan>
+                <tspan x="470.623263" y="75.0408217"> </tspan>
+                <tspan x="473.49187" y="75.0408217" letter-spacing="-0.01527448">a</tspan>
+                <tspan x="481.341724" y="75.0408217">d</tspan>
+                <tspan x="489.204854" y="75.0408217" letter-spacing="-0.06173516">j</tspan>
+                <tspan x="492.445146" y="75.0408217" letter-spacing="-0.02191172">u</tspan>
+                <tspan x="500.089246" y="75.0408217" letter-spacing="-0.10819584">s</tspan>
+                <tspan x="505.539739" y="75.0408217" letter-spacing="0.0311862">t</tspan>
+                <tspan x="510.216993" y="75.0408217"> </tspan>
+                <tspan x="513.085599" y="75.0408217" letter-spacing="-0.01029655">o</tspan>
+                <tspan x="520.907246" y="75.0408217" letter-spacing="-0.13308549">r</tspan>
+                <tspan x="525.436821" y="75.0408217">d</tspan>
+                <tspan x="533.299951" y="75.0408217" letter-spacing="-0.0517793">e</tspan>
+                <tspan x="540.134308" y="75.0408217">r</tspan>
+            </text>
+            <text id="no-such-function" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.005" fill="#231F20">
+                <tspan x="575.996218" y="75.0408217">n</tspan>
+                <tspan x="583.65723" y="75.0408217" letter-spacing="0.0779655">o</tspan>
+                <tspan x="591.567139" y="75.0408217"> </tspan>
+                <tspan x="594.432745" y="75.0408217" letter-spacing="-0.04980137">s</tspan>
+                <tspan x="599.941632" y="75.0408217" letter-spacing="0.00993379">u</tspan>
+                <tspan x="607.617578" y="75.0408217">c</tspan>
+                <tspan x="613.984329" y="75.0408217" letter-spacing="0.0779655">h</tspan>
+                <tspan x="621.728306" y="75.0408217"> </tspan>
+                <tspan x="624.593913" y="75.0408217" letter-spacing="0.03150482">f</tspan>
+                <tspan x="628.906437" y="75.0408217" letter-spacing="0.01491172">u</tspan>
+                <tspan x="636.587361" y="75.0408217" letter-spacing="-0.01329655">n</tspan>
+                <tspan x="644.240077" y="75.0408217" letter-spacing="0.09787722">c</tspan>
+                <tspan x="650.709704" y="75.0408217" letter-spacing="-0.12778894">t</tspan>
+                <tspan x="655.227983" y="75.0408217" letter-spacing="0.02652689">i</tspan>
+                <tspan x="658.556537" y="75.0408217" letter-spacing="0.03648275">o</tspan>
+                <tspan x="666.424963" y="75.0408217">n</tspan>
+            </text>
+            <text id="no-such-function" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.005" fill="#231F20">
+                <tspan x="746.49032" y="75.0408217">n</tspan>
+                <tspan x="754.151333" y="75.0408217" letter-spacing="0.0779655">o</tspan>
+                <tspan x="762.061241" y="75.0408217"> </tspan>
+                <tspan x="764.926848" y="75.0408217" letter-spacing="-0.04980137">s</tspan>
+                <tspan x="770.435735" y="75.0408217" letter-spacing="0.00993379">u</tspan>
+                <tspan x="778.111681" y="75.0408217">c</tspan>
+                <tspan x="784.478431" y="75.0408217" letter-spacing="0.0779655">h</tspan>
+                <tspan x="792.222409" y="75.0408217"> </tspan>
+                <tspan x="795.088015" y="75.0408217" letter-spacing="0.03150482">f</tspan>
+                <tspan x="799.40054" y="75.0408217" letter-spacing="0.01491172">u</tspan>
+                <tspan x="807.081464" y="75.0408217" letter-spacing="-0.01329655">n</tspan>
+                <tspan x="814.734179" y="75.0408217" letter-spacing="0.09787722">c</tspan>
+                <tspan x="821.203807" y="75.0408217" letter-spacing="-0.12778894">t</tspan>
+                <tspan x="825.722086" y="75.0408217" letter-spacing="0.02652689">i</tspan>
+                <tspan x="829.05064" y="75.0408217" letter-spacing="0.03648275">o</tspan>
+                <tspan x="836.919066" y="75.0408217">n</tspan>
+            </text>
+            <text id="pain-points" font-family="MuseoSans-700, Museo Sans" font-size="16.321" font-weight="500" letter-spacing="0.0921902" fill="#FEFEFE">
+                <tspan x="18.3577" y="167.72616">p</tspan>
+                <tspan x="28.4220212" y="167.72616" letter-spacing="0.0530198">a</tspan>
+                <tspan x="37.190455" y="167.72616" letter-spacing="-0.009">i</tspan>
+                <tspan x="41.539162" y="167.72616" letter-spacing="0.137889">n</tspan>
+                <tspan x="51.681824" y="167.72616" letter-spacing="-0.009"> </tspan>
+                <tspan x="55.638827" y="167.72616" letter-spacing="0.1721631">p</tspan>
+                <tspan x="65.7831211" y="167.72616" letter-spacing="0.0823976">o</tspan>
+                <tspan x="76.0661437" y="167.72616" letter-spacing="-0.009">i</tspan>
+                <tspan x="80.4148507" y="167.72616" letter-spacing="-0.0955013">n</tspan>
+                <tspan x="90.3241224" y="167.72616" letter-spacing="0.1264643">t</tspan>
+                <tspan x="96.6036037" y="167.72616" letter-spacing="-0.009">s</tspan>
+            </text>
+            <text id="no-add-to-queue-link/icon-available;-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.07632826" fill="#231F20">
+                <tspan x="131.1518" y="116.775822">n</tspan>
+                <tspan x="138.741484" y="116.775822">o </tspan>
+                <tspan x="149.444033" y="116.775822" letter-spacing="-0.04480137">ad</tspan>
+                <tspan x="165.084689" y="116.775822">d </tspan>
+                <tspan x="175.820425" y="116.775822" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="180.16118" y="116.775822">o </tspan>
+                <tspan x="190.86373" y="116.775822">q</tspan>
+                <tspan x="198.652531" y="116.775822" letter-spacing="-0.02820827">u</tspan>
+                <tspan x="206.290335" y="116.775822" letter-spacing="-0.12776687">e</tspan>
+                <tspan x="213.048704" y="116.775822" letter-spacing="-0.02820827">u</tspan>
+                <tspan x="220.686508" y="116.775822">e </tspan>
+                <tspan x="230.443251" y="116.775822" letter-spacing="-0.08794343">l</tspan>
+                <tspan x="233.657335" y="116.775822" letter-spacing="-0.08628412">i</tspan>
+                <tspan x="236.873077" y="116.775822">n</tspan>
+                <tspan x="244.462761" y="116.775822" letter-spacing="0.44967301">k</tspan>
+                <tspan x="251.58286" y="116.775822" letter-spacing="-0.14435997">/</tspan>
+                <tspan x="256.914224" y="116.775822" letter-spacing="-0.07135033">i</tspan>
+                <tspan x="260.1449" y="116.775822" letter-spacing="-0.12112963">c</tspan>
+                <tspan x="266.395521" y="116.775822" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="274.185981" y="116.775822">n a</tspan>
+                <tspan x="292.587729" y="116.775822" letter-spacing="-0.22234754">v</tspan>
+                <tspan x="298.720539" y="116.775822" letter-spacing="-0.06969102">a</tspan>
+                <tspan x="306.515977" y="116.775822" letter-spacing="-0.08794343">i</tspan>
+                <tspan x="309.730061" y="116.775822" letter-spacing="-0.0497793">l</tspan>
+                <tspan x="312.982308" y="116.775822" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="320.784384" y="116.775822" letter-spacing="-0.04480137">b</tspan>
+                <tspan x="328.604712" y="116.775822" letter-spacing="-0.03152689">l</tspan>
+                <tspan x="331.875212" y="116.775822" letter-spacing="-0.38661923">e</tspan>
+                <tspan x="338.374729" y="116.775822">; </tspan>
+            </text>
+            <text id="you-have-to-visit-an-individual-epi" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.21405099" fill="#231F20">
+                <tspan x="131.1518" y="136.687542">y</tspan>
+                <tspan x="137.126975" y="136.687542" letter-spacing="-0.06803171">o</tspan>
+                <tspan x="144.890887" y="136.687542">u </tspan>
+                <tspan x="155.427505" y="136.687542" letter-spacing="-0.06969102">h</tspan>
+                <tspan x="163.023826" y="136.687542">a</tspan>
+                <tspan x="170.888956" y="136.687542" letter-spacing="-0.20741375">v</tspan>
+                <tspan x="176.870768" y="136.687542">e </tspan>
+                <tspan x="186.627511" y="136.687542" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="190.968266" y="136.687542">o v</tspan>
+                <tspan x="208.025973" y="136.687542" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="211.276561" y="136.687542" letter-spacing="-0.05973516">s</tspan>
+                <tspan x="216.775515" y="136.687542">i</tspan>
+                <tspan x="219.863491" y="136.687542">t </tspan>
+                <tspan x="227.380165" y="136.687542" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="235.18224" y="136.687542">n </tspan>
+                <tspan x="245.718859" y="136.687542" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="248.936261" y="136.687542" letter-spacing="-0.06803171">nd</tspan>
+                <tspan x="264.331339" y="136.687542" letter-spacing="-0.01327448">i</tspan>
+                <tspan x="267.620092" y="136.687542">v</tspan>
+                <tspan x="273.975249" y="136.687542" letter-spacing="-0.0497793">i</tspan>
+                <tspan x="277.227497" y="136.687542" letter-spacing="-0.07632826">d</tspan>
+                <tspan x="285.016298" y="136.687542" letter-spacing="-0.04480137">u</tspan>
+                <tspan x="292.637509" y="136.687542" letter-spacing="-0.06803171">a</tspan>
+                <tspan x="300.434606" y="136.687542">l </tspan>
+                <tspan x="306.607239" y="136.687542" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="313.41041" y="136.687542" letter-spacing="-0.04480137">p</tspan>
+                <tspan x="321.230738" y="136.687542">i</tspan>
+            </text>
+            <text id="-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="324.693718" y="136.687542">-</tspan>
+            </text>
+            <text id="sode,-add-to-queue-from-there,-then-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.09623998" fill="#231F20">
+                <tspan x="131.1518" y="156.599262">s</tspan>
+                <tspan x="136.614249" y="156.599262" letter-spacing="-0.02820827">od</tspan>
+                <tspan x="152.254905" y="156.599262" letter-spacing="-0.24225926">e</tspan>
+                <tspan x="158.898782" y="156.599262">, </tspan>
+                <tspan x="165.751732" y="156.599262" letter-spacing="-0.04480137">ad</tspan>
+                <tspan x="181.392388" y="156.599262">d </tspan>
+                <tspan x="192.128124" y="156.599262" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="196.468879" y="156.599262">o </tspan>
+                <tspan x="207.171428" y="156.599262" letter-spacing="-0.07632826">q</tspan>
+                <tspan x="214.960229" y="156.599262" letter-spacing="-0.02820827">u</tspan>
+                <tspan x="222.598033" y="156.599262" letter-spacing="-0.12776687">e</tspan>
+                <tspan x="229.356403" y="156.599262" letter-spacing="-0.02820827">u</tspan>
+                <tspan x="236.994207" y="156.599262">e </tspan>
+                <tspan x="246.75095" y="156.599262" letter-spacing="-0.04646068">f</tspan>
+                <tspan x="250.985509" y="156.599262" letter-spacing="-0.165931">r</tspan>
+                <tspan x="255.482239" y="156.599262" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="263.272699" y="156.599262">m </tspan>
+                <tspan x="277.625731" y="156.599262" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="282.066044" y="156.599262" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="289.680618" y="156.599262" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="296.483789" y="156.599262" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="300.998772" y="156.599262" letter-spacing="-0.24225926">e</tspan>
+                <tspan x="307.642649" y="156.599262">, </tspan>
+                <tspan x="314.495599" y="156.599262" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="318.935913" y="156.599262" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="326.550486" y="156.599262" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="333.353657" y="156.599262">n </tspan>
+            </text>
+            <text id="return-to-the-homepage-to-repeat-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.14767859" fill="#231F20">
+                <tspan x="131.1518" y="176.510982">r</tspan>
+                <tspan x="135.666783" y="176.510982" letter-spacing="-0.2323034">e</tspan>
+                <tspan x="142.320616" y="176.510982" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="146.760929" y="176.510982" letter-spacing="-0.06305378">u</tspan>
+                <tspan x="154.363888" y="176.510982" letter-spacing="-0.12278894">r</tspan>
+                <tspan x="159.069691" y="176.510982">n </tspan>
+                <tspan x="169.606309" y="176.510982" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="173.947064" y="176.510982">o </tspan>
+                <tspan x="184.649614" y="176.510982" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="189.089927" y="176.510982" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="196.704501" y="176.510982">e </tspan>
+                <tspan x="206.461244" y="176.510982" letter-spacing="-0.07632826">h</tspan>
+                <tspan x="214.050928" y="176.510982" letter-spacing="-0.04314206">o</tspan>
+                <tspan x="221.839729" y="176.510982" letter-spacing="-0.03484551">m</tspan>
+                <tspan x="233.287308" y="176.510982" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="240.090479" y="176.510982" letter-spacing="-0.03982344">p</tspan>
+                <tspan x="247.915785" y="176.510982" letter-spacing="-0.04480137">a</tspan>
+                <tspan x="255.736113" y="176.510982" letter-spacing="-0.02820827">g</tspan>
+                <tspan x="263.573035" y="176.510982">e </tspan>
+                <tspan x="273.329777" y="176.510982" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="277.670532" y="176.510982">o </tspan>
+                <tspan x="288.373082" y="176.510982" letter-spacing="-0.1493379">r</tspan>
+                <tspan x="292.886405" y="176.510982" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="299.689576" y="176.510982" letter-spacing="-0.02323034">p</tspan>
+                <tspan x="307.531475" y="176.510982" letter-spacing="-0.10619584">e</tspan>
+                <tspan x="314.311416" y="176.510982" letter-spacing="-0.19745789">a</tspan>
+                <tspan x="321.979087" y="176.510982">t </tspan>
+            </text>
+            <text id="the-process-for-however-many-anime-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.20575444" fill="#231F20">
+                <tspan x="131.1518" y="196.422702">t</tspan>
+                <tspan x="135.592114" y="196.422702" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="143.206687" y="196.422702">e </tspan>
+                <tspan x="152.96343" y="196.422702" letter-spacing="-0.05973516">p</tspan>
+                <tspan x="160.768824" y="196.422702" letter-spacing="-0.16427169">r</tspan>
+                <tspan x="165.267214" y="196.422702" letter-spacing="-0.02986758">o</tspan>
+                <tspan x="173.069289" y="196.422702" letter-spacing="-0.12112963">c</tspan>
+                <tspan x="179.31991" y="196.422702" letter-spacing="-0.08130619">e</tspan>
+                <tspan x="186.12474" y="196.422702" letter-spacing="-0.08794343">s</tspan>
+                <tspan x="191.595485" y="196.422702">s </tspan>
+                <tspan x="200.02478" y="196.422702" letter-spacing="-0.14601928">f</tspan>
+                <tspan x="204.159781" y="196.422702" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="211.950241" y="196.422702">r </tspan>
+                <tspan x="219.64944" y="196.422702" letter-spacing="-0.07632826">h</tspan>
+                <tspan x="227.239123" y="196.422702" letter-spacing="-0.18916134">ow</tspan>
+                <tspan x="244.482673" y="196.422702" letter-spacing="-0.18086479">e</tspan>
+                <tspan x="251.022014" y="196.422702">v</tspan>
+                <tspan x="257.005486" y="196.422702" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="263.808657" y="196.422702">r </tspan>
+                <tspan x="271.507855" y="196.422702" letter-spacing="-0.05309792">m</tspan>
+                <tspan x="282.937182" y="196.422702" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="290.739258" y="196.422702" letter-spacing="-0.23894064">n</tspan>
+                <tspan x="297.917433" y="196.422702">y </tspan>
+                <tspan x="307.143197" y="196.422702" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="314.945272" y="196.422702" letter-spacing="-0.07466895">n</tspan>
+                <tspan x="322.536615" y="196.422702" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="325.754017" y="196.422702" letter-spacing="-0.03484551">m</tspan>
+                <tspan x="337.201597" y="196.422702">e </tspan>
+            </text>
+            <text id="you’d-like-to-watch" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.21405099" fill="#231F20">
+                <tspan x="131.1518" y="216.334422">y</tspan>
+                <tspan x="137.126975" y="216.334422" letter-spacing="-0.06803171">o</tspan>
+                <tspan x="144.890887" y="216.334422" letter-spacing="-0.57578057">u</tspan>
+                <tspan x="151.649256" y="216.334422">’d </tspan>
+                <tspan x="164.923736" y="216.334422" letter-spacing="-0.08794343">l</tspan>
+                <tspan x="168.13782" y="216.334422" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="171.355222" y="216.334422" letter-spacing="-0.36836682">k</tspan>
+                <tspan x="177.408385" y="216.334422">e </tspan>
+                <tspan x="187.165128" y="216.334422" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="191.505883" y="216.334422">o </tspan>
+                <tspan x="202.208432" y="216.334422" letter-spacing="-0.20575444">w</tspan>
+                <tspan x="212.124469" y="216.334422" letter-spacing="-0.19745789">a</tspan>
+                <tspan x="219.79214" y="216.334422" letter-spacing="-0.32190614">t</tspan>
+                <tspan x="224.116302" y="216.334422" letter-spacing="-0.08794343">c</tspan>
+                <tspan x="230.400109" y="216.334422">h</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="116.775822">• </tspan>
+            </text>
+            <text id="can-only-manually-move-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.08364688" fill="#231F20">
+                <tspan x="400.988792" y="116.775822">c</tspan>
+                <tspan x="407.276896" y="116.775822" letter-spacing="-0.004">a</tspan>
+                <tspan x="415.138025" y="116.775822" letter-spacing="0.0623724">n</tspan>
+                <tspan x="422.86641" y="116.775822" letter-spacing="-0.004"> </tspan>
+                <tspan x="425.733016" y="116.775822" letter-spacing="0.01923034">o</tspan>
+                <tspan x="433.58419" y="116.775822" letter-spacing="-0.01229655">n</tspan>
+                <tspan x="441.237905" y="116.775822" letter-spacing="0.04909792">l</tspan>
+                <tspan x="444.58903" y="116.775822" letter-spacing="0.0623724">y</tspan>
+                <tspan x="451.00656" y="116.775822" letter-spacing="-0.004"> </tspan>
+                <tspan x="453.873166" y="116.775822" letter-spacing="0.01093379">m</tspan>
+                <tspan x="465.366525" y="116.775822" letter-spacing="-0.004">a</tspan>
+                <tspan x="473.227654" y="116.775822" letter-spacing="-0.0537793">n</tspan>
+                <tspan x="480.839887" y="116.775822" letter-spacing="0.01757103">u</tspan>
+                <tspan x="488.523471" y="116.775822" letter-spacing="-0.004">a</tspan>
+                <tspan x="496.3846" y="116.775822" letter-spacing="-0.02557103">l</tspan>
+                <tspan x="499.661056" y="116.775822" letter-spacing="0.04909792">l</tspan>
+                <tspan x="503.012181" y="116.775822" letter-spacing="0.0623724">y</tspan>
+                <tspan x="509.42971" y="116.775822" letter-spacing="-0.004"> </tspan>
+                <tspan x="512.296317" y="116.775822" letter-spacing="0.0291862">m</tspan>
+                <tspan x="523.807928" y="116.775822" letter-spacing="-0.14338204">ov</tspan>
+                <tspan x="537.376402" y="116.775822" letter-spacing="0.06071309">e</tspan>
+                <tspan x="544.323252" y="116.775822" letter-spacing="-0.004"> </tspan>
+            </text>
+            <text id="shows-up-and-down-list" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.01229655" fill="#231F20">
+                <tspan x="400.988792" y="136.687542">s</tspan>
+                <tspan x="406.535184" y="136.687542" letter-spacing="-0.01395586">h</tspan>
+                <tspan x="414.18724" y="136.687542" letter-spacing="-0.12678894">o</tspan>
+                <tspan x="421.726464" y="136.687542" letter-spacing="0.02254896">w</tspan>
+                <tspan x="431.870804" y="136.687542" letter-spacing="0.0623724">s</tspan>
+                <tspan x="437.491865" y="136.687542" letter-spacing="-0.004"> u</tspan>
+                <tspan x="448.020483" y="136.687542" letter-spacing="0.0623724">p</tspan>
+                <tspan x="455.947985" y="136.687542" letter-spacing="-0.004"> an</tspan>
+                <tspan x="474.337733" y="136.687542" letter-spacing="0.0623724">d</tspan>
+                <tspan x="482.265235" y="136.687542" letter-spacing="-0.004"> </tspan>
+                <tspan x="485.131841" y="136.687542" letter-spacing="0.03582344">d</tspan>
+                <tspan x="493.032794" y="136.687542" letter-spacing="-0.12844825">o</tspan>
+                <tspan x="500.570358" y="136.687542" letter-spacing="0.07398757">w</tspan>
+                <tspan x="510.766136" y="136.687542" letter-spacing="0.0623724">n</tspan>
+                <tspan x="518.494521" y="136.687542" letter-spacing="-0.004"> </tspan>
+                <tspan x="521.361127" y="136.687542" letter-spacing="-0.02557103">l</tspan>
+                <tspan x="524.637583" y="136.687542" letter-spacing="0.01093379">i</tspan>
+                <tspan x="527.950544" y="136.687542" letter-spacing="-0.07700964">s</tspan>
+                <tspan x="533.432223" y="136.687542" letter-spacing="-0.004">t</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="156.599262">• </tspan>
+            </text>
+            <text id="uses-FIFO-instead-of-LIFO" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.003" fill="#231F20">
+                <tspan x="400.988792" y="156.599262">u</tspan>
+                <tspan x="408.651804" y="156.599262" letter-spacing="-0.06771309">s</tspan>
+                <tspan x="414.14278" y="156.599262" letter-spacing="-0.03452689">e</tspan>
+                <tspan x="420.994389" y="156.599262" letter-spacing="0.0467793">s</tspan>
+                <tspan x="426.599857" y="156.599262"> F</tspan>
+                <tspan x="436.8318" y="156.599262" letter-spacing="0.07332826">I</tspan>
+                <tspan x="440.489238" y="156.599262" letter-spacing="-0.19547996">F</tspan>
+                <tspan x="447.511756" y="156.599262" letter-spacing="0.04843861">O</tspan>
+                <tspan x="459.424261" y="156.599262"> </tspan>
+                <tspan x="462.291868" y="156.599262" letter-spacing="-0.03950482">i</tspan>
+                <tspan x="465.55439" y="156.599262" letter-spacing="-0.0361862">n</tspan>
+                <tspan x="473.184216" y="156.599262" letter-spacing="-0.09260274">s</tspan>
+                <tspan x="478.650302" y="156.599262" letter-spacing="-0.22534754">t</tspan>
+                <tspan x="483.071022" y="156.599262" letter-spacing="-0.05941654">e</tspan>
+                <tspan x="489.897742" y="156.599262">a</tspan>
+                <tspan x="497.759871" y="156.599262" letter-spacing="0.0467793">d</tspan>
+                <tspan x="505.67178" y="156.599262"> </tspan>
+                <tspan x="508.539386" y="156.599262" letter-spacing="-0.05775723">o</tspan>
+                <tspan x="516.313572" y="156.599262" letter-spacing="0.0467793">f</tspan>
+                <tspan x="520.641371" y="156.599262"> L</tspan>
+                <tspan x="530.873314" y="156.599262" letter-spacing="0.07332826">I</tspan>
+                <tspan x="534.530752" y="156.599262" letter-spacing="-0.19382065">F</tspan>
+                <tspan x="541.55493" y="156.599262">O</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="176.510982">• </tspan>
+            </text>
+            <text id="when-queue-is-long,-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="0.01161517" fill="#231F20">
+                <tspan x="400.988792" y="176.510982">w</tspan>
+                <tspan x="411.122198" y="176.510982" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="418.736772" y="176.510982" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="425.539943" y="176.510982">n </tspan>
+                <tspan x="436.076561" y="176.510982" letter-spacing="-0.07632826">q</tspan>
+                <tspan x="443.865363" y="176.510982" letter-spacing="-0.02986758">u</tspan>
+                <tspan x="451.501507" y="176.510982" letter-spacing="-0.12776687">e</tspan>
+                <tspan x="458.259877" y="176.510982" letter-spacing="-0.02820827">u</tspan>
+                <tspan x="465.897681" y="176.510982">e </tspan>
+                <tspan x="475.654424" y="176.510982" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="478.905012" y="176.510982">s </tspan>
+                <tspan x="487.334307" y="176.510982" letter-spacing="-0.05143861">l</tspan>
+                <tspan x="490.584895" y="176.510982" letter-spacing="-0.04314206">o</tspan>
+                <tspan x="498.373696" y="176.510982" letter-spacing="-0.06803171">n</tspan>
+                <tspan x="505.971677" y="176.510982" letter-spacing="-0.16924962">g</tspan>
+                <tspan x="513.667556" y="176.510982">, </tspan>
+            </text>
+            <text id="there’s-no-option-to-go-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.20575444" fill="#231F20">
+                <tspan x="400.988792" y="196.422702">t</tspan>
+                <tspan x="405.429106" y="196.422702" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="413.043679" y="196.422702" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="419.84685" y="196.422702" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="424.361833" y="196.422702" letter-spacing="-0.60398884">e</tspan>
+                <tspan x="429.897291" y="196.422702" letter-spacing="-1.0453653">’</tspan>
+                <tspan x="431.307705" y="196.422702">s </tspan>
+                <tspan x="439.736999" y="196.422702" letter-spacing="-0.07632826">n</tspan>
+                <tspan x="447.326683" y="196.422702">o </tspan>
+                <tspan x="458.029233" y="196.422702" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="465.819693" y="196.422702" letter-spacing="-0.28042339">p</tspan>
+                <tspan x="473.404399" y="196.422702">t</tspan>
+                <tspan x="477.844713" y="196.422702" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="481.095301" y="196.422702" letter-spacing="-0.04314206">o</tspan>
+                <tspan x="488.884102" y="196.422702">n </tspan>
+                <tspan x="499.420721" y="196.422702" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="503.761476" y="196.422702">o </tspan>
+                <tspan x="514.464025" y="196.422702" letter-spacing="-0.02654896">g</tspan>
+                <tspan x="522.302606" y="196.422702">o </tspan>
+            </text>
+            <text id="back-to-top" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="0.24085236" fill="#231F20">
+                <tspan x="400.988792" y="216.334422">b</tspan>
+                <tspan x="409.094774" y="216.334422" letter-spacing="0.21264409">a</tspan>
+                <tspan x="417.172547" y="216.334422" letter-spacing="0.19439168">c</tspan>
+                <tspan x="423.73869" y="216.334422" letter-spacing="0.2806758">k</tspan>
+                <tspan x="430.689792" y="216.334422" letter-spacing="-0.018"> t</tspan>
+                <tspan x="438.170466" y="216.334422" letter-spacing="0.2806758">o</tspan>
+                <tspan x="446.283085" y="216.334422" letter-spacing="-0.018"> t</tspan>
+                <tspan x="453.763759" y="216.334422" letter-spacing="0.23919305">o</tspan>
+                <tspan x="461.834895" y="216.334422" letter-spacing="-0.018">p</tspan>
+            </text>
+            <text id="not-available" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.005" fill="#231F20">
+                <tspan x="575.996218" y="116.775822">n</tspan>
+                <tspan x="583.65723" y="116.775822" letter-spacing="-0.21905099">o</tspan>
+                <tspan x="591.270122" y="116.775822" letter-spacing="0.0779655">t</tspan>
+                <tspan x="595.994156" y="116.775822"> </tspan>
+                <tspan x="598.859762" y="116.775822" letter-spacing="0.08128412">a</tspan>
+                <tspan x="606.806176" y="116.775822" letter-spacing="-0.14438204">v</tspan>
+                <tspan x="613.016951" y="116.775822" letter-spacing="0.00993379">a</tspan>
+                <tspan x="620.892014" y="116.775822">i</tspan>
+                <tspan x="624.189041" y="116.775822" letter-spacing="0.0281862">l</tspan>
+                <tspan x="627.519254" y="116.775822" letter-spacing="0.01491172">a</tspan>
+                <tspan x="635.399295" y="116.775822" letter-spacing="0.03316413">b</tspan>
+                <tspan x="643.297589" y="116.775822" letter-spacing="0.04643861">l</tspan>
+                <tspan x="646.646054" y="116.775822">e</tspan>
+            </text>
+            <text id="not-available" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.005" fill="#231F20">
+                <tspan x="746.49032" y="116.775822">n</tspan>
+                <tspan x="754.151333" y="116.775822" letter-spacing="-0.21905099">o</tspan>
+                <tspan x="761.764225" y="116.775822" letter-spacing="0.0779655">t</tspan>
+                <tspan x="766.488258" y="116.775822"> </tspan>
+                <tspan x="769.353865" y="116.775822" letter-spacing="0.08128412">a</tspan>
+                <tspan x="777.300278" y="116.775822" letter-spacing="-0.14438204">v</tspan>
+                <tspan x="783.511053" y="116.775822" letter-spacing="0.00993379">a</tspan>
+                <tspan x="791.386117" y="116.775822">i</tspan>
+                <tspan x="794.683143" y="116.775822" letter-spacing="0.0281862">l</tspan>
+                <tspan x="798.013357" y="116.775822" letter-spacing="0.01491172">a</tspan>
+                <tspan x="805.893398" y="116.775822" letter-spacing="0.03316413">b</tspan>
+                <tspan x="813.791691" y="116.775822" letter-spacing="0.04643861">l</tspan>
+                <tspan x="817.140157" y="116.775822">e</tspan>
+            </text>
+            <text id="opportunities" font-family="MuseoSans-700, Museo Sans" font-size="16.321" font-weight="500" letter-spacing="-0.003" fill="#FEFEFE">
+                <tspan x="8.9512" y="351.12746">op</tspan>
+                <tspan x="29.117956" y="351.12746" letter-spacing="0.0802371">p</tspan>
+                <tspan x="39.1703241" y="351.12746">o</tspan>
+                <tspan x="49.3679491" y="351.12746" letter-spacing="0.1912199">r</tspan>
+                <tspan x="55.973322" y="351.12746" letter-spacing="-0.2200693">t</tspan>
+                <tspan x="61.9062697" y="351.12746" letter-spacing="-0.0911334">u</tspan>
+                <tspan x="71.7546253" y="351.12746" letter-spacing="-0.0421704">n</tspan>
+                <tspan x="81.7172279" y="351.12746" letter-spacing="-0.1449927">i</tspan>
+                <tspan x="85.9299422" y="351.12746" letter-spacing="-0.133568">t</tspan>
+                <tspan x="91.9493912" y="351.12746" letter-spacing="-0.0503309">i</tspan>
+                <tspan x="96.2567673" y="351.12746" letter-spacing="0.0345383">e</tspan>
+                <tspan x="105.33314" y="351.12746">s</tspan>
+            </text>
+            <text id="adding-an-option-to-add-directly-to-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.04480137" fill="#231F20">
+                <tspan x="131.1518" y="261.043822">ad</tspan>
+                <tspan x="146.792456" y="261.043822" letter-spacing="-0.06803171">d</tspan>
+                <tspan x="154.589554" y="261.043822" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="157.806956" y="261.043822" letter-spacing="-0.06803171">n</tspan>
+                <tspan x="165.404936" y="261.043822">g </tspan>
+                <tspan x="176.140672" y="261.043822" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="183.942748" y="261.043822">n </tspan>
+                <tspan x="194.479366" y="261.043822" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="202.269827" y="261.043822" letter-spacing="-0.28042339">p</tspan>
+                <tspan x="209.854533" y="261.043822" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="214.294846" y="261.043822" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="217.545434" y="261.043822" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="225.335895" y="261.043822">n </tspan>
+                <tspan x="235.872513" y="261.043822" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="240.213268" y="261.043822">o </tspan>
+                <tspan x="250.915818" y="261.043822">ad</tspan>
+                <tspan x="266.556474" y="261.043822">d </tspan>
+                <tspan x="277.29221" y="261.043822" letter-spacing="-0.06803171">d</tspan>
+                <tspan x="285.089307" y="261.043822" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="288.306709" y="261.043822" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="292.821692" y="261.043822" letter-spacing="-0.13772273">e</tspan>
+                <tspan x="299.570106" y="261.043822" letter-spacing="0.01991172">c</tspan>
+                <tspan x="305.961768" y="261.043822" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="310.402081" y="261.043822" letter-spacing="-0.01327448">l</tspan>
+                <tspan x="313.690834" y="261.043822">y </tspan>
+                <tspan x="322.916597" y="261.043822" letter-spacing="-0.30365373">t</tspan>
+                <tspan x="327.259012" y="261.043822">o </tspan>
+            </text>
+            <text id="queue-for-each-video-on-any-page" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.04514206" fill="#231F20">
+                <tspan x="131.1518" y="280.955542">q</tspan>
+                <tspan x="138.971787" y="280.955542" letter-spacing="-0.002">u</tspan>
+                <tspan x="146.6358" y="280.955542" letter-spacing="-0.09658067">e</tspan>
+                <tspan x="153.425355" y="280.955542" letter-spacing="-0.002">u</tspan>
+                <tspan x="161.089368" y="280.955542" letter-spacing="0.02952689">e</tspan>
+                <tspan x="168.005031" y="280.955542" letter-spacing="-0.002"> </tspan>
+                <tspan x="170.873637" y="280.955542" letter-spacing="-0.11483308">f</tspan>
+                <tspan x="175.039824" y="280.955542" letter-spacing="-0.01029655">o</tspan>
+                <tspan x="182.861471" y="280.955542" letter-spacing="0.0311862">r</tspan>
+                <tspan x="187.721249" y="280.955542" letter-spacing="-0.002"> </tspan>
+                <tspan x="190.589855" y="280.955542" letter-spacing="-0.07500964">e</tspan>
+                <tspan x="197.400982" y="280.955542" letter-spacing="-0.03684551">a</tspan>
+                <tspan x="205.229266" y="280.955542" letter-spacing="-0.05509792">c</tspan>
+                <tspan x="211.545918" y="280.955542" letter-spacing="0.0311862">h</tspan>
+                <tspan x="219.243117" y="280.955542" letter-spacing="-0.002"> </tspan>
+                <tspan x="222.111723" y="280.955542" letter-spacing="0.03284551">v</tspan>
+                <tspan x="228.499726" y="280.955542" letter-spacing="-0.0185931">i</tspan>
+                <tspan x="231.78316" y="280.955542" letter-spacing="-0.002">d</tspan>
+                <tspan x="239.646289" y="280.955542" letter-spacing="-0.06505378">e</tspan>
+                <tspan x="246.467372" y="280.955542" letter-spacing="0.0311862">o</tspan>
+                <tspan x="254.330501" y="280.955542" letter-spacing="-0.002"> </tspan>
+                <tspan x="257.199108" y="280.955542" letter-spacing="-0.01029655">o</tspan>
+                <tspan x="265.020754" y="280.955542" letter-spacing="0.0311862">n</tspan>
+                <tspan x="272.717953" y="280.955542" letter-spacing="-0.002"> </tspan>
+                <tspan x="275.586559" y="280.955542" letter-spacing="-0.03186758">a</tspan>
+                <tspan x="283.419821" y="280.955542" letter-spacing="-0.20941375">n</tspan>
+                <tspan x="290.627523" y="280.955542" letter-spacing="0.0311862">y</tspan>
+                <tspan x="297.013866" y="280.955542" letter-spacing="-0.002"> p</tspan>
+                <tspan x="307.745602" y="280.955542" letter-spacing="-0.01361517">a</tspan>
+                <tspan x="315.597116" y="280.955542" letter-spacing="-0.002">ge</tspan>
+            </text>
+            <text id="an-option-to-add-every-anime-on-the-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.06305378" fill="#231F20">
+                <tspan x="131.1518" y="320.778982">a</tspan>
+                <tspan x="138.953876" y="320.778982">n </tspan>
+                <tspan x="149.490494" y="320.778982" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="157.280955" y="320.778982" letter-spacing="-0.28042339">p</tspan>
+                <tspan x="164.865661" y="320.778982" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="169.305974" y="320.778982" letter-spacing="-0.05309792">i</tspan>
+                <tspan x="172.554903" y="320.778982" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="180.345364" y="320.778982">n </tspan>
+                <tspan x="190.881982" y="320.778982" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="195.222737" y="320.778982">o </tspan>
+                <tspan x="205.925287" y="320.778982" letter-spacing="-0.04480137">ad</tspan>
+                <tspan x="221.565943" y="320.778982">d </tspan>
+                <tspan x="232.301678" y="320.778982" letter-spacing="-0.18086479">e</tspan>
+                <tspan x="238.841019" y="320.778982" letter-spacing="-0.20741375">v</tspan>
+                <tspan x="244.822832" y="320.778982" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="251.626003" y="320.778982" letter-spacing="0.31195028">r</tspan>
+                <tspan x="257.098407" y="320.778982">y </tspan>
+                <tspan x="266.324171" y="320.778982">a</tspan>
+                <tspan x="274.126246" y="320.778982" letter-spacing="-0.07466895">n</tspan>
+                <tspan x="281.717589" y="320.778982" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="284.934991" y="320.778982" letter-spacing="-0.03484551">m</tspan>
+                <tspan x="296.382571" y="320.778982">e </tspan>
+                <tspan x="306.139314" y="320.778982" letter-spacing="-0.04314206">o</tspan>
+                <tspan x="313.928115" y="320.778982">n </tspan>
+                <tspan x="324.464734" y="320.778982" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="328.905047" y="320.778982" letter-spacing="-0.05143861">h</tspan>
+                <tspan x="336.519621" y="320.778982">e </tspan>
+            </text>
+            <text id="simulcast-directly-to-your-queue" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.004" fill="#231F20">
+                <tspan x="131.1518" y="340.690702">s</tspan>
+                <tspan x="136.706489" y="340.690702" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="139.986263" y="340.690702" letter-spacing="-0.03884551">m</tspan>
+                <tspan x="151.429843" y="340.690702">ul</tspan>
+                <tspan x="162.389882" y="340.690702" letter-spacing="-0.08364688">c</tspan>
+                <tspan x="168.677985" y="340.690702" letter-spacing="0.00927448">a</tspan>
+                <tspan x="176.552389" y="340.690702" letter-spacing="-0.07700964">s</tspan>
+                <tspan x="182.034068" y="340.690702" letter-spacing="0.0623724">t</tspan>
+                <tspan x="186.742508" y="340.690702"> d</tspan>
+                <tspan x="197.470244" y="340.690702" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="200.750019" y="340.690702" letter-spacing="-0.0869655">r</tspan>
+                <tspan x="205.325714" y="340.690702" letter-spacing="-0.07535033">e</tspan>
+                <tspan x="212.1365" y="340.690702" letter-spacing="0.08228412">c</tspan>
+                <tspan x="218.590535" y="340.690702" letter-spacing="-0.14338204">t</tspan>
+                <tspan x="223.093221" y="340.690702" letter-spacing="0.04909792">l</tspan>
+                <tspan x="226.444346" y="340.690702" letter-spacing="0.0623724">y</tspan>
+                <tspan x="232.861875" y="340.690702"> </tspan>
+                <tspan x="235.728482" y="340.690702" letter-spacing="-0.24294064">t</tspan>
+                <tspan x="240.131609" y="340.690702" letter-spacing="0.0623724">o</tspan>
+                <tspan x="248.025925" y="340.690702"> </tspan>
+                <tspan x="250.892531" y="340.690702" letter-spacing="-0.15167859">y</tspan>
+                <tspan x="256.930079" y="340.690702">ou</tspan>
+                <tspan x="272.420034" y="340.690702" letter-spacing="0.0623724">r</tspan>
+                <tspan x="277.310999" y="340.690702"> </tspan>
+                <tspan x="280.177605" y="340.690702" letter-spacing="-0.01395586">q</tspan>
+                <tspan x="288.028778" y="340.690702" letter-spacing="0.03416413">u</tspan>
+                <tspan x="295.728955" y="340.690702" letter-spacing="-0.06539447">e</tspan>
+                <tspan x="302.549697" y="340.690702" letter-spacing="0.03416413">u</tspan>
+                <tspan x="310.249873" y="340.690702">e</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="261.043822">• </tspan>
+            </text>
+            <text id="changing-the-order-that-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.02391172" fill="#231F20">
+                <tspan x="400.988792" y="261.043822">c</tspan>
+                <tspan x="407.336631" y="261.043822" letter-spacing="-0.004">hang</tspan>
+                <tspan x="438.382914" y="261.043822">i</tspan>
+                <tspan x="441.661029" y="261.043822" letter-spacing="-0.004">n</tspan>
+                <tspan x="449.323041" y="261.043822" letter-spacing="0.0623724">g</tspan>
+                <tspan x="457.250543" y="261.043822" letter-spacing="-0.004"> </tspan>
+                <tspan x="460.11715" y="261.043822" letter-spacing="-0.14338204">t</tspan>
+                <tspan x="464.619836" y="261.043822" letter-spacing="0.01093379">h</tspan>
+                <tspan x="472.296782" y="261.043822" letter-spacing="0.0623724">e</tspan>
+                <tspan x="479.24529" y="261.043822" letter-spacing="-0.004"> </tspan>
+                <tspan x="482.111897" y="261.043822" letter-spacing="0.02088965">o</tspan>
+                <tspan x="489.96473" y="261.043822" letter-spacing="-0.1035586">r</tspan>
+                <tspan x="494.523832" y="261.043822" letter-spacing="0.03416413">d</tspan>
+                <tspan x="502.423126" y="261.043822" letter-spacing="-0.0205931">e</tspan>
+                <tspan x="509.288669" y="261.043822" letter-spacing="0.0623724">r</tspan>
+                <tspan x="514.179633" y="261.043822" letter-spacing="-0.004"> </tspan>
+                <tspan x="517.04624" y="261.043822" letter-spacing="-0.14338204">t</tspan>
+                <tspan x="521.548926" y="261.043822" letter-spacing="-0.004">h</tspan>
+                <tspan x="529.210938" y="261.043822" letter-spacing="-0.13508549">a</tspan>
+                <tspan x="536.940982" y="261.043822" letter-spacing="0.0623724">t</tspan>
+                <tspan x="541.649422" y="261.043822" letter-spacing="-0.004"> </tspan>
+            </text>
+            <text id="videos-are-added-will-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="400.988792" y="280.955542">v</tspan>
+                <tspan x="407.343949" y="280.955542" letter-spacing="-0.0497793">i</tspan>
+                <tspan x="410.596197" y="280.955542" letter-spacing="-0.02820827">d</tspan>
+                <tspan x="418.433118" y="280.955542" letter-spacing="-0.09623998">e</tspan>
+                <tspan x="425.223015" y="280.955542" letter-spacing="-0.12610756">o</tspan>
+                <tspan x="432.92885" y="280.955542">s </tspan>
+                <tspan x="441.358145" y="280.955542" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="449.160221" y="280.955542" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="453.675203" y="280.955542">e </tspan>
+                <tspan x="463.431946" y="280.955542" letter-spacing="-0.04480137">ad</tspan>
+                <tspan x="479.072602" y="280.955542" letter-spacing="-0.02820827">d</tspan>
+                <tspan x="486.909523" y="280.955542" letter-spacing="-0.10619584">e</tspan>
+                <tspan x="493.689464" y="280.955542">d </tspan>
+                <tspan x="504.4252" y="280.955542" letter-spacing="0.01161517">w</tspan>
+                <tspan x="514.558606" y="280.955542" letter-spacing="-0.08794343">i</tspan>
+                <tspan x="517.772689" y="280.955542" letter-spacing="-0.08960274">l</tspan>
+                <tspan x="520.985113" y="280.955542">l </tspan>
+            </text>
+            <text id="make-it-more-useful" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.003" fill="#231F20">
+                <tspan x="400.988792" y="300.867262">m</tspan>
+                <tspan x="412.468217" y="300.867262" letter-spacing="-0.01627448">a</tspan>
+                <tspan x="420.317072" y="300.867262" letter-spacing="-0.32158752">k</tspan>
+                <tspan x="426.417014" y="300.867262" letter-spacing="0.0467793">e</tspan>
+                <tspan x="433.34993" y="300.867262"> </tspan>
+                <tspan x="436.217537" y="300.867262" letter-spacing="-0.16727169">i</tspan>
+                <tspan x="439.352292" y="300.867262" letter-spacing="0.0467793">t</tspan>
+                <tspan x="444.045139" y="300.867262"> </tspan>
+                <tspan x="446.912745" y="300.867262" letter-spacing="0.0135931">m</tspan>
+                <tspan x="458.408764" y="300.867262">o</tspan>
+                <tspan x="466.237707" y="300.867262" letter-spacing="-0.10089929">r</tspan>
+                <tspan x="470.799469" y="300.867262" letter-spacing="0.0467793">e</tspan>
+                <tspan x="477.732385" y="300.867262"> u</tspan>
+                <tspan x="488.263003" y="300.867262" letter-spacing="-0.06771309">s</tspan>
+                <tspan x="493.753978" y="300.867262" letter-spacing="0.00695586">e</tspan>
+                <tspan x="500.647071" y="300.867262">f</tspan>
+                <tspan x="504.925091" y="300.867262" letter-spacing="-0.02125241">u</tspan>
+                <tspan x="512.56985" y="300.867262">l</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="320.778982">• </tspan>
+            </text>
+            <text id="including-a-back-to-top-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.005" fill="#231F20">
+                <tspan x="400.988792" y="320.778982">i</tspan>
+                <tspan x="404.285819" y="320.778982" letter-spacing="-0.01329655">n</tspan>
+                <tspan x="411.938535" y="320.778982" letter-spacing="0.03648275">c</tspan>
+                <tspan x="418.346768" y="320.778982">l</tspan>
+                <tspan x="421.643795" y="320.778982" letter-spacing="0.03316413">u</tspan>
+                <tspan x="429.342971" y="320.778982" letter-spacing="0.00993379">d</tspan>
+                <tspan x="437.218034" y="320.778982">i</tspan>
+                <tspan x="440.515061" y="320.778982" letter-spacing="0.00993379">n</tspan>
+                <tspan x="448.191007" y="320.778982" letter-spacing="0.0779655">g</tspan>
+                <tspan x="456.134102" y="320.778982"> </tspan>
+                <tspan x="458.999708" y="320.778982" letter-spacing="0.0779655">a</tspan>
+                <tspan x="466.942803" y="320.778982"> </tspan>
+                <tspan x="469.80841" y="320.778982" letter-spacing="0.03814206">b</tspan>
+                <tspan x="477.711681" y="320.778982" letter-spacing="0.00827448">a</tspan>
+                <tspan x="485.585085" y="320.778982">c</tspan>
+                <tspan x="491.951835" y="320.778982" letter-spacing="0.0779655">k</tspan>
+                <tspan x="498.700227" y="320.778982"> </tspan>
+                <tspan x="501.565833" y="320.778982" letter-spacing="-0.22734754">t</tspan>
+                <tspan x="505.984554" y="320.778982" letter-spacing="0.0779655">o</tspan>
+                <tspan x="513.894463" y="320.778982"> </tspan>
+                <tspan x="516.760069" y="320.778982" letter-spacing="-0.22734754">t</tspan>
+                <tspan x="521.178789" y="320.778982" letter-spacing="0.03648275">o</tspan>
+                <tspan x="529.047215" y="320.778982" letter-spacing="0.0779655">p</tspan>
+                <tspan x="536.99031" y="320.778982"> </tspan>
+            </text>
+            <text id="will-limit-how-annoyed-a-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="0.08958067" fill="#231F20">
+                <tspan x="400.988792" y="340.690702">w</tspan>
+                <tspan x="411.200164" y="340.690702" letter-spacing="-0.005">il</tspan>
+                <tspan x="417.794218" y="340.690702" letter-spacing="0.0779655">l</tspan>
+                <tspan x="421.17421" y="340.690702" letter-spacing="-0.005"> li</tspan>
+                <tspan x="430.63387" y="340.690702" letter-spacing="0.02320827">m</tspan>
+                <tspan x="442.139504" y="340.690702" letter-spacing="-0.13608549">i</tspan>
+                <tspan x="445.305445" y="340.690702" letter-spacing="0.0779655">t</tspan>
+                <tspan x="450.029479" y="340.690702" letter-spacing="-0.005"> h</tspan>
+                <tspan x="460.556097" y="340.690702" letter-spacing="-0.11119584">o</tspan>
+                <tspan x="468.110913" y="340.690702" letter-spacing="0.0779655">w</tspan>
+                <tspan x="478.31067" y="340.690702" letter-spacing="-0.005"> </tspan>
+                <tspan x="481.176276" y="340.690702" letter-spacing="0.01491172">a</tspan>
+                <tspan x="489.056317" y="340.690702" letter-spacing="-0.005">nn</tspan>
+                <tspan x="504.378342" y="340.690702" letter-spacing="-0.12778894">oy</tspan>
+                <tspan x="517.978002" y="340.690702" letter-spacing="-0.02823034">e</tspan>
+                <tspan x="524.835909" y="340.690702" letter-spacing="0.0779655">d</tspan>
+                <tspan x="532.779003" y="340.690702" letter-spacing="-0.005"> </tspan>
+                <tspan x="535.64461" y="340.690702" letter-spacing="0.0779655">a</tspan>
+                <tspan x="543.587705" y="340.690702" letter-spacing="-0.005"> </tspan>
+            </text>
+            <text id="user-might-get" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.003" fill="#231F20">
+                <tspan x="400.988792" y="360.602422">u</tspan>
+                <tspan x="408.651804" y="360.602422" letter-spacing="-0.06771309">s</tspan>
+                <tspan x="414.14278" y="360.602422" letter-spacing="-0.0361862">e</tspan>
+                <tspan x="420.99273" y="360.602422" letter-spacing="0.0467793">r</tspan>
+                <tspan x="425.868102" y="360.602422"> mi</tspan>
+                <tspan x="443.51416" y="360.602422" letter-spacing="-0.01627448">g</tspan>
+                <tspan x="451.363015" y="360.602422" letter-spacing="-0.24194064">h</tspan>
+                <tspan x="458.787086" y="360.602422" letter-spacing="0.0467793">t</tspan>
+                <tspan x="463.479934" y="360.602422"> </tspan>
+                <tspan x="466.34754" y="360.602422" letter-spacing="0.01857103">g</tspan>
+                <tspan x="474.23124" y="360.602422" letter-spacing="-0.1855241">e</tspan>
+                <tspan x="480.931853" y="360.602422">t</tspan>
+            </text>
+            <text id="•-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="373.842481" y="380.514142">• </tspan>
+            </text>
+            <text id="manually-moving-shows-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="0.01093379" fill="#231F20">
+                <tspan x="400.988792" y="380.514142">m</tspan>
+                <tspan x="412.482151" y="380.514142" letter-spacing="-0.004">a</tspan>
+                <tspan x="420.343281" y="380.514142" letter-spacing="-0.0537793">n</tspan>
+                <tspan x="427.955513" y="380.514142" letter-spacing="0.01757103">u</tspan>
+                <tspan x="435.639097" y="380.514142" letter-spacing="-0.004">a</tspan>
+                <tspan x="443.500226" y="380.514142" letter-spacing="-0.02557103">l</tspan>
+                <tspan x="446.776682" y="380.514142" letter-spacing="0.04909792">l</tspan>
+                <tspan x="450.127807" y="380.514142" letter-spacing="0.0623724">y</tspan>
+                <tspan x="456.545337" y="380.514142" letter-spacing="-0.004"> </tspan>
+                <tspan x="459.411943" y="380.514142" letter-spacing="0.0291862">m</tspan>
+                <tspan x="470.923554" y="380.514142" letter-spacing="-0.14338204">o</tspan>
+                <tspan x="478.446184" y="380.514142" letter-spacing="0.06569102">v</tspan>
+                <tspan x="484.867033" y="380.514142" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="488.146807" y="380.514142" letter-spacing="-0.004">n</tspan>
+                <tspan x="495.808819" y="380.514142" letter-spacing="0.0623724">g</tspan>
+                <tspan x="503.736321" y="380.514142" letter-spacing="-0.004"> </tspan>
+                <tspan x="506.602927" y="380.514142" letter-spacing="-0.01229655">s</tspan>
+                <tspan x="512.149319" y="380.514142" letter-spacing="-0.01395586">h</tspan>
+                <tspan x="519.801376" y="380.514142" letter-spacing="-0.12678894">o</tspan>
+                <tspan x="527.340599" y="380.514142" letter-spacing="0.02420827">w</tspan>
+                <tspan x="537.486598" y="380.514142" letter-spacing="0.0623724">s</tspan>
+                <tspan x="543.107659" y="380.514142" letter-spacing="-0.004"> </tspan>
+            </text>
+            <text id="into-various-layouts-versus-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.08462481" fill="#231F20">
+                <tspan x="400.988792" y="400.425862">i</tspan>
+                <tspan x="404.206194" y="400.425862" letter-spacing="-0.28871994">n</tspan>
+                <tspan x="411.583487" y="400.425862" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="415.924242" y="400.425862">o </tspan>
+                <tspan x="426.626791" y="400.425862" letter-spacing="-0.22234754">v</tspan>
+                <tspan x="432.759601" y="400.425862" letter-spacing="-0.06471309">a</tspan>
+                <tspan x="440.560017" y="400.425862" letter-spacing="-0.12278894">r</tspan>
+                <tspan x="445.26582" y="400.425862" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="448.516409" y="400.425862" letter-spacing="-0.06803171">o</tspan>
+                <tspan x="456.28032" y="400.425862" letter-spacing="-0.05309792">u</tspan>
+                <tspan x="463.893234" y="400.425862">s </tspan>
+                <tspan x="472.322529" y="400.425862" letter-spacing="-0.0497793">l</tspan>
+                <tspan x="475.574777" y="400.425862">a</tspan>
+                <tspan x="483.439906" y="400.425862" letter-spacing="-0.21405099">y</tspan>
+                <tspan x="489.415081" y="400.425862" letter-spacing="-0.06969102">o</tspan>
+                <tspan x="497.177334" y="400.425862" letter-spacing="-0.19745789">u</tspan>
+                <tspan x="504.645888" y="400.425862" letter-spacing="-0.11449239">t</tspan>
+                <tspan x="509.177464" y="400.425862">s </tspan>
+                <tspan x="517.606758" y="400.425862" letter-spacing="-0.20575444">v</tspan>
+                <tspan x="523.59023" y="400.425862" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="530.393401" y="400.425862" letter-spacing="-0.01493379">r</tspan>
+                <tspan x="535.207059" y="400.425862" letter-spacing="-0.12776687">s</tspan>
+                <tspan x="540.637981" y="400.425862" letter-spacing="-0.05309792">u</tspan>
+                <tspan x="548.250895" y="400.425862">s </tspan>
+            </text>
+            <text id="a-dropdown-might-make-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="400.988792" y="420.337582">a </tspan>
+                <tspan x="411.724528" y="420.337582" letter-spacing="-0.06305378">d</tspan>
+                <tspan x="419.526604" y="420.337582" letter-spacing="-0.16427169">r</tspan>
+                <tspan x="424.024993" y="420.337582" letter-spacing="-0.04148275">op</tspan>
+                <tspan x="439.6391" y="420.337582" letter-spacing="-0.02488965">d</tspan>
+                <tspan x="447.47934" y="420.337582" letter-spacing="-0.19082065">o</tspan>
+                <tspan x="454.954531" y="420.337582" letter-spacing="0.01161517">w</tspan>
+                <tspan x="465.087937" y="420.337582">n </tspan>
+                <tspan x="475.624556" y="420.337582" letter-spacing="-0.05475723">m</tspan>
+                <tspan x="487.052224" y="420.337582" letter-spacing="-0.0497793">i</tspan>
+                <tspan x="490.304472" y="420.337582" letter-spacing="-0.06305378">g</tspan>
+                <tspan x="498.106547" y="420.337582" letter-spacing="-0.28871994">h</tspan>
+                <tspan x="505.483839" y="420.337582">t </tspan>
+                <tspan x="513.000514" y="420.337582" letter-spacing="-0.05309792">m</tspan>
+                <tspan x="524.429841" y="420.337582" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="532.231917" y="420.337582" letter-spacing="-0.36836682">k</tspan>
+                <tspan x="538.28508" y="420.337582">e </tspan>
+            </text>
+            <text id="it-more-enjoyable" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.18286479" fill="#231F20">
+                <tspan x="400.988792" y="440.249302">i</tspan>
+                <tspan x="404.107954" y="440.249302" letter-spacing="0.0311862">t</tspan>
+                <tspan x="408.785209" y="440.249302" letter-spacing="-0.002"> m</tspan>
+                <tspan x="423.13424" y="440.249302" letter-spacing="-0.01029655">o</tspan>
+                <tspan x="430.955887" y="440.249302" letter-spacing="-0.1181517">r</tspan>
+                <tspan x="435.500396" y="440.249302" letter-spacing="0.0311862">e</tspan>
+                <tspan x="442.417719" y="440.249302" letter-spacing="-0.002"> </tspan>
+                <tspan x="445.286325" y="440.249302" letter-spacing="-0.0517793">e</tspan>
+                <tspan x="452.120682" y="440.249302" letter-spacing="-0.05011999">n</tspan>
+                <tspan x="459.736574" y="440.249302" letter-spacing="-0.01195586">j</tspan>
+                <tspan x="463.026646" y="440.249302" letter-spacing="-0.17456824">o</tspan>
+                <tspan x="470.518089" y="440.249302" letter-spacing="-0.19116134">y</tspan>
+                <tspan x="476.682085" y="440.249302" letter-spacing="-0.03352689">a</tspan>
+                <tspan x="484.513688" y="440.249302" letter-spacing="-0.01195586">b</tspan>
+                <tspan x="492.366861" y="440.249302" letter-spacing="-0.002">le</tspan>
+            </text>
+            <text id="if-a-user-doesn’t-want-to-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.02157103" fill="#231F20">
+                <tspan x="575.996218" y="261.043822">i</tspan>
+                <tspan x="579.276674" y="261.043822">f a </tspan>
+                <tspan x="597.164036" y="261.043822" letter-spacing="-0.05309792">u</tspan>
+                <tspan x="604.77695" y="261.043822" letter-spacing="-0.1161517">s</tspan>
+                <tspan x="610.219487" y="261.043822" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="617.022658" y="261.043822">r </tspan>
+                <tspan x="624.721856" y="261.043822" letter-spacing="-0.02654896">d</tspan>
+                <tspan x="632.560436" y="261.043822" letter-spacing="-0.01161517">o</tspan>
+                <tspan x="640.380765" y="261.043822" letter-spacing="-0.08130619">e</tspan>
+                <tspan x="647.185595" y="261.043822" letter-spacing="-0.07466895">s</tspan>
+                <tspan x="652.669614" y="261.043822" letter-spacing="-0.70354744">n</tspan>
+                <tspan x="659.051321" y="261.043822" letter-spacing="-0.77323846">’</tspan>
+                <tspan x="662.144274" y="261.043822">t </tspan>
+                <tspan x="669.660949" y="261.043822" letter-spacing="-0.20575444">w</tspan>
+                <tspan x="679.576985" y="261.043822" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="687.379061" y="261.043822" letter-spacing="-0.28871994">n</tspan>
+                <tspan x="694.756353" y="261.043822">t </tspan>
+                <tspan x="702.273028" y="261.043822" letter-spacing="-0.30531304">t</tspan>
+                <tspan x="706.613782" y="261.043822">o </tspan>
+            </text>
+            <text id="manually-adjust-their-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.003" fill="#231F20">
+                <tspan x="575.996218" y="280.955542">m</tspan>
+                <tspan x="587.475643" y="280.955542" letter-spacing="-0.01627448">a</tspan>
+                <tspan x="595.324498" y="280.955542" letter-spacing="-0.0693724">n</tspan>
+                <tspan x="602.921138" y="280.955542">u</tspan>
+                <tspan x="610.58415" y="280.955542" letter-spacing="-0.02125241">a</tspan>
+                <tspan x="618.428027" y="280.955542" letter-spacing="-0.04116413">l</tspan>
+                <tspan x="621.68889" y="280.955542" letter-spacing="0.03350482">l</tspan>
+                <tspan x="625.024421" y="280.955542" letter-spacing="0.0467793">y</tspan>
+                <tspan x="631.426358" y="280.955542"> a</tspan>
+                <tspan x="642.156094" y="280.955542" letter-spacing="0.01525241">d</tspan>
+                <tspan x="650.036476" y="280.955542" letter-spacing="-0.04614206">j</tspan>
+                <tspan x="653.29236" y="280.955542">u</tspan>
+                <tspan x="660.955373" y="280.955542" letter-spacing="-0.09260274">s</tspan>
+                <tspan x="666.421458" y="280.955542" letter-spacing="0.0467793">t</tspan>
+                <tspan x="671.114306" y="280.955542"> </tspan>
+                <tspan x="673.981912" y="280.955542" letter-spacing="-0.15897514">t</tspan>
+                <tspan x="678.469005" y="280.955542">h</tspan>
+                <tspan x="686.132017" y="280.955542" letter-spacing="-0.02623034">e</tspan>
+                <tspan x="692.991923" y="280.955542" letter-spacing="-0.03784551">i</tspan>
+                <tspan x="696.256105" y="280.955542" letter-spacing="0.04511999">r</tspan>
+                <tspan x="701.129817" y="280.955542"> </tspan>
+            </text>
+            <text id="queue,-they-can-reorga" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.04514206" fill="#231F20">
+                <tspan x="575.996218" y="300.867262">q</tspan>
+                <tspan x="583.816205" y="300.867262" letter-spacing="-0.002">u</tspan>
+                <tspan x="591.480217" y="300.867262" letter-spacing="-0.09658067">e</tspan>
+                <tspan x="598.269773" y="300.867262" letter-spacing="-0.002">u</tspan>
+                <tspan x="605.933785" y="300.867262" letter-spacing="-0.21107306">e</tspan>
+                <tspan x="612.608849" y="300.867262" letter-spacing="0.0311862">,</tspan>
+                <tspan x="616.622379" y="300.867262" letter-spacing="-0.002"> </tspan>
+                <tspan x="619.490985" y="300.867262" letter-spacing="-0.17456824">t</tspan>
+                <tspan x="623.962485" y="300.867262" letter-spacing="-0.02025241">h</tspan>
+                <tspan x="631.608245" y="300.867262" letter-spacing="-0.14967859">e</tspan>
+                <tspan x="638.178772" y="300.867262" letter-spacing="0.0311862">y</tspan>
+                <tspan x="644.565115" y="300.867262" letter-spacing="-0.002"> </tspan>
+                <tspan x="647.433722" y="300.867262" letter-spacing="-0.11483308">c</tspan>
+                <tspan x="653.690639" y="300.867262" letter-spacing="-0.03186758">a</tspan>
+                <tspan x="661.523901" y="300.867262" letter-spacing="0.0311862">n</tspan>
+                <tspan x="669.221099" y="300.867262" letter-spacing="-0.002"> </tspan>
+                <tspan x="672.089706" y="300.867262" letter-spacing="-0.1181517">r</tspan>
+                <tspan x="676.634215" y="300.867262" letter-spacing="-0.06505378">e</tspan>
+                <tspan x="683.455298" y="300.867262" letter-spacing="-0.01029655">o</tspan>
+                <tspan x="691.276944" y="300.867262" letter-spacing="-0.13308549">r</tspan>
+                <tspan x="695.80652" y="300.867262" letter-spacing="-0.01361517">g</tspan>
+                <tspan x="703.658034" y="300.867262" letter-spacing="-0.002">a</tspan>
+            </text>
+            <text id="-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="711.312948" y="300.867262">-</tspan>
+            </text>
+            <text id="nize-by-genre" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="0.06566895" fill="#231F20">
+                <tspan x="575.996218" y="320.778982">n</tspan>
+                <tspan x="583.727899" y="320.778982" letter-spacing="-0.009">i</tspan>
+                <tspan x="587.020926" y="320.778982" letter-spacing="-0.10689929">z</tspan>
+                <tspan x="592.688425" y="320.778982" letter-spacing="0.1403379">e</tspan>
+                <tspan x="599.7149" y="320.778982" letter-spacing="-0.009"> </tspan>
+                <tspan x="602.576506" y="320.778982" letter-spacing="-0.07371309">b</tspan>
+                <tspan x="610.367922" y="320.778982" letter-spacing="0.1403379">y</tspan>
+                <tspan x="616.863418" y="320.778982" letter-spacing="-0.009"> </tspan>
+                <tspan x="619.725024" y="320.778982" letter-spacing="0.11378894">g</tspan>
+                <tspan x="627.703942" y="320.778982" letter-spacing="0.05571309">e</tspan>
+                <tspan x="634.645792" y="320.778982" letter-spacing="0.06400964">n</tspan>
+                <tspan x="642.375814" y="320.778982" letter-spacing="-0.009">re</tspan>
+            </text>
+            <text id="if-ilters-are-not-enough,-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.02157103" fill="#231F20">
+                <tspan x="746.49032" y="261.043822">i</tspan>
+                <tspan x="749.770776" y="261.043822">f </tspan>
+                <tspan x="756.922402" y="261.043822" letter-spacing="-0.07300964">i</tspan>
+                <tspan x="760.15142" y="261.043822" letter-spacing="-0.2157103">l</tspan>
+                <tspan x="763.237736" y="261.043822" letter-spacing="-0.27046753">t</tspan>
+                <tspan x="767.613337" y="261.043822" letter-spacing="-0.08462481">e</tspan>
+                <tspan x="774.414848" y="261.043822" letter-spacing="-0.01493379">r</tspan>
+                <tspan x="779.228507" y="261.043822">s </tspan>
+                <tspan x="787.657802" y="261.043822" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="795.459877" y="261.043822" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="799.97486" y="261.043822">e </tspan>
+                <tspan x="809.731602" y="261.043822" letter-spacing="-0.07632826">n</tspan>
+                <tspan x="817.321286" y="261.043822" letter-spacing="-0.2986758">o</tspan>
+                <tspan x="824.854554" y="261.043822">t </tspan>
+                <tspan x="832.371228" y="261.043822" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="839.174399" y="261.043822" letter-spacing="-0.07632826">n</tspan>
+                <tspan x="846.764083" y="261.043822" letter-spacing="-0.06803171">o</tspan>
+                <tspan x="854.527994" y="261.043822" letter-spacing="-0.04480137">u</tspan>
+                <tspan x="862.149205" y="261.043822" letter-spacing="-0.06305378">g</tspan>
+                <tspan x="869.951281" y="261.043822" letter-spacing="-0.18418341">h</tspan>
+                <tspan x="877.43311" y="261.043822">, </tspan>
+            </text>
+            <text id="users-can-create-their-own-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.05309792" fill="#231F20">
+                <tspan x="746.49032" y="280.955542">u</tspan>
+                <tspan x="754.103235" y="280.955542" letter-spacing="-0.11449239">s</tspan>
+                <tspan x="759.547431" y="280.955542" letter-spacing="-0.0829655">e</tspan>
+                <tspan x="766.350602" y="280.955542" letter-spacing="-0.01493379">r</tspan>
+                <tspan x="771.16426" y="280.955542">s </tspan>
+                <tspan x="779.593555" y="280.955542" letter-spacing="-0.14601928">c</tspan>
+                <tspan x="785.819286" y="280.955542" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="793.621362" y="280.955542">n </tspan>
+                <tspan x="804.15798" y="280.955542" letter-spacing="-0.08628412">c</tspan>
+                <tspan x="810.443446" y="280.955542" letter-spacing="-0.14767859">r</tspan>
+                <tspan x="814.958429" y="280.955542" letter-spacing="-0.10619584">e</tspan>
+                <tspan x="821.73837" y="280.955542" letter-spacing="-0.19745789">a</tspan>
+                <tspan x="829.406041" y="280.955542" letter-spacing="-0.27212684">t</tspan>
+                <tspan x="833.779982" y="280.955542">e </tspan>
+                <tspan x="843.536725" y="280.955542" letter-spacing="-0.20575444">t</tspan>
+                <tspan x="847.977039" y="280.955542">h</tspan>
+                <tspan x="855.589953" y="280.955542" letter-spacing="-0.07300964">e</tspan>
+                <tspan x="862.40308" y="280.955542" letter-spacing="-0.08462481">i</tspan>
+                <tspan x="865.620482" y="280.955542">r </tspan>
+                <tspan x="873.31968" y="280.955542" letter-spacing="-0.18916134">o</tspan>
+                <tspan x="880.796531" y="280.955542" letter-spacing="0.01161517">w</tspan>
+                <tspan x="890.929937" y="280.955542">n </tspan>
+            </text>
+            <text id="lists-to-organize-shows-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.08794343" fill="#231F20">
+                <tspan x="746.49032" y="300.867262">l</tspan>
+                <tspan x="749.704404" y="300.867262" letter-spacing="-0.05143861">i</tspan>
+                <tspan x="752.954992" y="300.867262" letter-spacing="-0.13938204">s</tspan>
+                <tspan x="758.374299" y="300.867262" letter-spacing="-0.11449239">t</tspan>
+                <tspan x="762.905874" y="300.867262">s </tspan>
+                <tspan x="771.335169" y="300.867262" letter-spacing="-0.30365373">t</tspan>
+                <tspan x="775.677583" y="300.867262">o </tspan>
+                <tspan x="786.380133" y="300.867262" letter-spacing="-0.04148275">o</tspan>
+                <tspan x="794.170593" y="300.867262" letter-spacing="-0.16427169">r</tspan>
+                <tspan x="798.668983" y="300.867262" letter-spacing="-0.04480137">g</tspan>
+                <tspan x="806.489311" y="300.867262" letter-spacing="-0.06305378">a</tspan>
+                <tspan x="814.291386" y="300.867262" letter-spacing="-0.07466895">n</tspan>
+                <tspan x="821.88273" y="300.867262" letter-spacing="-0.14601928">i</tspan>
+                <tspan x="825.038737" y="300.867262" letter-spacing="-0.2488965">z</tspan>
+                <tspan x="830.564239" y="300.867262">e </tspan>
+                <tspan x="840.320982" y="300.867262" letter-spacing="-0.07466895">s</tspan>
+                <tspan x="845.805002" y="300.867262" letter-spacing="-0.07632826">h</tspan>
+                <tspan x="853.394686" y="300.867262" letter-spacing="-0.18916134">o</tspan>
+                <tspan x="860.871537" y="300.867262" letter-spacing="-0.03816413">w</tspan>
+                <tspan x="870.955164" y="300.867262">s </tspan>
+            </text>
+            <text id="made-from-manually-mov" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.003" fill="#231F20">
+                <tspan x="746.49032" y="320.778982">ma</tspan>
+                <tspan x="765.831875" y="320.778982" letter-spacing="0.01857103">d</tspan>
+                <tspan x="773.715575" y="320.778982" letter-spacing="0.0467793">e</tspan>
+                <tspan x="780.648491" y="320.778982"> f</tspan>
+                <tspan x="787.794117" y="320.778982" letter-spacing="-0.11749239">r</tspan>
+                <tspan x="792.339286" y="320.778982">o</tspan>
+                <tspan x="800.168229" y="320.778982" letter-spacing="0.0467793">m</tspan>
+                <tspan x="811.697434" y="320.778982"> m</tspan>
+                <tspan x="826.044465" y="320.778982" letter-spacing="-0.01627448">a</tspan>
+                <tspan x="833.89332" y="320.778982" letter-spacing="-0.06771309">n</tspan>
+                <tspan x="841.491619" y="320.778982">u</tspan>
+                <tspan x="849.154631" y="320.778982" letter-spacing="-0.0195931">a</tspan>
+                <tspan x="857.000168" y="320.778982" letter-spacing="-0.04282344">l</tspan>
+                <tspan x="860.259371" y="320.778982" letter-spacing="0.03350482">l</tspan>
+                <tspan x="863.594903" y="320.778982" letter-spacing="0.0467793">y</tspan>
+                <tspan x="869.99684" y="320.778982"> </tspan>
+                <tspan x="872.864446" y="320.778982" letter-spacing="0.0135931">m</tspan>
+                <tspan x="884.360464" y="320.778982" letter-spacing="-0.15897514">o</tspan>
+                <tspan x="891.867501" y="320.778982">v</tspan>
+            </text>
+            <text id="-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" fill="#231F20">
+                <tspan x="897.553903" y="320.778982">-</tspan>
+            </text>
+            <text id="ing-around-shows-and/or-" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.02225241" fill="#231F20">
+                <tspan x="746.49032" y="340.690702">i</tspan>
+                <tspan x="749.770095" y="340.690702" letter-spacing="-0.004">n</tspan>
+                <tspan x="757.432107" y="340.690702" letter-spacing="0.0623724">g</tspan>
+                <tspan x="765.359609" y="340.690702" letter-spacing="-0.004"> a</tspan>
+                <tspan x="776.087345" y="340.690702" letter-spacing="-0.1035586">r</tspan>
+                <tspan x="780.646447" y="340.690702" letter-spacing="-0.004">oun</tspan>
+                <tspan x="803.798415" y="340.690702" letter-spacing="0.0623724">d</tspan>
+                <tspan x="811.725916" y="340.690702" letter-spacing="-0.004"> </tspan>
+                <tspan x="814.592523" y="340.690702" letter-spacing="-0.01229655">s</tspan>
+                <tspan x="820.138915" y="340.690702" letter-spacing="-0.01395586">h</tspan>
+                <tspan x="827.790971" y="340.690702" letter-spacing="-0.12844825">o</tspan>
+                <tspan x="835.328535" y="340.690702" letter-spacing="0.02420827">w</tspan>
+                <tspan x="845.474534" y="340.690702" letter-spacing="0.0623724">s</tspan>
+                <tspan x="851.095595" y="340.690702" letter-spacing="-0.004"> an</tspan>
+                <tspan x="869.485343" y="340.690702" letter-spacing="0.14367859">d</tspan>
+                <tspan x="877.494151" y="340.690702" letter-spacing="-1.11075977">/</tspan>
+                <tspan x="880.697597" y="340.690702" letter-spacing="0.02088965">o</tspan>
+                <tspan x="888.55043" y="340.690702" letter-spacing="0.06071309">r</tspan>
+                <tspan x="893.439735" y="340.690702" letter-spacing="-0.004"> </tspan>
+            </text>
+            <text id="hiding-them" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="16.5931" font-weight="normal" letter-spacing="-0.01229655" fill="#231F20">
+                <tspan x="746.49032" y="360.602422">h</tspan>
+                <tspan x="754.144036" y="360.602422" letter-spacing="0.0125931">i</tspan>
+                <tspan x="757.458656" y="360.602422" letter-spacing="-0.004">d</tspan>
+                <tspan x="765.319785" y="360.602422" letter-spacing="-0.02225241">i</tspan>
+                <tspan x="768.59956" y="360.602422" letter-spacing="-0.004">n</tspan>
+                <tspan x="776.261572" y="360.602422" letter-spacing="0.06071309">g</tspan>
+                <tspan x="784.187415" y="360.602422" letter-spacing="-0.004"> </tspan>
+                <tspan x="787.054021" y="360.602422" letter-spacing="-0.14338204">t</tspan>
+                <tspan x="791.556707" y="360.602422" letter-spacing="0.01093379">h</tspan>
+                <tspan x="799.233653" y="360.602422" letter-spacing="-0.0205931">e</tspan>
+                <tspan x="806.099196" y="360.602422" letter-spacing="-0.004">m</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

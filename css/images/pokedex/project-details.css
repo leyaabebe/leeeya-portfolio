@@ -1,0 +1,435 @@
+body {
+	display:grid;
+	grid-template-columns:repeat(12,1fr);
+}
+
+nav {
+	background-color:rgba(8,137,228,0);
+}
+
+header {
+	grid-column:1/span 12;
+	background-color:var(--main-off-white);
+	color:var(--main-black);
+	font-family:'mr-eaves-modern',sans-serif;
+	font-weight:700;
+	height:600px;
+	padding-top:296px;
+}
+
+.cr-hero-bg {
+	background-image:url(cr-laptop.png);
+	background-repeat:no-repeat;
+	/*background-attachment: fixed;*/
+	background-position:center center;
+	background-size:100%;
+	text-shadow: 0.5px 0.5px rgba(0,0,0,.5);
+}
+
+
+.inside-scene-hero-bg {
+	background-image:url(blank-tv.svg);
+	background-repeat:no-repeat;
+	background-position:center 0%;
+	background-size:75%;	
+	text-shadow: 0.5px 0.5px rgba(0,0,0,.5);
+}
+
+.¢hange-hero-bg {}
+
+header h1 {
+	font-family:'museo-sans-display',sans-serif;
+	font-weight:800;
+	font-size:6em;
+}
+
+header h2 {
+	font-size:2.45em;
+	font-weight:500;
+}
+
+footer {
+	grid-column:1/ span 12;
+	margin-top:112px;
+	margin-bottom:0;
+}
+
+
+/* generally classes to help differentiate similar components */
+
+.cr {}
+
+.inside-scene {}
+
+.¢hange {}
+
+.aria {}
+
+.me2math {}
+
+.fitting {}
+
+.pokedex {}
+
+.tastefull {}
+
+
+section.overview {
+	grid-column:1/span 12;
+	/*background-color:rgba(250,250,250,0.5);*/
+	background-color:var(--main-light-blue);
+	display:grid;
+	grid-template-columns: repeat(12,1fr);
+	grid-column-gap:0;
+	padding-top:2%;
+	height:160px;
+}
+
+section.overview div:first-child {
+	grid-column:3/ span 3;
+}
+
+section.overview div:nth-child(2) {
+	grid-column:6/ span 1;
+}
+
+section.overview div:nth-child(3) {
+	grid-column:7/ span 1;
+}
+
+section.overview div:last-child {
+	grid-column:8/ span 2;
+}
+
+section.problem,
+section.abstract,
+section.usability,
+section.traffic,
+section.competitive,
+section.ugc,
+section.surveys,
+section.target,
+section.target-2,
+section.interview-toddy,
+section.scenario-toddy,
+section.interview-kelly,
+section.scenario-kelly,
+section.interview-chase,
+section.scenario-chase,
+section.snow,
+section.snow-journey,
+section.bunny,
+section.bunny-journey,
+section.user-task,
+section.ut-steps,
+section.user-task-2,
+section.ut-steps-2,
+section.user-task-3,
+section.ut-steps-3,
+section.wireframes,
+section.moodboard,
+section.ds,
+section.high-fidelity,
+section.supporting-images {
+	grid-column:3/span 9;
+	display:inline-grid;
+	grid-template-columns:repeat(12,1fr);
+	margin-top:16vh;
+}
+
+section.problem,
+section.abstract {
+	margin-top:4vh;
+}
+
+section.supporting-images {
+	margin-top:2vh;
+	background-color:rgba(250,250,250,.5);
+}
+
+section.problem h4,
+section.abstract h4,
+section.usability h4,
+section.traffic h4,
+section.competitive h4,
+section.ugc h4,
+section.surveys h4,
+section.target h4,
+section.target-2 h4,
+section.interview-toddy h4,
+section.scenario-toddy h4,
+section.interview-kelly h4,
+section.scenario-kelly h4,
+section.interview-chase h4,
+section.scenario-chase h4,
+section.snow h4,
+section.snow-journey h4,
+section.bunny h4,
+section.bunny-journey h4,
+section.user-task h4,
+section.ut-steps h4,
+section.user-task-2 h4,
+section.ut-steps-2 h4,
+section.user-task-3 h4,
+section.ut-steps-3 h4,
+section.wireframes h4,
+section.moodboard h4,
+section.ds h4,
+section.high-fidelity h4{
+	grid-column:1/span 4;
+	grid-row:1/span 1;
+	margin-bottom:.5em;
+}
+
+section hr {
+	grid-column:2/ span 11;
+	grid-row:1/span 1;
+	height:2px;
+	opacity:.5;
+	margin-top:1.5%;
+}
+
+section.problem h3,
+section.abstract h3,
+section.usability h3,
+section.traffic h3,
+section.competitive h3,
+section.ugc h3,
+section.surveys h3,
+section.target h3,
+section.target-2 h3,
+section.interview-toddy h3,
+section.scenario-toddy h3,
+section.interview-kelly h3,
+section.scenario-kelly h3,
+section.interview-chase h3,
+section.scenario-chase h3,
+section.snow h3,
+section.snow-journey h3,
+section.bunny h3,
+section.bunny-journey h3,
+section.user-task h3,
+section.ut-steps h3,
+section.user-task-2 h3,
+section.ut-steps-2 h3,
+section.user-task-3 h3,
+section.ut-steps-3 h3,
+section.wireframes h3,
+section.moodboard h3,
+section.ds h3,
+section.high-fidelity h3,
+section.supporting-images h3{
+	grid-column:1 / span 6;
+	z-index:1;
+	grid-row:2/span 1;
+}
+
+section.ut-steps h3,
+section.ut-steps-2 h3,
+section.ut-steps-3 h3 {
+	grid-column:1/ span 12;
+}
+
+section img.thumbnail {
+	grid-column:10 / span 1;
+	z-index:1;
+	grid-row:2/ span 1;
+}
+
+section.problem p,
+section.abstract p {
+	grid-column:1/span 6;
+	grid-row:3/span 5;
+}
+
+section.abstract div.content,
+section.usability div.content,
+section.traffic div.content,
+section.competitive div.content,
+section.ugc div.content,
+section.surveys div.content,
+section.target div.content,
+section.interview-toddy div.content,
+section.scenario-toddy div.content,
+section.interview-kelly div.content,
+section.scenario-kelly div.content,
+section.interview-chase div.content,
+section.scenario-chase div.content,
+section.snow div.content,
+section.bunny div.content,
+section.ut-steps div.content,
+section.ut-steps-2 div.content,
+section.ut-steps-3 div.content {
+	grid-column:1/span 5;
+	grid-row:3/span 6;
+	z-index:1;
+}
+
+section.problem div.content,
+section.abstract div.content {
+	grid-column:1/span 6;
+	grid-row:3/ span 10;
+}
+
+section.usability div.content {
+	grid-column:1/ span 4;
+}
+
+section.problem div.vis,
+section.abstract div.vis,
+section.usability div.vis,
+section.traffic div.vis,
+section.competitive div.vis,
+section.ugc div.vis,
+section.surveys div.vis,
+section.target div.vis,
+section.interview-toddy div.vis,
+section.scenario-toddy div.vis,
+section.interview-kelly div.vis,
+section.scenario-kelly div.vis,
+section.interview-chase div.vis,
+section.scenario-chase div.vis,
+section.snow div.vis,
+section.bunny div.vis,
+section.supporting-images div.vis {
+	grid-column:6/span 12;
+	grid-row:1/ span 13;
+	background-color:rgba(250,250,250,.5);
+}
+
+section.supporting-images div.vis {
+	grid-column:2/span 10;
+}
+
+.sm-caps {
+	text-transform:uppercase;
+	font-family:'museo-sans-',sans-serif;
+	font-size:.8em;
+	font-weight:700;
+	letter-spacing:2px;
+}
+
+
+h3 {
+	font-family:'museo-sans',sans-serif;
+	font-weight:700;
+	font-size:2.5em;
+}
+
+h4 {
+	font-size:1.5em;
+}
+
+h5 {
+	font-family:'museo-sans',sans-serif;
+	font-weight:500;
+	font-size:1.25em;
+}
+
+hr {
+	width:80%;
+	display:inline-block;
+	opacity:.5;
+}
+
+p {
+	font-family:'mr-eaves-modern',sans-serif;
+	font-size:1.25em;
+	font-weight:300;
+	width:80%;
+}
+
+p.lead {
+	font-size:1.5em;
+	font-weight:500;
+}
+
+/* forgot what bp stands for...yay  */
+.bp {
+	font-family:'mr-eaves-modern', sans-serif;
+	font-weight:300;
+	font-size:1.25em;
+}
+
+
+div.vis img {
+	height:100%;
+	width:100%;
+}
+
+div.vis blockquote {
+	position:relative;
+	background-color:var(--main-off-black);
+	width:80%;
+	height:112px;
+	padding:4%;
+	font-style:italic;
+	color:var(--main-white);
+	font-size:1.2em;
+	margin-top:-10em;
+}
+
+
+p.left {
+	grid-column:1/ span 1;
+	grid-row:6/ span 1;
+}
+
+p.right {
+	grid-column:12/ span 1;
+	grid-row:6/ span 1;
+}
+
+.larr,
+.rarr {
+	font-weight:500;
+}
+
+
+section.ut-steps p.left,
+section.ut-steps-2 p.left,
+section.ut-steps-3 p.left,
+section.competitive p.left {
+	grid-row:9/ span 1;
+}
+
+section.ut-steps p.right,
+section.ut-steps-2 p.right,
+section.ut-steps-3 p.right,
+section.competitive p.right {
+	grid-row:9/ span 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
