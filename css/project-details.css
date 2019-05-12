@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-	background-color:rgba(8,137,228,0);
+	/*background-color:rgba(8,137,228,0);*/
 }
 
 header {
@@ -450,12 +450,6 @@ p {
 	width:80%;
 }
 
-p.lead {
-	font-family:'mr-eaves-modern', sans-serif;
-	font-size:1.5em;
-	font-weight:400;
-	margin-bottom:2em;
-}
 
 /* forgot what bp stands for...yay  */
 .bp {
