@@ -2,7 +2,17 @@ $(document).ready(function(){
 	var w = window.outerWidth;
 	var h = window.outerHeight;
 
-	if (w >= 1024) {
+	if (w >= 1440){
+		// laptop with hdpi screen
+
+
+
+	} else if (w >= 1280) {
+		// laptop with mdpi screen
+
+
+
+	} else if (w >= 1024) {
 		console.log(w);
 		//  changes to grid based on screen size
 
@@ -16,12 +26,16 @@ $(document).ready(function(){
 			$("article").removeClass("col-12");
 			$("article").addClass("col-4");
 		}
-		$("header h1").css("font-size","4em");
-		$("header h2").css("font-size","3.5em");
+		$("header h1").css("font-size","3em");
+		$("header h2").css("font-size","2.75em");
+		$("h3").css("font-size","1.75em");
 		$(".sm-caps").css("font-size",".8em");
-		$("h3").css("font-size","2em");
 		$("h4, p.lead").css("font-size","1.5em");
 		$("h5, p, .bp").css("font-size","1.25em");
+
+		$(".thumbnail").show();
+
+		// HOME
 
 		// ARIA 
 
@@ -40,7 +54,7 @@ $(document).ready(function(){
 		if (col6) {
 			//  nothing happens
 		} else {
-			$("article").removeClass("col-4");``
+			$("article").removeClass("col-4");
 			$("article").removeClass("col-12");
 			$("article").addClass("col-6");
 		}
@@ -58,6 +72,8 @@ $(document).ready(function(){
 			"grid-row-start":"10",
 			"grid-column":"1/span 10"
 		});
+
+		$(".thumbnail").show();
 
 		// ARIA 
 
@@ -175,6 +191,8 @@ $(document).ready(function(){
 				"background-size":"95%",
 				"background-position":"center"
 			});
+
+			$(".thumbnail").show();
 		} else if (w >= 768) {
 
 			//  changes to grid based on screen size
@@ -205,6 +223,8 @@ $(document).ready(function(){
 				"grid-row-start":"10",
 				"grid-column":"1/span 10"
 			});
+
+			$(".thumbnail").show();
 
 			// ARIA 
 
@@ -399,19 +419,19 @@ $(document).ready(function(){
 
 	var hfPos = 0;
 	$("section.high-fidelity p.left").css("opacity", "0.5");
-	var hfSrc = ["css/images/crunchyroll/cr-hf-homepage.svg", "css/images/crunchyroll/cr-hf-video.svg", "css/images/crunchyroll/cr-hf-forum.svg"];
-	var hfTitle = ["Homepage", "Video comments", "Forum"];
+	var hfSrc = ["css/images/crunchyroll/cr-hf-homepage-closed.png", "css/images/crunchyroll/cr-hf-homepage-expanded.png", "css/images/crunchyroll/cr-hf-video.png", "css/images/crunchyroll/cr-hf-forum.png"];
+	var hfTitle = ["Homepage—<em>Closed Dropdowns</em>", "Homepage—<em>Expanded</em>", "Video comments", "Forum"];
 
 	$("section.high-fidelity p.right").on("click", function() {
 		hfPos++;
-		if(hfPos < 3) {
+		if(hfPos < 4) {
 			$("#high-fidelity").attr("src", hfSrc[hfPos]);
-			$("section.high-fidelity h3").text(hfTitle[hfPos]);
+			$("section.high-fidelity h3").html(hfTitle[hfPos]);
 			$("section.high-fidelity p.left").css("opacity","1");
 		} else {
 			hfPos = 0;
 			$("#high-fidelity").attr("src", hfSrc[hfPos]);
-			$("section.high-fidelity h3").text(hfTitle[hfPos]);
+			$("section.high-fidelity h3").html(hfTitle[hfPos]);
 			$("section.high-fidelity p.left").css("opacity","0.5");
 		}
 	})
@@ -420,7 +440,7 @@ $(document).ready(function(){
 		if(hfPos > 0) {
 			hfPos--;
 			$("#high-fidelity").attr("src", hfSrc[hfPos]);
-			$("section.high-fidelity h3").text(hfTitle[hfPos]);
+			$("section.high-fidelity h3").html(hfTitle[hfPos]);
 		}
 
 		if (hfPos == 0) {

@@ -1,6 +1,7 @@
 body {
 	display:grid;
 	grid-template-columns:repeat(12,1fr);
+	grid-column-gap:20px;
 }
 
 nav {
@@ -618,6 +619,10 @@ div.s9 img{
 	max-width:100%;
 }
 
+
+#high-fidelity {
+	border:solid 1px var(--main-black);
+}
 
 
 

@@ -230,11 +230,16 @@ html {
 
 body {
 	margin:0;
-	padding:0;
 	font-family:'mr-eaves-modern',sans-serif;
 	background-color:var(--main-white);
 	cursor:default;
+	display:inline-grid;
+	grid-template-columns:repeat(12,1fr);
+	grid-row-gap:1em;
+	grid-column-gap:1em;
+	justify-content:center;
 }
+
 
 nav {
 	position:fixed;
@@ -242,11 +247,14 @@ nav {
 	left:0;
 	width:100%;
 	height:92px;
-	background-color:var(--main-blue);
-	color:var(--main-white);
+	background-color:rgba(255,255,255,1);
+	/*background-color:var(--main-blue);*/
+	color:var(--main-blue);
 	display:inline-block;
 	text-align:right;
 	z-index:1000;
+	/*border-bottom:2px solid var(--main-blue);*/
+	box-shadow: 0px 4px 4px var(--main-off-white);
 }
 
 #LOGO {
@@ -275,7 +283,7 @@ nav ul li:last-child {
 
 nav ul li a {
 	text-decoration:none;
-	color:var(--main-white);
+	color:var(--main-off-black);
 	font-family:'museo-sans',serif;
 	font-weight:300;
 	font-size:18px;
@@ -289,9 +297,10 @@ nav ul li a.active {
 header {
 	width:100%;
 	height:400px;
-	background-color:var(--main-blue);
+	/*background-color:var(--main-blue);*/
 	/*background-image: linear-gradient(to bottom, rgba(8,155,228,1), rgba(8,155,228,0));*/
-	color:var(--main-white);
+	/*color:var(--main-white);*/
+	color:var(--main-off-black);
 	text-align:left;
 	padding-top:128px;
 	padding-left:16%;
@@ -359,8 +368,9 @@ article:last-child {
 
 article img {
 	width:80%;
-	margin-left: 8%;
-	margin-top: 6%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .¢hange {
@@ -368,26 +378,24 @@ article img {
 	margin-left: 30%;
 }
 
-section.projects article a div h2,
+/*section.projects article a div h2,
 section.projects article a div h3 {
 	display:inline;
 }
 
 section.projects article a div h2 {
-	/*font-size:30px;*/
 	font-family:'museo-sans-display';
 	letter-spacing:1.33px;
 	font-weight:900;
 }
 
-article h3,
 section.filter h4 {
 	font-size:16px;
 	letter-spacing:1.33px;
 	font-weight:400;
 	font-variant:small-caps;
 	margin-top:24px;
-}
+}*/
 
 article a,
 article a:visited,
@@ -396,13 +404,45 @@ article a:link {
 	color:var(--main-off-black);
 }
 
-section.projects article a div h3 {
+/*section.projects article a div h3 {
 	margin:0;
 }
 
 section.projects article a div:nth-child(2) {
 	margin-top:2em;
+}*/
+
+/* PROJECT THUMBNAILS:*/
+
+.cr-tb {
+	background-color:#FF9D00;
+	/*background-image:url(images/crunchyroll/cr-cover.png);
+	background-repeat:no-repeat;
+	background-position:top left;*/
 }
+
+.inside-tb {
+	background-color:#e6e2c9;
+}
+
+.¢hange-tb {
+	background-color:#A8FBD7;
+}
+
+.aria-tb {
+	background-color:var(--main-black);
+}
+
+.me2math-tb {
+	/*background-color:#07F8F8;*/
+	background-color:#e5a186;
+}
+
+.pokedex-tb {
+	background-color:#f1c40f;
+}
+
+
 /* BUTTONS */
 
 button {
@@ -465,11 +505,16 @@ section.filter ul li.active {
 	font-weight:700;
 	font-size:32px;
 }
-
-section.about {
-	margin-top:4vh;
-	margin-bottom:4vh;
+article {
+	padding:1em;
 }
+
+article.about {
+	/*margin-top:4vh;
+	margin-bottom:4vh;*/
+	padding:1em;
+}
+
 
 footer {
 	width:100%;

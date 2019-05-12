@@ -7,7 +7,7 @@
         <path d="M106.276136,53.1414199 C106.276136,23.8374199 82.5211363,0.0824199 53.2171363,0.0824199 C23.9131363,0.0824199 0.1581363,23.8374199 0.1581363,53.1414199 C0.1581363,82.4444199 23.9131363,106.20042 53.2171363,106.20042 C82.5211363,106.20042 106.276136,82.4444199 106.276136,53.1414199 Z" id="path-1"></path>
     </defs>
     <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cr-snow-thumbnail" transform="translate(0.641864, -0.046920)">
+        <g id="cr-snow-thumbnail">
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
