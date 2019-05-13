@@ -428,9 +428,7 @@ p.lead {
 
 .cr-tb {
 	background-color:#FF9D00;
-	/*background-image:url(images/crunchyroll/cr-cover.png);
-	background-repeat:no-repeat;
-	background-position:top left;*/
+	background-image:url(images/crunchyroll/cr-cover.png);
 }
 
 .inside-tb {
