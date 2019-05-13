@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>logo</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo" transform="translate(2.000000, 2.000000)" stroke="#FFFFFF" stroke-width="4">
-            <path d="M23.9043855,11.8488917 L47.4651055,11.8488917" id="Stroke-20"></path>
-            <polyline id="Stroke-22" stroke-linecap="round" stroke-linejoin="round" points="0.0863305681 0.104021258 0.0863305681 47.7104848 47.7224404 47.7104848"></polyline>
-            <path d="M47.7224232,0.104021258 L47.7224232,47.7104848 C47.7224232,47.7104848 24.9773733,-0.918220173 0.086313309,0.104021258 L47.7224232,0.104021258 Z" id="Stroke-24" stroke-linejoin="round"></path>
-        </g>
-    </g>
-</svg>
+<svg width="52" height="52" xmlns="http://www.w3.org/2000/svg"><g stroke="#FFF" stroke-width="4" fill="none" fill-rule="evenodd"><path d="M25.904 13.849h23.561"/><path stroke-linecap="round" stroke-linejoin="round" d="M2.086 2.104V49.71h47.636"/><path d="M49.722 2.104V49.71S26.977 1.082 2.086 2.104h47.636z" stroke-linejoin="round"/></g></svg>
