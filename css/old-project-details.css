@@ -1,0 +1,647 @@
+body {
+	display:grid;
+	grid-template-columns:repeat(12,1fr);
+	grid-column-gap:20px;
+}
+
+nav {
+	/*background-color:rgba(8,137,228,0);*/
+}
+
+header {
+	position:relative;
+	grid-column:1/span 12;
+	background-color:var(--main-off-white);
+	color:var(--main-black);
+	font-family:'mr-eaves-modern',sans-serif;
+	font-weight:700;
+	height:600px;
+	padding-left:16%;
+	padding-top:296px;
+	padding-right:0;
+	padding-bottom:0;
+	margin:0;
+}
+
+/*.cr-hero-bg {
+	background-image:url(images/crunchyroll/cr-laptop.png);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:100%;
+	text-shadow: 0.5px 0.5px rgba(0,0,0,.5);
+}*/
+
+
+/*.inside-scene-hero-bg {
+	background-image:url(images/inside-scene/blank-tv.svg);
+	background-repeat:no-repeat;
+	background-position:center 0%;
+	background-size:75%;	
+	text-shadow: 0.5px 0.5px rgba(0,0,0,.5);
+}*/
+
+.¢hange-hero-bg {}
+
+.aria-hero-bg {
+	background-color:var(--main-black);
+	background-image:url(images/aria/aria-cover.svg);
+	background-repeat:no-repeat;
+	background-size:95%;
+	background-position:center;
+}
+
+
+header h1 {
+	font-family:'museo-sans-display',sans-serif;
+	font-weight:800;
+	font-size:4em;
+	z-index:2;
+	display:inline;
+}
+
+header h2 {
+	font-family:'mr-eaves-modern',sans-serif;
+	/*font-family:'museo-sans-display',sans-serif;*/
+	font-size:3.5em;
+	font-weight:300;
+	z-index:2;
+	margin:0;
+	padding:0;
+	display:inline-block;
+}
+
+header img {
+	height:100%;
+	z-index:1;
+	margin-bottom:-20em;
+}
+
+body>img {
+	width:100%;
+	grid-column:1/ span 12;
+	grid-row:7/span 1;
+}
+
+footer {
+	grid-column:1/ span 12;
+	margin-top:112px;
+	margin-bottom:0;
+}
+
+
+/* generally classes to help differentiate similar components */
+
+.cr {}
+
+.inside-scene {}
+
+.¢hange {}
+
+.aria {}
+
+.me2math {}
+
+.fitting {}
+
+.pokedex {}
+
+.tastefull {}
+
+
+section.overview {
+	grid-column:1/span 12;
+	/*background-color:rgba(250,250,250,0.5);*/
+	background-color:var(--main-light-blue);
+	display:grid;
+	grid-template-columns: repeat(12,1fr);
+	grid-column-gap:0;
+	padding-top:2%;
+	height:160px;
+}
+
+section.overview div:first-child {
+	grid-column:3/ span 3;
+}
+
+section.overview div:nth-child(2) {
+	grid-column:6/ span 1;
+}
+
+section.overview div:nth-child(3) {
+	grid-column:7/ span 1;
+}
+
+section.overview div:last-child {
+	grid-column:8/ span 2;
+}
+
+section,
+section.problem,
+section.abstract,
+section.usability,
+section.traffic,
+section.comp-inspo,
+section.competitive,
+section.ugc,
+section.surveys,
+section.target,
+section.target-2,
+section.interview-toddy,
+section.scenario-toddy,
+section.interview-kelly,
+section.scenario-kelly,
+section.interview-chase,
+section.scenario-chase,
+section.snow,
+section.snow-journey,
+section.bunny,
+section.bunny-journey,
+section.user-task,
+section.ut-steps,
+section.user-task-2,
+section.ut-steps-2,
+section.user-task-3,
+section.ut-steps-3,
+section.wireframes,
+section.moodboard,
+section.ds,
+section.high-fidelity,
+section.supporting-images {
+	grid-column:3/span 9;
+	display:inline-grid;
+	grid-template-columns:repeat(12,1fr);
+	margin-top:8vh;
+	margin-bottom:16vh;
+}
+
+section.problem,
+section.abstract {
+	margin-top:4vh;
+}
+
+section.abstract.aria {
+	margin-top:2vh;
+}
+
+section.walkthrough {
+	margin-bottom:4vh;
+}
+
+section.scene-elements {
+	margin-top:16vh;
+}
+
+section.supporting-images {
+	margin-top:-12vh;
+	background-color:rgba(250,250,250,.5);
+}
+
+section h4,
+section.problem h4,
+section.abstract h4,
+section.usability h4,
+section.traffic h4,
+section.comp-inspo h4,
+section.competitive h4,
+section.ugc h4,
+section.surveys h4,
+section.target h4,
+section.target-2 h4,
+section.interview-toddy h4,
+section.scenario-toddy h4,
+section.interview-kelly h4,
+section.scenario-kelly h4,
+section.interview-chase h4,
+section.scenario-chase h4,
+section.snow h4,
+section.snow-journey h4,
+section.bunny h4,
+section.bunny-journey h4,
+section.user-task h4,
+section.ut-steps h4,
+section.user-task-2 h4,
+section.ut-steps-2 h4,
+section.user-task-3 h4,
+section.ut-steps-3 h4,
+section.wireframes h4,
+section.moodboard h4,
+section.ds h4,
+section.high-fidelity h4{
+	grid-column:1/span 4;
+	grid-row:1/span 1;
+	margin-bottom:.5em;
+}
+
+
+section hr {
+	grid-column:2/ span 11;
+	grid-row:1/span 1;
+	height:2px;
+	opacity:.5;
+	margin-top:1.5%;
+}
+
+section h3,
+section.problem h3,
+section.abstract h3,
+section.usability h3,
+section.traffic h3,
+section.comp-inspo h3,
+section.competitive h3,
+section.ugc h3,
+section.surveys h3,
+section.target h3,
+section.target-2 h3,
+section.interview-toddy h3,
+section.scenario-toddy h3,
+section.interview-kelly h3,
+section.scenario-kelly h3,
+section.interview-chase h3,
+section.scenario-chase h3,
+section.snow h3,
+section.snow-journey h3,
+section.bunny h3,
+section.bunny-journey h3,
+section.user-task h3,
+section.ut-steps h3,
+section.user-task-2 h3,
+section.ut-steps-2 h3,
+section.user-task-3 h3,
+section.ut-steps-3 h3,
+section.wireframes h3,
+section.moodboard h3,
+section.ds h3,
+section.high-fidelity h3,
+section.supporting-images h3{
+	grid-column:1 / span 6;
+	z-index:1;
+	grid-row:2/span 1;
+}
+
+section.abstract.aria h3 {
+	grid-column:1/ span 7;
+}
+
+section.comp-inspo h3 {
+	grid-column:1/ span 8;
+	margin-bottom:1em;
+}
+
+section.ut-steps h3,
+section.ut-steps-2 h3,
+section.ut-steps-3 h3 {
+	grid-column:1/ span 12;
+}
+
+section img.thumbnail {
+	grid-column:10 / span 1;
+	z-index:1;
+	grid-row:2/ span 2;
+}
+
+section.problem p,
+section.abstract p {
+	grid-column:1/span 6;
+	grid-row:3/span 5;
+}
+
+section div.content,
+section.abstract div.content,
+section.usability div.content,
+section.traffic div.content,
+section.competitive div.content,
+section.ugc div.content,
+section.surveys div.content,
+section.target div.content,
+section.interview-toddy div.content,
+section.scenario-toddy div.content,
+section.interview-kelly div.content,
+section.scenario-kelly div.content,
+section.interview-chase div.content,
+section.scenario-chase div.content,
+section.snow div.content,
+section.bunny div.content,
+section.ut-steps div.content,
+section.ut-steps-2 div.content,
+section.ut-steps-3 div.content {
+	grid-column:1/span 5;
+	grid-row:3/span 6;
+	z-index:1;
+}
+
+section.problem div.content,
+section.abstract div.content {
+	grid-column:1/span 6;
+	grid-row:3/ span 10;
+}
+
+section.abstract.aria div.content {
+	grid-column:1/span 8;
+	margin-bottom:-4vh;
+}
+
+section.usability div.content {
+	grid-column:1/ span 4;
+}
+
+section div.vis,
+section.problem div.vis,
+section.abstract div.vis,
+section.usability div.vis,
+section.traffic div.vis,
+section.competitive div.vis,
+section.ugc div.vis,
+section.surveys div.vis,
+section.target div.vis,
+section.interview-toddy div.vis,
+section.scenario-toddy div.vis,
+section.interview-kelly div.vis,
+section.scenario-kelly div.vis,
+section.interview-chase div.vis,
+section.scenario-chase div.vis,
+section.snow div.vis,
+section.bunny div.vis,
+section.supporting-images div.vis {
+	grid-column:6/span 6;
+	grid-row:1/ span 13;
+	background-color:rgba(250,250,250,.5);
+}
+
+section.abstract.aria div.vis {
+	margin-top:0;
+	background-color:rgba(250,250,250,0);
+	/*background-image:url(images/aria/aria-bridge-to-joy.svg);
+	background-repeat:no-repeat;
+	background-position:center;*/
+}
+
+
+section.supporting-images div.vis {
+	grid-column:2/span 10;
+}
+
+section.comp-inspo div.deep,
+section.comp-inspo div.turning-forest,
+section.comp-inspo div.true-self {
+	grid-row:6/ span 1;
+}
+
+section.comp-inspo div.deep {
+	grid-column:1/ span 4;
+}
+
+section.comp-inspo div.turning-forest {
+	grid-column:5/ span 4;
+}
+
+section.comp-inspo div.true-self {
+	grid-column:9/ span 4;
+}
+
+section.comp-inspo div.deep img,
+section.comp-inspo div.turning-forest img,
+section.comp-inspo div.true-self img {
+	width:80%;
+	margin:0;
+	padding:0;
+}
+
+section.comp-inspo div.deep p,
+section.comp-inspo div.turning-forest p,
+section.comp-inspo div.true-self p {
+	/*padding-left:1em;*/
+}
+
+.sm-caps {
+	text-transform:uppercase;
+	font-family:'museo-sans-',sans-serif;
+	font-size:.8em;
+	font-weight:700;
+	letter-spacing:2px;
+}
+
+
+h3 {
+	font-family:'museo-sans',sans-serif;
+	/*font-weight:700;*/
+	font-size:2em;
+}
+
+h4 {
+	font-size:1.5em;
+}
+
+h5 {
+	font-family:'museo-sans',sans-serif;
+	/*font-weight:100;*/
+	font-size:1.25em;
+}
+
+hr {
+	width:80%;
+	display:inline-block;
+	opacity:.5;
+}
+
+p {
+	font-family:'mr-eaves-modern',sans-serif;
+	font-size:1.25em;
+	font-weight:300;
+	width:80%;
+}
+
+
+/* forgot what bp stands for...yay  */
+.bp {
+	font-family:'mr-eaves-modern', sans-serif;
+	font-weight:300;
+	font-size:1.25em;
+}
+
+
+div.vis img {
+	height:100%;
+	width:100%;
+}
+
+div.vis blockquote {
+	position:relative;
+	background-color:var(--main-off-black);
+	width:80%;
+	height:112px;
+	padding:4%;
+	font-style:italic;
+	color:var(--main-white);
+	font-size:1.2em;
+	margin-top:-10em;
+}
+
+
+p.left {
+	grid-column:1/ span 1;
+	grid-row:6/ span 1;
+	font-weight:700;
+}
+
+p.right {
+	grid-column:12/ span 1;
+	grid-row:6/ span 1;
+	font-weight:700;
+}
+
+.larr,
+.rarr {
+	font-weight:500;
+}
+
+section p.left,
+section.ut-steps p.left,
+section.ut-steps-2 p.left,
+section.ut-steps-3 p.left,
+section.competitive p.left {
+	grid-row:9/ span 1;
+}
+
+section p.right,
+section.ut-steps p.right,
+section.ut-steps-2 p.right,
+section.ut-steps-3 p.right,
+section.competitive p.right {
+	grid-row:9/ span 1;
+}
+
+.area {
+	text-decoration:underline;
+}
+
+
+section.target img.aria {
+	max-height:122px;
+	max-width:122px;
+}
+
+img.natalia {
+	grid-column:6/span 1;
+	grid-row-start:5;
+	margin-left:3em;
+}
+
+p.natalia {
+	grid-column:8/span 4;
+	grid-row-start:5;
+	margin-left:-2em;
+}
+
+ul.natalia {
+	grid-column:8/span 4;
+	grid-row-start:6;
+	margin:0;
+}
+
+ul.natalia li,
+ul.nadya li {
+	margin:0;
+	margin-left:-4em;
+	line-height:1.5em;
+	font-size:1em;
+}
+
+img.nadya {
+	grid-column:6/span 4;
+	grid-row-start:8;
+	margin-left:3em;
+}
+
+p.nadya {
+	grid-column:8/span 4;
+	grid-row-start:8;
+	margin-left:-2em;
+}
+
+ul.nadya {
+	grid-column:8/span 4;
+	grid-row-start:9;
+	margin:0;
+}
+
+
+div.s1,
+div.s4,
+div.s7 {
+	grid-column:2/ span 3;
+}
+
+div.s2,
+div.s5,
+div.s8 {
+	grid-column:6/ span 3;
+}
+
+div.s3,
+div.s6,
+div.s9 {
+	grid-column:10/ span 3;
+}
+
+div.s1,
+div.s2,
+div.s3 {
+	grid-row-start:2;
+}
+
+div.s4,
+div.s5,
+div.s6 {
+	grid-row-start:3;
+}
+
+div.s7,
+div.s8,
+div.s9 {
+	grid-row-start:4;
+}
+
+div.s1 img,
+div.s2 img,
+div.s3 img,
+div.s4 img,
+div.s5 img,
+div.s6 img,
+div.s7 img,
+div.s8 img,
+div.s9 img{
+	max-width:100%;
+}
+
+
+#high-fidelity {
+	border:solid 1px var(--main-black);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

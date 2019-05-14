@@ -10,193 +10,242 @@
 	<link rel="stylesheet" href="https://use.typekit.net/gvy4ews.css">
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/project-details.css">
+	<link rel="stylesheet" href="css/media-queries.css">
 </head>
 <body>
-
 	<!-- NAVIGATION -->
 
 	<nav>
-		<a href="index.html"><img src="css/images/logo-16px.svg" alt="" id="LOGO"></a>
+		<a href="index.html">
+			<img src="css/images/logo-16px.svg" alt="" class="logo" id="mark">
+			<img src='css/images/leya-blue.png' alt='logo mark' class='logo' id='name'>
+		</a>
 		<ul>
-			<li><a href="index.html#WORK">work</a></li>
+			<li><a href="#" class="active">work</a></li>
 			<li><a href="about.html">about</a></li>
-			<li><a href="#CONTACT">contact</a></li>
 		</ul>
 	</nav>
-	
+
 	<!-- HEADER -->
 
-	<header class="cr-hero-bg cr cr-tb">
-		<h1>crunchyroll </h1>&nbsp;&nbsp;
+	<header class="bg-orange cr-hero col-12">
+
+		<h1>crunchyroll</h1>
 		<h2>website redesign</h2>
+	
 	</header>
 
 
-	<!-- PROBLEM/OPPORTUNITY  -->
+	<!-- problem/abstract/brief -->
 
+	<!-- <section class="col-12"> -->
+		<p class="col-3"><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+		<p class="col-3"><span class="sm-caps">duration</span><br>Spring 2016 (initial)<br>March-May 2019 (revised)</p>
+		<p class="col-3"><span class="sm-caps">tools</span><br>paper, sketch, invision studio</p>
+		<p class="col-3"><span class="sm-caps">links</span><br>visit prototype <br><button class="btn-lg">invision</button></p>
+	<!-- </section> -->
 
-	<section class="abstract cr">
-		<h4 class="sm-caps">abstract</h4>
-		<hr>
+	<section>
+		<h4>abstract</h4>
+
 		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
-		<div class="content">
-			<p class="lead">By conducting research on website performance and users, I have targeted areas within the crunchyroll experience that could be improved in flow, interaction, and appearance. I will walk you through my process starting with research.</p>
-			<br>
-			<h5 class="sm-caps">role</h5>
-			<p>user research, user surveys, wireframing, and visual design</p>
-			<br>
-			<h5 class="sm-caps">duration</h5>
-				<p>8 weeks</p>
-			<br>
-			<h5 class="sm-caps">tools</h5>
-				<p>paper, sketch</p>
-			<br>
-			<h5 class="sm-caps">links</h5>
-				<p>visit prototype</p>
-				<p>download case study</p>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-og-screens.png" style="width:80%; height:80%; margin-left:15%;" alt="">
-		</div>
+
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+
+		<p>Crunchyroll can currently be considered one of the leading distributors of licensed anime globally. Since starting as a video upload and streaming site back in 2006, it has expanded into licensed distribution of anime, digital distribution of manga, apps for mobile and gaming devices, events, anime production, and through Otter Media, is now under Warner Bros.
+		</p>
+
 	</section>
 
-
-	<!-- RESEARCH: USABILITY -->
-
-	<section class="usability">
-		<h4 class="sm-caps">research</h4>
-		<hr>
-		<h3>A usability evaluation reveals multiple areas for improvement.</h3><br/>
-		<div class="content"><br>
-			<h5>usability</h5><br/>
-			<ul>
-				<li class="bp">Navigation doesn't travel with scroll</li>
-				<li class="bp">Requires a lot of scrolling to reach top</li>
-				<li class="bp">Content is tightly packed on the page</li>
-				<li class="bp">Related content not in close proximity</li>
-				<li class="bp">Advertisements don't have CTAs</li>
-			</ul>
-			<h5>accessibility</h5><br/>
-			<ul>
-				<li class="bp">Needs more text alternatives to non-text content (e.g. images, videos)</li>
-				<li class="bp">Not fully keyboard accessible</li>
-				<li class="bp">Headings and labels use similar sizing</li>
-				<li class="bp">Repetitive naming of text links</li>
-				<li class="bp">Instances of very low color contrast</li>
-				<li class="bp">Doesn't have a site map</li>
-			</ul>
-			<h5>functionality</h5><br/>
-				<ul>
-					<li class="bp">There are broken and misnamed links</li>
-					<li class="bp">Site crashes frequently on web, mobile, and other platforms</li>
-				</ul>
-			<h5>presentation</h5>
-				<ul>
-					<li class="bp">Branding, layout, and text styling is fairly consistent on all pages except: <em>forums, store, premium, log in, random, individual videos, search results, platforms and devices, and about.</em></li>
-				</ul>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-usability.png" style="height:inherit; width:100%;" alt="">
-		</div>
-	</section>
-
-	<section class="supporting-images">
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-usability-2.png" alt="">
-		</div>
-	</section>
-
-	<!-- RESEARCH: SITE TRAFFIC -->
-
-	<section class="traffic">
-		<h4 class="sm-caps">research</h4>
-		<hr>
-		<h3>A high visitor count butts heads with a poor bounce rate; Home and search are the most visited pages.</h3>
-		<div class="content">
-			<p class="lead">I found statistics on how users behave when they visit crunchyroll as of January 2019. Even though the number of visitors is on the rise and for all the content offered, nearly half of those visitors immediately leave and the average amount of pages click through nears 4 per visitor.</p>
-			<p>The United States make up 42.3% of traffic on crunchyroll and is the main country of focus in this redesign. Traffic usually comes directly from the site at 65.59% with search second at 22.23%.</p>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-stats.png" style="width:60%; height:60%; margin-left:20%;" alt="">
-		</div>
-	</section>
-
-	<!-- RESEARCH: COMPETITIVE ANALYSIS -->
-
-	<section class="competitive">
-		<h4 class="sm-caps">competitive analysis</h4>
-		<hr>
-		<h3>Many channels exist to stream anime; so, why choose crunchyroll over them? What's unique?</h3>
-		<div class="content">
-			<p>Users seek out websites that provide some convenience in watchig nanime. How that is perceived varies from: being able to download episodes, to watch episodes for free but with advertisements, or to watch episodes without advertisements but for a fee</p><p>To help users decide whether paying for membership is worth it, they often consider the convenience along with other features provided by the service. The table to the right gives an overview of features offered by CR and its competitors.</p>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-feature-comp.png" style="width:60%; height:60%; margin-left:20%;" alt="">
-		</div>
-	</section>
-
-	<!-- RESEARCH: USER GENERATED FEEDBACK -->
-
-	<section class="ugc">
-		<h4 class="sm-caps">user generated feedback</h4>
-		<hr>
-		<h3>CR users regularly post on internal forums and on social media about their issues with the platform</h3>
-		<div class="content">
-			<p>Using Twitter's search, I found that CR is being tweeted about practically aroudn the clock due to its global reach. Here I show users discussing issues with functionality.</p>
-			<p>On the bottom right are excerpts of a CR forum thread about potential UI improvements its users want to see. Each user in this thread expresses frustration and also suggestiosn on what exactly they'd like to see added or improved.</p>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-social-media.png" style="width:80%; height:80%;margin-left:15%;" alt="">
-		</div>
+	<section class="img-vert">
+		<img src="css/images/crunchyroll/cr-og-screens.svg" alt="">
 	</section>
 	
-	<!-- RESEARCH: USER SURVEYS  -->
 
+	<!-- usability study -->
 
-	<section class="surveys">
-		<h4 class="sm-caps">user surveys</h4>
-		<hr>
-		<h3>Survey results placed Netflix first at 31% viewership and sites for pirated content aggregated at 35% as major competitors.</h3>
-		<div class="content">
-			<p>To better understand how people watch anime and what they expect from those websites in regards to features, I conducted a survey through google forms to learn more.</p>
-			<p>The survey is still open, but as of April 25th, respondents were mainly millennials, female, students, living inthe Unitd States, and have received a graduate education. A majority do watch anime and use sites that weren't all expected; of those sites written in, collectively they made up 18% of preffered viewing.</p>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-survey-results.png" style="width:60%; height:60%;margin-left:20%;" alt="">
-		</div>
+	<section>
+		<h4>problem</h4>
+		<h3>A usability evaluation reveals multiple areas for improvement.</h3>
+		<p>Crunchyroll can currently be considered one of the leading distributors of licensed anime globally. Since starting as video upload and streaming site back in 2006, it has expanded into licensed distribution of anime, digital distribution of manga, apps for mobile and gaming devices, events, anime production, and through Otter Media, is now under Warner Bros.
+		</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="css/images/crunchyroll/cr-usability.png" alt="">
 	</section>
 
-	<!-- RESEARCH: TARGET AUDIENCE -->
-
-	<section class="target">
-		<h4 class="sm-caps">target audience</h4>
-		<hr>
-		<h3>CR users are divided among Premium and Normal members; this redesign focuses on those who use CR regularly.</h3>
-		<div class="content"><br>
-			<h5 class="lead">Why watch CR as a premium member?</h5>
-			<ul>
-				<li class="bp">To watch episodes without advertisements</li>
-				<li class="bp">To watch anime ahead of others</li>
-				<li class="bp">To get discounts to events and merchandise</li>
-				<li class="bp">To help the platform because of its mission</li>
-				<li class="bp">All of the Normal member benefits included</li>
-			</ul>
-			<h5>Why watch Cr as a Normal member?</h5>
-			<ul>
-				<li class="bp">Visual appeal is better than most competitors</li>
-				<li class="bp">Ability to interact with the community</li>
-				<li class="bp">More anime, manga, anime news, events, etc., offered than competitors</li>
-				<li class="bp">Accessible across many devices and languages</li>
-			</ul>
-		</div>
-		<div class="vis">
-			<img src="css/images/crunchyroll/cr-crown.svg" style="width:60%; height:60%; margin-left:20%;" alt="">
-		</div>
+	<section class="img-horiz">
+		<img src="css/images/crunchyroll/cr-usability-2.png" alt="">
 	</section>
+
+	<!-- site traffic analysis -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- competitive analysis -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- user generated feedback -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- user surveys -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- target audience -->
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<!-- persona one: snow -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- user journey: snow -->
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+	<!-- user task: snow -->
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+	<!-- persona one: bunny -->
+
+	<section>
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-vert">
+		<img src="" alt="">
+	</section>
+
+	<!-- user journey: bunny -->
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+	<!-- user task: bunny -->
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+	<section class="col-12">
+		<h4>abstract</h4>
+		<h3>How can crunchyroll be redesigned to better serve its audience?</h3>
+		<p class="lead">In order to improve the pre- and post-watching experience, I have targeted areas within the crunchyroll experience that could be improved upon in flow, interaction, and appearance.</p>
+		<p><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	</section>
+	
+	<section class="img-horiz">
+		<img src="" alt="">
+	</section>
+
+
 
 	<!-- PERSONA: SNOW -->
 
-	<section class="snow">
+	<!-- <section class="snow">
 		<h4 class="sm-caps">persona</h4>
 		<hr>
 		<h3>Meet Snow, a 26-year-old who has been a Premium member for 5 years.</h3>
@@ -221,25 +270,25 @@
 			<img src="css/images/crunchyroll/cr-snow.png" style="width:80%; height:80%; margin-left:10%;" alt="">
 			<blockquote>"I've decided to give some suggestions for possible features & changes that as a user I feel would mae the site nicer/easier to use. Feel free to add your own suggestios or give fair critique.</blockquote>
 		</div>
-	</section>
-	
+	</section> -->
+
 	<!-- PERSONA: SNOW: USER JOURNEY  -->
 
-	<section class="snow-journey">
+	<!-- <section class="snow-journey">
 		<h4 class="sm-caps">user journey</h4>
 		<hr>
 		<h3>Snow maps out the steps he would need to take in order to organize his queue.</h3>
 		<img src="css/images/crunchyroll/cr-snow-thumbnail.png" alt="" class="thumbnail">
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-snow-journey.svg" alt="">
 		</div>
-	</section>
+	</section> -->
 
 
-	<section class="user-task">
+	<!-- <section class="user-task">
 		<h4 class="sm-caps">user task</h4>
 		<hr>
 		<h3>Snow searches for, adds, and organizes shows in his queue.</h3>
@@ -256,23 +305,23 @@
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-ut-steps.svg" style="width:40%; height:40%; margin-left:25%; padding:2%;" alt="">
 		</div>
-	</section>
+	</section> -->
 
-	<section class="ut-steps">
+	<!-- <section class="ut-steps">
 		<h4 class="sm-caps">user flow</h4>
 		<hr>
 		<h3>Snow searches for, adds, and organizes shows in his queue.</h3>
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-user-task.svg" style="padding:2%;" alt="">
 		</div>
-	</section>
+	</section> -->
 
 	<!-- PERSONA: BUNNY -->
 
-	<section class="bunny">
+	<!-- <section class="bunny">
 		<h4 class="sm-caps">persona</h4>
 		<hr>
 		<h3>Meet Bunny, an 18-year-old who has been a Normal member for 2 years.</h3>
@@ -298,24 +347,24 @@
 			<img src="css/images/crunchyroll/cr-bunny.png" style="width:80%; height:80%; margin-left:10%;" alt="">
 			<blockquote>"[The fourms are]] always fun to come around and see what's been dropped seasonal wise, even off season including what's new in the forums. and thans to the recent purchae of a fire stick I no longer have to sit online to watch CR I an watch it on TV"</blockquote>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- PERSONA: BUNNY: USER JOURNEY -->
 
-	<section class="bunny-journey">
+	<!-- <section class="bunny-journey">
 		<h4 class="sm-caps">user journey</h4>
 		<hr>
 		<h3>Bunny maps out steps she'd need to take in order to chat about an anime with CR users.</h3>
 		<img src="css/images/crunchyroll/cr-bunny-thumbnail.png" alt="" class="thumbnail">
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-bunny-journey.png" alt="">
 		</div>
-	</section>
+	</section> -->
 
-	<section class="user-task">
+	<!-- <section class="user-task">
 		<h4 class="sm-caps">user task</h4>
 		<hr>
 		<h3>Bunny discusses anime with others on a video and in the forum.</h3>
@@ -336,77 +385,77 @@
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-user-task-2.svg" style="width:80%; height:80%; margin-left:10%; padding:2%;" alt="">
 		</div>
-	</section>
+	</section> -->
 
-	<section class="ut-steps">
+	<!-- <section class="ut-steps">
 		<h4 class="sm-caps">user flow</h4>
 		<hr>
 		<h3>Bunny discusses anime with others on a video and in the forum.</h3>
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-ut-steps-2.svg" style="padding:2%;" alt="">
 		</div>
-	</section>
+	</section> -->
 
 	<!-- WIREFRAMES -->
 
-	<section class="wireframes">
+	<!-- <section class="wireframes">
 		<h4 class="sm-caps">wireframes</h4>
 		<hr>
 		<h3>Homepage</h3>
 		<p class="left"><span class="larr">&lt;</span> prev</p>
 		<p class="right">next <span class="rarr">&gt;</span></p>
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-wf-homepage.svg" id="wireframes" alt="">
 		</div>
-	</section>
+	</section> -->
 
-	
+
 	<!-- VISUAL DESIGN: MOODBOARD -->
 
-	<section class="moodboard">
+	<!-- <section class="moodboard">
 		<h4 class="sm-caps">visual design</h4>
 		<hr>
 		<h3>Where I drew inspiration for type and color.</h3>
 	</section>
-
-	<section class="supporting-images">
+	 -->
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-moodboard.png" alt="">
 		</div>
-	</section>
+	</section> -->
 
 	<!-- VISUAL DESIGN: STYLES -->
 
-	<section class="ds">
+	<!-- <section class="ds">
 		<h4 class="sm-caps">visual design</h4>
 		<hr>
 		<h3>Rules on type, color, buttons, and links</h3>
-	</section>
+	</section> -->
 
 	<!-- HIGH FIDELITY -->
 
-	<section class="high-fidelity">
+	<!-- <section class="high-fidelity">
 		<h4 class="sm-caps">high fidelity</h4>
 		<hr>
 		<h3>Homepage—<em>Dropdown Closed</em></h3>
 		<p class="left"><span class="larr">&lt;</span> prev</p>
 		<p class="right">next <span class="rarr">&gt;</span></p>
-	</section>
+	</section> -->
 
-	<section class="supporting-images">
+	<!-- <section class="supporting-images">
 		<div class="vis">
 			<img src="css/images/crunchyroll/cr-hf-homepage-closed.svg" id="high-fidelity" alt="">
 		</div>
-	</section>
+	</section> -->
 
 		
-	<footer id="CONTACT">
+	<footer>
 		<ul>
 			<li class="active">let's chat</li>
 			<li><a href="mailto:leyaabebe@gmail.com">email</a></li>
@@ -416,5 +465,8 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 	<script src="js/functions.js"></script>
+
+
+
 </body>
 </html>
