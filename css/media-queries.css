@@ -1,0 +1,121 @@
+
+/* extra small devices (phones, 600px and down) */
+
+@media screen and (max-width: 600px) {
+	
+	header {
+		height:350px;
+		padding-top:175px;
+	}
+
+	header h1 {
+		font-size:2.5em;
+	}
+
+	body {
+		grid-row-gap:3em;
+	}
+
+	article {
+		grid-column:span 12;
+	}
+
+}
+
+/* small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {
+	
+	header h1 {
+		font-size:2.5em;
+	}
+
+	body {}
+
+	article {
+		grid-column: span 12;
+	}
+}
+
+
+/* medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width:768px) {
+
+	header h1 {
+		font-size:2.5em;
+	}
+
+	body {
+		/*background-color:yellow;*/
+	}
+
+	article {
+		grid-column: span 6;
+	}
+
+}
+
+
+/* large devices (laptops/desktops, 992px and up) */
+
+@media screen and (min-width: 1024px) {
+
+	header h1 {
+		font-size:2.5em;
+	}
+	
+	body {
+		/*background-color:pink;*/
+	}
+
+	article {
+		grid-column: span 4;
+	}
+
+}
+
+/* extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (min-width: 1440px) {
+
+	header h1 {
+		font-size:3em;
+		text-align:center;
+	}
+
+	body {
+		/*background-color:red;*/
+	}
+
+	article {
+		grid-column: span 2;
+	}
+
+	section.filter {
+		text-align:center;
+		padding-left:0;
+	}
+
+}
+
+@media only screen and (min-width: 1600px) {
+
+	header h1 {
+		font-size:3em;
+		text-align:center;
+	}
+
+	body {}
+
+}
+
+
+/* xxl devices (monitors and tvs) */
+
+@media only screen and (min-width: 2160px) {
+
+	body {}
+}
+
+

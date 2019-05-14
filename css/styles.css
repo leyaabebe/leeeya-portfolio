@@ -199,17 +199,23 @@ h6 {
 }
 
 h1 {
-	/*font-weight:700;*/
 	font-size:3em;
 	letter-spacing:auto;
 }
 
 p {
 	font-family:'mr-eaves-modern', sans-serif;
-	/*font-weight:400;*/
 	display:inline-block;
-	font-size:1em;
+	font-size:1.2em;
 }
+
+p.lead {
+	font-family:'mr-eaves-modern', sans-serif;
+	font-size:1.5em;
+	font-weight:400;
+	margin-bottom:2em;
+}
+
 
 .fw-100 { font-weight:100; }
 .fw-300 { font-weight:300; }
@@ -232,7 +238,7 @@ html {
 body {
 	margin:0;
 	font-family:'mr-eaves-modern',sans-serif;
-	background-color:var(--main-white);
+	/*background-color:var(--main-off-white);*/
 	cursor:default;
 	display:inline-grid;
 	grid-template-columns:repeat(12,1fr);
@@ -258,7 +264,7 @@ nav {
 	box-shadow: 0px 4px 2px var(--main-off-white);
 }
 
-#LOGO {
+.logo {
 	display:inline-block;
 	position:fixed;
 	top:30px;
@@ -297,24 +303,14 @@ nav ul li a.active {
 
 
 header {
-	width:100%;
+	width:100vw;
 	height:400px;
-	/*background-color:var(--main-blue);*/
-	/*background-image: linear-gradient(to bottom, rgba(8,155,228,1), rgba(8,155,228,0));*/
-	/*color:var(--main-white);*/
 	color:var(--main-off-black);
 	text-align:left;
 	padding-top:176px;
 	padding-left:16%;
 	padding-right:16%;
 }
-
-
-/*header h2 {
-	font-family:'mr-eaves-modern', sans-serif;
-	font-weight:400;
-	font-size:2em;
-}*/
 
 
 header ul {
@@ -343,34 +339,25 @@ header ul li.active {
 	font-weight:700;
 }
 
-section.projects {
-	width:100%;
-	padding-left:4%;
-	padding-right:4%;
-	padding-top:112px;
-}
+
 
 /* INDIVIDUAL PROJECTS */
 
 article {
-	min-width:300px;
-	min-height:250px;
+	/*min-width:300px;
+	min-height:250px;*/
 	margin-bottom:48px;
+	grid-column:span 4;
+	padding:1em;
 }
 
-/*article:last-child {
-	margin-bottom:248px;
-}*/
-
-.img {
-	width:100%;
-	max-height:300px;
-	background-color:#fafafa;
+article:last-of-type {
+	margin-bottom:176px;
 }
 
 article img {
 	/*width:80%;*/
-	max-height:250px;
+	height:250px;
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
@@ -378,10 +365,6 @@ article img {
 	padding-bottom:3em;
 }
 
-/*.¢hange {
-	width:35%;
-	margin-left: 30%;
-}*/
 
 article h2 {
 	margin-top:1em;
@@ -402,52 +385,45 @@ article a:link {
 	color:var(--main-off-black);
 }
 
-/* FITER */
 
-section.filter h4 {
-	font-size:16px;
-	letter-spacing:1.33px;
-	font-weight:400;
-	font-variant:small-caps;
-	margin-top:24px;
-}
 
-/* MISCELLANEOUS */
-
-p.lead {
-	font-family:'mr-eaves-modern', sans-serif;
-	font-size:1.5em;
-	font-weight:400;
-	margin-bottom:2em;
-}
 
 
 /* PROJECT THUMBNAILS:*/
 
-.cr-tb {
+.cr-tb:hover {
 	background-color:#FF9D00;
-	/*background-image:url(images/crunchyroll/cr-cover.png);*/
 }
 
-.inside-tb {
+.inside-tb:hover {
 	background-color:#e6e2c9;
 }
 
-.¢hange-tb {
+.¢hange-tb:hover {
 	background-color:#A8FBD7;
 }
 
-.aria-tb {
+.aria-tb:hover {
 	background-color:var(--main-black);
 }
 
-.me2math-tb {
-	/*background-color:#07F8F8;*/
+.me2math-tb:hover {
+
 	background-color:#e5a186;
 }
 
-.pokedex-tb {
+.pokedex-tb:hover {
 	background-color:#f1c40f;
+}
+
+.cr-tb,
+.inside-tb,
+.¢hange-tb,
+.aria-tb,
+.me2math-tb,
+.pokedex-tb {
+	border:solid 1px var(--main-black);
+	background-color:var(--main-blue);
 }
 
 
@@ -474,20 +450,28 @@ button:focus {
 	outline:none;
 }
 
+button:hover {
+	background-color:var(--main-blue);
+	color:var(--main-white);
+}
+
+
 section.filter {
-	position:fixed;
-	bottom:0;
-	left:0;
 	width:100%;
 	height:112px;
-	background-color:rgba(255,255,255,.8);
+	background-color:var(--main-off-white);
 	color:#000000;
-	text-align:center;
-	z-index:1000;
+	/*text-align:center;*/
+	/*z-index:1000;*/
+	padding-left:16%;
 }
 
 section.filter h4 {
-	margin-top:32px;
+	font-size:1em;
+	letter-spacing:1.33px;
+	font-weight:400;
+	font-variant:small-caps;
+	margin-top:1.5em;
 }
 
 section.filter ul {
@@ -502,6 +486,7 @@ section.filter ul li {
 	font-size:24px;
 	font-weight:300;
 	margin-left:32px;
+	margin-top:.5em;
 }
 
 section.filter ul li:first-child {
@@ -509,22 +494,56 @@ section.filter ul li:first-child {
 }
 
 section.filter ul li.active {
-	font-variant:small-caps;
 	font-weight:700;
-	font-size:32px;
-}
-article {
-	padding:1em;
 }
 
+/* ABOUT PAGE*/
+
 article.about {
-	/*margin-top:4vh;
-	margin-bottom:4vh;*/
-	padding:1em;
+	width:100vw;
+	grid-column:1/ span 12;
+	padding-left:16%;
+	padding-right:16%;
+	margin-top:176px;
 }
+
+
+article.about img {
+	grid-column:span 6;
+	width:80%;
+	height:80%;
+	margin-left:auto;
+	margin-right:auto;
+	padding-right:0;
+	padding-left:0;
+	margin-top:0;
+	margin-top:-16em;
+	margin-bottom:-6em;
+}
+
+.about:nth-child(4) {
+	margin-top:0;
+	background-color:var(--main-white);
+	padding-left:28%;
+	padding-right:28%;
+	line-height:1.5;
+}
+
+/*.btm-img {
+	margin-top:-10em;
+}*/
+
+/* clip vs mask from https://css-tricks.com/clipping-masking-css */
+
+/*.clip-circle {
+	clip-path:circle(150px at center);
+}*/
 
 
 footer {
+	position:fixed;
+	bottom:0;
+	left:0;
 	width:100%;
 	height:88px;
 	background-color:var(--main-black);
@@ -560,12 +579,6 @@ footer ul li a {
 	font-weight:300;
 }
 
-footer.home {
-	position:fixed;
-	bottom:0;
-	left:0;	
-	opacity:0;
-}
 
 /* using CSS Grid */
 
