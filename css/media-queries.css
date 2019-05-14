@@ -4,8 +4,9 @@
 @media screen and (max-width: 600px) {
 	
 	header {
-		height:350px;
-		padding-top:175px;
+		/*height:325px;*/
+		padding-top:300px;
+		padding-left:2em;
 	}
 
 	header h1 {
@@ -14,10 +15,30 @@
 
 	body {
 		grid-row-gap:3em;
+		/*background-color:purple;*/
 	}
 
 	article {
 		grid-column:span 12;
+	}
+
+	section {
+		grid-column:span 12;
+		padding-left:2em;
+	}
+
+	section.img-vert {
+		grid-column:span 12;
+	}
+
+	section.img-horiz {
+		grid-column:span 12;
+	}
+
+	p.col-3 {
+		grid-column:span 6;
+		margin-left:0;
+		padding-left:2em;
 	}
 
 	/* BY PROJECT*/
@@ -26,10 +47,8 @@
 	/* crunchyroll*/
 
 	.cr-hero {
-		/*background-image:url(images/crunchyroll/cr-hf-homepage-closed.png);
-		background-position:center -40%;
-		background-size:50%;
-		background-repeat:no-repeat;*/
+		background-position:250% 200%;
+		background-size:80%;
 	}
 
 	/* inside-scene */
@@ -49,13 +68,27 @@
 @media only screen and (min-width: 600px) {
 	
 	header h1 {
-		font-size:2.5em;
+		font-size:3em;
 	}
 
-	body {}
+	body {
+		background-color:blue;
+	}
 
 	article {
 		grid-column: span 12;
+	}
+
+	section {
+		grid-column:span 9;
+	}
+
+	section.img-vert {
+		grid-column:span 12;
+	}
+
+	section.img-horiz {
+		grid-column:span 12;
 	}
 
 	/* BY PROJECT*/
@@ -87,15 +120,27 @@
 @media only screen and (min-width:768px) {
 
 	header h1 {
-		font-size:2.5em;
+		font-size:3em;
 	}
 
 	body {
-		/*background-color:yellow;*/
+		background-color:yellow;
 	}
 
 	article {
 		grid-column: span 6;
+	}
+
+	section {
+		grid-column:span 9;
+	}
+
+	section.img-vert {
+		grid-column:span 12;
+	}
+
+	section.img-horiz {
+		grid-column:span 12;
 	}
 
 	/* BY PROJECT*/
@@ -127,16 +172,32 @@
 
 @media screen and (min-width: 1024px) {
 
+	header {
+		/*height:350px;*/
+	}
+
 	header h1 {
-		font-size:2.5em;
+		font-size:3em;
 	}
 	
 	body {
-		/*background-color:pink;*/
+		background-color:pink;
 	}
 
 	article {
-		grid-column: span 4;
+		grid-column: span 6;
+	}
+
+	section {
+		grid-column:span 6;
+	}
+
+	section.img-vert {
+		grid-column:span 6;
+	}
+
+	section.img-horiz {
+		grid-column:span 12;
 	}
 
 	/* BY PROJECT*/
@@ -168,8 +229,8 @@
 @media only screen and (min-width: 1440px) {
 
 	header h1 {
-		font-size:3em;
-		text-align:center;
+		font-size:3.5em;
+		/*text-align:center;*/
 	}
 
 	body {
@@ -177,12 +238,12 @@
 	}
 
 	article {
-		grid-column: span 2;
+		grid-column: span 4;
 	}
 
 	section.filter {
-		text-align:center;
-		padding-left:0;
+		/*text-align:center;*/
+		/*padding-left:0;*/
 	}
 
 	/* BY PROJECT*/
@@ -211,12 +272,21 @@
 
 @media only screen and (min-width: 1600px) {
 
+	header {
+		/*height:375px;*/
+	}
+
 	header h1 {
-		font-size:3em;
-		text-align:center;
+		font-size:4em;
+		/*text-align:center;*/
 	}
 
 	body {}
+
+	article {
+		grid-column: span 4;
+	}
+
 
 	/* BY PROJECT*/
 
@@ -247,7 +317,13 @@
 
 @media only screen and (min-width: 2160px) {
 
-	body {}
+	header {
+		/*height:300px;*/
+	}
+
+	body {
+		/*background-color:pink;*/
+	}
 
 	/* BY PROJECT*/
 

@@ -353,11 +353,11 @@ nav ul li a.active:hover {
 
 header {
 	width:100vw;
-	height:400px;
+	height:325px;
 	color:var(--main-off-black);
 	text-align:left;
 	padding-top:176px;
-	padding-left:16%;
+	padding-left:5%;
 	padding-right:16%;
 }
 
@@ -511,7 +511,7 @@ section.filter {
 	color:#000000;
 	/*text-align:center;*/
 	/*z-index:1000;*/
-	padding-left:16%;
+	padding-left:5%;
 }
 
 section.filter h4 {
