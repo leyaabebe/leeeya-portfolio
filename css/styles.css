@@ -285,6 +285,7 @@ body {
 	justify-content:center;
 	color:var(--main-off-black);
 	line-height:1.3;
+	/*position:relative;*/
 }
 
 
@@ -552,21 +553,21 @@ article.about {
 	grid-column:1/ span 12;
 	padding-left:16%;
 	padding-right:16%;
-	margin-top:176px;
+	/*margin-top:176px;*/
 }
 
 
 article.about img {
 	grid-column:span 6;
-	width:80%;
-	height:80%;
+	width:100%;
+	height:100%;
 	margin-left:auto;
 	margin-right:auto;
 	padding-right:0;
 	padding-left:0;
 	margin-top:0;
-	margin-top:-16em;
-	margin-bottom:-6em;
+	/*margin-top:-16em;*/
+	/*margin-bottom:-6em;*/
 }
 
 .about:nth-child(4) {
@@ -574,6 +575,7 @@ article.about img {
 	background-color:var(--main-white);
 	padding-left:28%;
 	padding-right:28%;
+	margin-top:0;
 	/*line-height:1.5;*/
 }
 

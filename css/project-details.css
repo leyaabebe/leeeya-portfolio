@@ -5,18 +5,9 @@ body {
 }
 
 header {
-	padding-top:300px;
 	height:600px;
 }
 
-header h1 {
-	font-family:'museo-sans-display',sans-serif;
-	font-weight:800;
-}
-
-header h2 {
-	font-weight:400;
-}
 
 section {
 	width:100%;
@@ -53,6 +44,16 @@ section.img-horiz img {
 
 	padding:2em;
 }
+
+h1 {
+	font-family:'museo-sans-display',sans-serif;
+	font-weight:800;
+}
+
+h2 {
+	font-weight:400;
+}
+
 
 h4 {
 	font-variant:small-caps;
@@ -92,21 +93,31 @@ p.col-3 {
 /* BY PROJECT*/
 
 
-/* crunchyroll*/
+/* CRUNCHYROLL*/
 
 .cr-hero {
-	background-image:url(images/crunchyroll/cr-hf-homepage-closed.png);
-	background-position:right -80%;
-	background-size:50%;
-	background-repeat:no-repeat;
+	background-color:var(--proj-orange);
+	text-align:center;
 }
 
-/* inside-scene */
+.cr-hero-img {
+	object-fit:contain;
+	width:80%;
+	height:80%;
+	margin-left:3em;
+}
 
-/* ¢hange */
+.cr-headline {
+	padding-left:2em;
+}
 
-/* aria */
 
-/* me2math */
+/* INSIDE-SCENE */
 
-/* pokedex */
+/* ¢HANGE */
+
+/* ARIA */
+
+/* ME2MATH */
+
+/* POKEDEX */
