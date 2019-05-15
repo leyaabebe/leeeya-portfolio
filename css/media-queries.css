@@ -1,7 +1,86 @@
+/* xxs devices */
+
+@media screen and (max-width: 411px){
+	
+	header {
+		padding-top:152px;
+	}
+
+	header h1 {
+		font-size:2em;
+	}
+
+	body {
+		/*background-color:purple;*/
+		grid-row-gap:1em;
+	}
+
+	article {
+		grid-column:span 12;
+	}
+
+	section {
+		grid-column:span 12;
+		padding-left:2em;
+		margin-bottom:8vh;
+	}
+
+	section img {
+		width:95%;
+		margin-left:auto;
+		margin-right:auto;
+	}
+
+	section.img-vert {
+		grid-column:span 12;
+	}
+
+	section.img-vert img {
+		width:100%;
+		margin-left:auto;
+		margin-right:auto;
+		/*margin-left:2em;*/
+	}
+
+	section.img-horiz {
+		grid-column:span 12;
+	}
+
+	section.img-horiz img {
+		width:100%;
+		margin-left:auto;
+		margin-right:auto;
+	}
+
+	p.col-3 {
+		grid-column:span 12;
+		/*background-color:yellow;*/
+	}
+
+	.role {
+		margin-top:4em;
+	}
+
+	.links {
+		margin-bottom:4em;
+		/*background-color:yellow;*/
+	}
+
+	.role, 
+	.tools,
+	.duration,
+	.team,
+	.tools,
+	.links {
+		padding-left:1.75em;
+	}
+
+}
+
 
 /* extra small devices (phones, 600px and down) */
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width:412px) and (max-width: 600px) {
 
 
 	header h1 {
@@ -43,8 +122,13 @@
 	p.col-3 {
 		grid-column:span 6;
 		margin-left:0;
+		background-color:pink;
+	}
+
+	.role, .tools {
 		padding-left:2em;
 	}
+
 
 	/* BY PAGE */
 
