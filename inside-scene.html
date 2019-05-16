@@ -10,23 +10,42 @@
 	<link rel="stylesheet" href="https://use.typekit.net/gvy4ews.css">
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/project-details.css">
+	<link rel="stylesheet" href="css/media-queries.css">
 </head>
 <body>
 	<nav>
-		<a href="index.html"><img src="css/images/logo.svg" alt="" id="LOGO"></a>
+		<a href="index.html">
+			<img src="css/images/logo-black.svg" alt="" class="logo" id="mark">
+			<img src='css/images/leya-black.svg' alt='logo mark' class='logo' id='name'>
+		</a>
 		<ul>
-			<li><a href="index.html#WORK">work</a></li>
-			<li><a href="index.html#ABOUT">about</a></li>
-			<li><a href="#CONTACT">contact</a></li>
+			<li><a href="index.html#work">work</a></li>
+			<li><a href="about.html">about</a></li>
+			<li><a href="#contact">contact</a></li>
 		</ul>
 	</nav>
 
-	<header class="inside-scene-hero-bg inside-scene">
-		<h1 class="txt-black">inside scene</h1>
-		<h2 class="txt-black">smart tv feature</h2>
+	<header class="inside-scene-hero col-12">
+		<img src="css/images/inside-scene/inside-cover.png" alt="" class="inside-hero-img">
 	</header>
 
-	<section class="abstract">
+	<div class="col-12 cr-headline">
+		<h1>Inside Scene</h1>
+		<h2>smart tv feature</h2>
+	</div>
+
+
+	<p class="col-3 role"><span class="sm-caps">my role</span><br>user research, user surveys, wireframing, prototyping, and visual design</p>
+	<p class="col-3 duration"><span class="sm-caps">duration</span><br>Spring 2016 (initial)<br>March-May 2019 (revised)</p>
+	<p class="col-3 tools"><span class="sm-caps">tools</span><br>paper, sketch, invision studio</p>
+	<p class="col-3 links"><span class="sm-caps">links</span><br>visit prototype 
+		<br>
+			<a href="https://projects.invisionapp.com/prototype/crunchyroll-website-redesign-cjvlicj6t002p7001wrjr7x3d/play/882ed2f3">
+				<button class="btn-lg">invision</button>
+			</a>
+	</p>
+
+	<section class="overview">
 		<h4 class="sm-caps">abstract</h4>
 		<h3> Purchase or save items of interest from a show or documentary, all from the pause screen.</h3><br/>
 		<div class="content">
@@ -361,7 +380,7 @@
 		</ul>
 	</footer> -->
 
-	<footer id="CONTACT">
+	<footer id="contact">
 		<ul>
 			<li class="active">let's chat</li>
 			<li><a href="mailto:leyaabebe@gmail.com">email</a></li>
@@ -371,5 +390,28 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 	<script src="js/functions.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("nav").css({
+				"background-color":"transparent",
+				"box-shadow":"none"
+			});
+			$("nav ul li a.active").css("color","var(--main-black)");
+			$("nav ul li a").on("click", function(){
+				$(this).css("color","var(--main-black");
+			});
+			$(window).scroll(function(){
+				if ($(window).scrollTop() < 308){
+					$("nav").css("background-color","transparent");
+				}else {
+					$("nav").css({
+						"background-color":"var(--proj-pearl)",
+						"box-shadow":"0px 4px 2px var(--main-off-white);"
+					});
+				}
+			})
+		})
+
+	</script>
 </body>
 </html>

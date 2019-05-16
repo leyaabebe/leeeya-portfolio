@@ -68,7 +68,7 @@
                 <path d="M114.3487,57.1299 C114.3487,25.9579 89.2317,0.6629 58.1337,0.3509 L58.1337,113.9089 C89.2317,113.5969 114.3487,88.3019 114.3487,57.1299" id="Fill-5" fill="#FFCE80"></path>
                 <path d="M114.3487,57.1299 C114.3487,25.9579 89.2317,0.6629 58.1337,0.3509 L58.1337,113.9089 C89.2317,113.5969 114.3487,88.3019 114.3487,57.1299 Z" id="Stroke-7" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="50%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.4224834" fill="#FF9D00">
+            <text id="50%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.4224834" fill="#000000">
                 <tspan x="333" y="146">5</tspan>
                 <tspan x="351.251573" y="146" letter-spacing="-0.018">0%</tspan>
             </text>
@@ -78,7 +78,7 @@
                 <path d="M3.6205,77.0811 C-6.9735,47.1651 9.7675,0.0681 58.3165,0.168937822 L57.7665,58.5331 L46.7355,114.4551 C27.4655,110.5681 10.6605,96.9611 3.6205,77.0811" id="Fill-14" fill="#FFCE80"></path>
                 <path d="M3.6205,77.0811 C-6.9735,47.1651 9.7675,0.0681 58.3165,0.168937822 L57.7665,58.5331 L46.7355,114.4551 C27.4655,110.5681 10.6605,96.9611 3.6205,77.0811 Z" id="Stroke-16" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="50.8%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.7620734" fill="#FF9D00">
+            <text id="50.8%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.7620734" fill="#000000">
                 <tspan x="21" y="394">5</tspan>
                 <tspan x="39.5911634" y="394" letter-spacing="0.4719137">0</tspan>
                 <tspan x="60.7588051" y="394" letter-spacing="1.1641019">.</tspan>
@@ -93,7 +93,7 @@
                 <path d="M58.8184,114.6214 C17.3034,113.1964 -16.6916,70.0414 10.3084,27.9654 L59.5624,58.0804 L58.8334,0.5454 C140.1064,0.5454 129.3084,117.0414 58.8184,114.6214" id="Fill-28" fill="#FFF5E6"></path>
                 <path d="M58.8184,114.6214 C17.3034,113.1964 -16.6916,70.0414 10.3084,27.9654 L59.5624,58.0804 L58.8334,0.5454 C140.1064,0.5454 129.3084,117.0414 58.8184,114.6214 Z" id="Stroke-30" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="33%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.5643194" fill="#FF9D00">
+            <text id="33%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.5643194" fill="#000000">
                 <tspan x="193" y="394">3</tspan>
                 <tspan x="211.498286" y="394" letter-spacing="-0.0334795">3</tspan>
                 <tspan x="229.398774" y="394" letter-spacing="-0.016">%</tspan>
@@ -122,7 +122,7 @@
                 <path d="M57.3088,60.2432 L71.3848,2.6292 C71.3848,2.6292 94.2398,5.5502 109.0288,32.4382 C75.4178,48.5712 57.3088,60.2432 57.3088,60.2432" id="Fill-38" fill="#FFCE80"></path>
                 <path d="M57.3088,60.2432 L71.3848,2.6292 C71.3848,2.6292 94.2398,5.5502 109.0288,32.4382 C75.4178,48.5712 57.3088,60.2432 57.3088,60.2432 Z" id="Stroke-40" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="89.2%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.9595" font-weight="600" letter-spacing="0.31111525" fill="#FF9D00">
+            <text id="89.2%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.9595" font-weight="600" letter-spacing="0.31111525" fill="#000000">
                 <tspan x="23" y="143">8</tspan>
                 <tspan x="43.4827468" y="143" letter-spacing="-0.021">9</tspan>
                 <tspan x="61.9203627" y="143" letter-spacing="1.60461675">.</tspan>
@@ -145,7 +145,7 @@
                 <path d="M57.3543,115.0742 C88.8783,115.0742 114.4333,89.5192 114.4333,57.9952 C114.4333,26.4712 88.8783,0.9162 57.3543,0.9162 C25.8303,0.9162 0.2753,26.4712 0.2753,57.9952 C0.2753,89.5192 25.8303,115.0742 57.3543,115.0742" id="Fill-47" fill="#FFF5E6"></path>
                 <path d="M57.3543,115.0742 C88.8783,115.0742 114.4333,89.5192 114.4333,57.9952 C114.4333,26.4712 88.8783,0.9162 57.3543,0.9162 C25.8303,0.9162 0.2753,26.4712 0.2753,57.9952 C0.2753,89.5192 25.8303,115.0742 57.3543,115.0742 Z" id="Stroke-49" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="62.9%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.2506884" fill="#FF9D00">
+            <text id="62.9%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.2506884" fill="#000000">
                 <tspan x="177.400187" y="146.153731">6</tspan>
                 <tspan x="197.157998" y="146.153731" letter-spacing="1.2155568">2</tspan>
                 <tspan x="215.398587" y="146.153731" letter-spacing="0.404508">.</tspan>
@@ -160,7 +160,7 @@
                 <path d="M146.288,362.492 C177.927,362.492 203.576,336.843 203.576,305.204 C203.576,273.565 177.927,247.916 146.288,247.916 C114.649,247.916 89,273.565 89,305.204 C89,336.843 114.649,362.492 146.288,362.492" id="Fill-60" fill="#FFF5E6"></path>
                 <path d="M146.288,362.492 C177.927,362.492 203.576,336.843 203.576,305.204 C203.576,273.565 177.927,247.916 146.288,247.916 C114.649,247.916 89,273.565 89,305.204 C89,336.843 114.649,362.492 146.288,362.492 Z" id="Stroke-62" stroke="#FF9D00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <text id="92.6%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.6222374" fill="#FF9D00">
+            <text id="92.6%" font-family="MrEavesModOT-Heavy, Mr Eaves Mod OT" font-size="34.959" font-weight="600" letter-spacing="0.6222374" fill="#000000">
                 <tspan x="323" y="394">9</tspan>
                 <tspan x="343.129359" y="394" letter-spacing="1.6570238">2</tspan>
                 <tspan x="361.811416" y="394" letter-spacing="0.6991472">.</tspan>

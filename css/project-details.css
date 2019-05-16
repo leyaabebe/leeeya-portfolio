@@ -1,3 +1,8 @@
+footer {
+	width:100%;
+	grid-column:span 12;
+}
+
 
 body {
 	grid-row-gap:12vh;
@@ -7,6 +12,10 @@ body {
 
 header {
 	height:600px;
+}
+
+header img {
+	/*width:100%;*/
 }
 
 
@@ -22,7 +31,7 @@ section {
 section.img-vert {
 	width:100%;
 	grid-column:span 6;
-	background-color:var(--proj-orange);
+	/*background-color:var(--proj-orange);*/
 	/*background-color:var(--main-off-white);*/
 	padding-right:1em;
 }
@@ -37,7 +46,7 @@ section.img-vert img {
 section.img-horiz {
 	width:100%;
 	grid-column:span 12;
-	background-color:var(--proj-orange);
+	/*background-color:var(--proj-orange);*/
 	/*padding-right:1em;*/
 }
 
@@ -115,6 +124,21 @@ h3 {
 	margin-top:0;
 }
 
+.cr-hero-img,
+.inside-hero-img,
+.¢hange-hero-img,
+.aria-hero-img,
+.me2math-hero-img,
+.pokedex-hero-img {
+	object-fit:contain;
+	width:25%;
+	height:25%;
+	position:absolute;
+	top:0;
+	left:0;
+	margin-top:6em;
+}
+
 
 
 /* BY PROJECT*/
@@ -126,13 +150,7 @@ h3 {
 	background-color:var(--proj-orange);
 	text-align:center;
 	height:400px;
-}
-
-.cr-hero-img {
-	object-fit:contain;
-	width:100%;
-	height:100%;
-	margin-left:1em;
+	z-index:-1;
 }
 
 .cr-headline {
@@ -142,10 +160,45 @@ h3 {
 
 /* INSIDE-SCENE */
 
+.inside-scene-hero {
+	background-color:var(--proj-pearl);
+	text-align:center;
+	height:400px;
+}
+
 /* ¢HANGE */
+
+.¢hange-hero {
+	background-color:var(--proj-green);
+	text-align:center;
+	height:400px;
+}
 
 /* ARIA */
 
+.aria-hero {
+	background-color:var(--main-black);
+	text-align:center;
+	height:400px;
+}
+
 /* ME2MATH */
 
-/* POKEDEX 
+.me2math-hero {
+	background-color:var(--proj-pinki);
+	text-align:center;
+	height:400px;
+}
+
+/* POKEDEX */
+
+.pokedex-hero {
+	background-color:var(--proj-yellow);
+	text-align:center;
+	height:400px;
+}
+
+
+
+
+
