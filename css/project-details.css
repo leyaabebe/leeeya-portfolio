@@ -1,8 +1,9 @@
- GENERAL*/
 
 body {
 	grid-row-gap:12vh;
+	background-color:var(--main-off-white);
 }
+
 
 header {
 	height:600px;
@@ -15,12 +16,14 @@ section {
 	/*background-color:yellow;*/
 	padding-left:4em;
 	padding-right:2em;
+	margin-bottom:4vh;
 }
 
 section.img-vert {
 	width:100%;
 	grid-column:span 6;
 	background-color:var(--proj-orange);
+	/*background-color:var(--main-off-white);*/
 	padding-right:1em;
 }
 
@@ -41,7 +44,6 @@ section.img-horiz {
 section.img-horiz img {
 	width:100%;
 	margin-left:12%;
-
 	padding:2em;
 }
 
@@ -97,8 +99,21 @@ h3 {
 
 .scrolling-wrapper img {
 	display:inline-block;
+	width:100%;
+	margin-right:1em;
 }
 
+.col-12 img {
+	width:100%;
+}
+
+.role,
+.duration,
+.team,
+.tools,
+.links {
+	margin-top:0;
+}
 
 
 

@@ -93,7 +93,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Book Italic*/
@@ -102,7 +102,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 300;
 	font-style: italic;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Reg*/
@@ -111,7 +111,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Bold Italic*/
@@ -120,7 +120,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 700;
 	font-style: italic;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Light*/
@@ -129,7 +129,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 200;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Light Italic*/
@@ -138,7 +138,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 200;
 	font-style: italic;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Bold*/
@@ -147,7 +147,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 700;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Mr Eaves Mod OT Reg Italic*/
@@ -156,7 +156,7 @@
 	font-family: 'mr-eaves-modern', sans-serif;
 	font-weight: 400;
 	font-style: italic;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 
@@ -166,7 +166,7 @@
 	font-family: 'museo-sans', serif;
 	font-weight: 300;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Museo-sans 500*/
@@ -175,7 +175,7 @@
 	font-family: 'museo-sans', serif;
 	font-weight: 500;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 /*Museo-sans 700*/
@@ -184,7 +184,7 @@
 	font-family: 'museo-sans', serif;
 	font-weight: 700;
 	font-style: normal;
-	font-display: swap;
+	/*font-display: swap;*/
 }
 
 
@@ -230,6 +230,12 @@ h6 {
 	margin:0;
 }
 
+h5 {
+	font-family:'museo-sans', sans-serif;
+	margin-top:2em;
+	margin-bottom:0;
+}
+
 h1 {
 	font-size:3em;
 	letter-spacing:auto;
@@ -240,9 +246,17 @@ p {
 	display:inline-block;
 	font-size:1.2em;
 	font-weight:300;
-	margin-top:0;
+	margin-top:2em;
 	margin-bottom:2em;
 	/*padding-right:3em;*/
+}
+
+p + p {
+	margin-top:-1em;
+}
+
+h5 + p + h5 {
+	margin-top:-1em;
 }
 
 p.lead {
@@ -250,7 +264,7 @@ p.lead {
 	font-size:1.5em;
 	font-weight:400;
 	margin-top:.5em;
-	margin-bottom:1em;
+	margin-bottom:2em;
 	/*padding-right:1em;*/
 	/*margin-bottom:2em;*/
 }
