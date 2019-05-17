@@ -10,54 +10,57 @@
 	<link rel="stylesheet" href="https://use.typekit.net/gvy4ews.css">
 	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/project-details.css">
+	<link rel="stylesheet" href="css/media-queries.css">
 </head>
 <body>
 
 	<!-- NAVIGATION -->
 
 	<nav>
-		<a href="index.html"><img src="css/images/logo.svg" alt="" id="LOGO"></a>
+		<a href="index.html">
+			<img src="css/images/logo.svg" alt="" class="logo" id="mark">
+			<img src='css/images/leya-white.png' alt='logo mark' class='logo' id='name'>
+		</a>
 		<ul>
-			<li><a href="index.html#WORK">work</a></li>
-			<li><a href="index.html#ABOUT">about</a></li>
-			<li><a href="#CONTACT">contact</a></li>
+			<li><a href="index.html">work</a></li>
+			<li><a href="about.html">about</a></li>
+			<li><a href="#contact">contact</a></li>
 		</ul>
 	</nav>
 	
 	<!-- HEADER -->
 
-	<header class="aria-hero-bg aria">
-		<!-- <img src="css/images/aria/aria-cover.svg" alt=""> -->
-		<h1 class="txt-white">aria </h1>&nbsp;&nbsp;
-		<h2 class="txt-white">virtual reality concept</h2>
+	<header class="bg-black col-12 aria-hero">
+		<img src="css/images/aria/aria-cover.svg" alt="" class="aria-hero-img">
 	</header>
 
+
+	<!-- PROBLEM/ABSTRACT/BRIEF -->
+
+		<div class="col-12 cr-headline">
+			<h1>aria</h1>
+			<h2>virtual reality concept</h2>
+		</div>
+
+
+	<p class="col-3 role"><span class="sm-caps">my role</span><br>user research, user interviews, wireframing, prototyping, and visual design</p>
+	<p class="col-3 duration"><span class="sm-caps">duration</span><br>March-May 2019</p>
+	<p class="col-3 tools"><span class="sm-caps">tools</span><br>paper, sketch, invision studio</p>
+	<p class="col-3 links"><span class="sm-caps">links</span><br>visit prototype 
+		<br>
+			<a href="https://projects.invisionapp.com/prototype/inside-scene-cjvlmx80r002psz01zdo1e3ay/play/18355ace">
+				<button class="btn-lg">invision</button>
+			</a>
+	</p>
 
 	<!-- PROBLEM/OPPORTUNITY  -->
 
 	<section class="abstract aria">
-		<h4 class="sm-caps txt-white">abstract</h4>
+		<h4 class="sm-caps ">overview</h4>
 		<hr>
-		<h3 class="txt-white">An experience aimed at recognizing, overcoming, and steering emotions</h3>
-		<div class="content txt-white">
+		<h3 class="">An experience aimed at recognizing, overcoming, and steering emotions</h3>
+		<div class="content ">
 			<p class="lead">Prior to my MA program, I was working on a thesis project around creating a virtual reality experience where one would travel through the emotion of fear towards joy by "literally" moving through terrains that mirrored those emotions.</p>
-			<div class="role">
-				<h5 class="sm-caps">role</h5>
-				<p>user research, user interviews, user testing, wireframing, and prototyping</p>
-			</div><br>
-			<div class="duration">
-				<h5 class="sm-caps">duration</h5>
-				<p>12 weeks</p>
-			</div><br>
-			<div class="tools">
-				<h5 class="sm-caps">tools</h5>
-				<p>paper, sketch</p>
-			</div><br>
-			<div class="links">
-				<h5 class="sm-caps">links</h5>
-				<p>visit prototype</p>
-				<p>download case study</p>
-			</div>
 		</div>
 		<!-- <div class="vis"></div> -->
 	</section>
@@ -485,38 +488,60 @@
 
 			// script for applied background to problem/abstract section
 
-			var openingHeight = $("section.abstract.aria").height();
-			var h3Height = $("section.abstract.aria h3").height();
-			var h3Height = h3Height + (h3Height * 1.5);
-			var openingHeight = openingHeight + h3Height;
-			$("div.bg.aria").height(openingHeight);
-			$("div.bg.aria").css({
-				"background-color":"var(--main-black)",
-				"grid-column":"1/ span 12",
-				"grid-row":"3/ span 1",
-				"position":"relative",
-				"z-index":"-1",
-				"margin-top":-openingHeight
-			})
+			// var openingHeight = $("section.abstract.aria").height();
+			// var h3Height = $("section.abstract.aria h3").height();
+			// var h3Height = h3Height + (h3Height * 1.5);
+			// var openingHeight = openingHeight + h3Height;
+			// $("div.bg.aria").height(openingHeight);
+			// $("div.bg.aria").css({
+			// 	"background-color":"var(--main-black)",
+			// 	"grid-column":"1/ span 12",
+			// 	"grid-row":"3/ span 1",
+			// 	"position":"relative",
+			// 	"z-index":"-1",
+			// 	"margin-top":-openingHeight
+			// })
 		
 			// script for applied background to problem/abstract section on resize
 
-			$(window).on("resize",function(){
-				var openingHeight = $("section.abstract.aria").height();
-				var h3Height = $("section.abstract.aria h3").height();
-				var h3Height = h3Height + (h3Height * 1.5);
-				var openingHeight = openingHeight + h3Height;
-				$("div.bg.aria").height(openingHeight);
-				$("div.bg.aria").css({
-					"background-color":"var(--main-black)",
-					"grid-column":"1/ span 12",
-					"grid-row":"3/ span 1s",
-					"position":"relative",
-					"z-index":"-1",
-					"margin-top":-openingHeight
-				})
+			// $(window).on("resize",function(){
+			// 	var openingHeight = $("section.abstract.aria").height();
+			// 	var h3Height = $("section.abstract.aria h3").height();
+			// 	var h3Height = h3Height + (h3Height * 1.5);
+			// 	var openingHeight = openingHeight + h3Height;
+			// 	$("div.bg.aria").height(openingHeight);
+			// 	$("div.bg.aria").css({
+			// 		"background-color":"var(--main-black)",
+			// 		"grid-column":"1/ span 12",
+			// 		"grid-row":"3/ span 1s",
+			// 		"position":"relative",
+			// 		"z-index":"-1",
+			// 		"margin-top":-openingHeight
+			// 	})
 				
+			// })
+
+			$("nav").css({
+				"background-color":"transparent",
+				"box-shadow":"none"
+			});
+			$("nav ul li a").css("color", "var(--main-white)");
+			$("nav ul li a.active").css("color","var(--main-white)");
+			$("nav ul li a").on("click", function(){
+				$(this).css("color","var(--main-white");
+			});
+			$(window).scroll(function(){
+				if ($(window).scrollTop() < 308){
+					$("nav").css("background-color","transparent");
+				}else {
+					$("nav").css({
+						"background-color":"var(--main-black)",
+						"box-shadow":"0px 4px 2px var(--main-off-white);"
+					});
+				}
 			})
+
+
 
 			// script for scolling through images in walkthrough overview section
 
